@@ -1,0 +1,2276 @@
+meeting_id,t_s,frame_file,screen_type,ocr_text,gold_visible_keys
+MTG-0001,0.0,MTG-0001/f_00000.png,none,,
+MTG-0001,5.0,MTG-0001/f_00005.png,jira_ticket,"HMP-5441  Map view not loading store locations
+Status: BLOCKED  Assignee: Sarah Collins  Priority: Low
+HMP-S7",HMP-5441
+MTG-0001,10.0,MTG-0001/f_00010.png,jira_ticket,"HMP-5441  Map view not loading store locations
+Status: BLOCKED  Assignee: Sarah Collins  Priority: Low
+HMP-S7",HMP-5441
+MTG-0001,15.0,MTG-0001/f_00015.png,jira_ticket,"HMP-5479  Translate site into Spanish
+5tatus: IN PROGRESS  Assignee: Ritika Bansal  Priority: High
+HMP-S7",HMP-5479
+MTG-0001,20.0,MTG-0001/f_00020.png,jira_ticket,"HMP-5479  Translate site into Spanish
+Status: IN PROGRES5  Assignee: Ritika Bansal  Priority: High
+HMP-S7",HMP-5479
+MTG-0001,25.0,MTG-0001/f_00025.png,jira_ticket,"HMP-5479  Translate site into Spanish
+Status: IN PR0GRESS  Assignee: Ritika Bansal  Priority: High
+HMP-S7",HMP-5479
+MTG-0001,30.0,MTG-0001/f_00030.png,jira_ticket,"HMP-5479  Translate site into Spanish
+Status: IN PROGRESS  Assignee: Ritika Bansal  Priority: High
+HMP-S7",HMP-5479
+MTG-0001,35.0,MTG-0001/f_00035.png,jira_ticket,"HMP-5479  Translate site into Spanish
+Status: IN PROGRES5  Assignee: Ritika Bansal  Priority: High
+HMP-S7",HMP-5479
+MTG-0001,40.0,MTG-0001/f_00040.png,jira_ticket,"HMP-5475  Data sync job fails at midnight
+Status: IN REVIEW  Assignee: Unassigned  Priority: Medium
+HMP-S7",HMP-5475
+MTG-0001,45.0,MTG-0001/f_00045.png,jira_ticket,"HMP-5475  Data sync job fails at midnight
+Status: IN REVIEW  Assignee: Unassigned  Priority: Medium
+HMP-S7",HMP-5475
+MTG-0001,50.0,MTG-0001/f_00050.png,jira_ticket,"HMP-5475  Data sync job fails at midnight
+Status: IN REVIEW  Assignee: Unassigned  Priority: Medium
+HMP-S7",HMP-5475
+MTG-0001,55.0,MTG-0001/f_00055.png,none,,
+MTG-0002,0.0,MTG-0002/f_00000.png,none,,
+MTG-0002,5.0,MTG-0002/f_00005.png,jira_ticket,"HMP-5468  Migrate user table to new schema
+Status: QA  Assignee: Unassigned  Priority: Low
+HMP-S7",HMP-5468
+MTG-0002,10.0,MTG-0002/f_00010.png,jira_ticket,"HMP-400O  SSO login page times out after 30 seconds
+Status: BLOCKED  Assignee: Sarah Collins  Priority: High
+HMP-S7",HMP-4000
+MTG-0002,15.0,MTG-0002/f_00015.png,jira_ticket,"HMP-4000  SSO login page times out after 30 seconds
+Status: BLOCKED  Assignee: Sarah Collins  Priority: High
+HMP-S7",HMP-4000
+MTG-0002,20.0,MTG-0002/f_00020.png,jira_ticket,"HMP-400O  S5O login page times out after 30 seconds
+5tatus: BLOCKED  Assignee: Sarah Collins  Priority: High
+HMP-S7",HMP-4000
+MTG-0002,25.0,MTG-0002/f_00025.png,jira_ticket,"HMP-4000  SS0 login page times out after 30 seconds
+Status: BLOCKED  Assignee: Sarah Collins  Priority: High
+HMP-S7",HMP-4000
+MTG-0002,30.0,MTG-0002/f_00030.png,jira_ticket,"HMP-4000  SSO login page times out after 30 seconds
+Status: BLOCKED  Assignee: Sarah Co1lins  Priority: High
+HMP-S7",HMP-4000
+MTG-0002,35.0,MTG-0002/f_00035.png,jira_ticket,"HMP-4016  Trans1ate site into Spanish
+Status: IN REVIEW  Assignee: Vikram Singh  Priority: Medium
+HMP-S7",HMP-4016
+MTG-0002,40.0,MTG-0002/f_00040.png,jira_ticket,"HMP-4016  Translate site into Spanish
+Status: IN REVIEW  Assignee: Vikram Singh  Priority: Medium
+HMP-57",HMP-4016
+MTG-0002,45.0,MTG-0002/f_00045.png,jira_ticket,"HMP-4016  Translate site into Spanish
+Status: IN REVIEW  Assignee: Vikram Singh  Priority: Medium
+HMP-S7",HMP-4016
+MTG-0002,50.0,MTG-0002/f_00050.png,jira_ticket,"HMP-5475  Data sync job fai1s at midnight
+Status: IN REVIEW  Assignee: Unassigned  Priority: Medium
+HMP-S7",HMP-5475
+MTG-0002,55.0,MTG-0002/f_00055.png,jira_ticket,"HMP-5475  Data sync job fails at midnight
+Status: IN REVIEW  Assignee: Unassigned  Priority: Medium
+HMP-S7",HMP-5475
+MTG-0002,60.0,MTG-0002/f_00060.png,jira_ticket,"HMP-5475  Data sync job fails at midnight
+Status: IN REVIEW  Assignee: Unassigned  Priority: Medium
+HMP-S7",HMP-5475
+MTG-0002,65.0,MTG-0002/f_00065.png,jira_ticket,"HMP-4016  Translate site into Spanish
+Status: IN REVIEW  Assignee: Vikram Singh  Priority: Medium
+HMP-S7",HMP-4016
+MTG-0002,70.0,MTG-0002/f_00070.png,jira_ticket,"HMP-4O16  Translate site into Spanish
+Status: IN REVIEW  Assignee: Vikram Singh  Priority: Medium
+HMP-S7",HMP-4016
+MTG-0002,75.0,MTG-0002/f_00075.png,jira_ticket,"HMP-4016  Translate site into Spanish
+Status: IN REVIEW  Assignee: Vikram Singh  Priority: Medium
+HMP-S7",HMP-4016
+MTG-0003,0.0,MTG-0003/f_00000.png,none,,
+MTG-0003,5.0,MTG-0003/f_00005.png,jira_ticket,"DWMG-1252  Content model for exhibition pages
+Status: QA  Assignee: Daniel Brooks  Priority: High
+DWMG-S7",DWMG-1252
+MTG-0003,10.0,MTG-0003/f_00010.png,jira_ticket,"DWMG-1252  Content model for exhibition pages
+Status: QA  Assignee: Daniel Brooks  Priority: High
+DWMG-S7",DWMG-1252
+MTG-0003,15.0,MTG-0003/f_00015.png,jira_ticket,"DWMG-1252  Content model for exhibition pages
+Status: QA  Assignee: Daniel Brooks  Priority: High
+DWMG-S7",DWMG-1252
+MTG-0003,20.0,MTG-0003/f_00020.png,jira_ticket,"DWMG-1281  Chatbot gives wrong opening hours
+Status: IN REVIEW  Assignee: Manish Yadav  Priority: Highest
+DWMG-S7",DWMG-1281
+MTG-0003,25.0,MTG-0003/f_00025.png,jira_ticket,"DWMG-1281  Chatbot gives wrong opening hours
+Status: IN REVIEW  Assignee: Manish Yadav  Priority: Highest
+DWMG-S7",DWMG-1281
+MTG-0003,30.0,MTG-0003/f_00030.png,jira_ticket,"DWMG-1281  Chatbot gives wrong opening hours
+Status: IN REVIEW  Assignee: Manish Yadav  Priority: Highest
+DWMG-S7",DWMG-1281
+MTG-0003,35.0,MTG-0003/f_00035.png,jira_ticket,"DWMG-1239  Product filters reset on back button
+Status: IN PROGRESS  Assignee: Neha Gupta  Priority: Medium
+DWMG-S7",DWMG-1239
+MTG-0003,40.0,MTG-0003/f_00040.png,jira_ticket,"DWMG-1239  Product filters reset on back button
+Status: IN PR0GRESS  Assignee: Neha Gupta  Priority: Medium
+DWMG-S7",DWMG-1239
+MTG-0003,45.0,MTG-0003/f_00045.png,jira_ticket,"DWMG-1239  Product filters reset on back button
+Status: IN PROGRESS  Assignee: Neha Gupta  Priority: Medium
+DWMG-S7",DWMG-1239
+MTG-0003,50.0,MTG-0003/f_00050.png,jira_ticket,"DWMG-1239  Product filters reset on back button
+Status: IN PROGRESS  Assignee: Neha Gupta  Priority: Medium
+DWMG-S7",DWMG-1239
+MTG-0003,55.0,MTG-0003/f_00055.png,jira_ticket,"DWMG-1239  Product filters reset on back button
+Status: IN PROGRESS  Assignee: Neha Gupta  Priority: Medium
+DWMG-S7",DWMG-1239
+MTG-0003,60.0,MTG-0003/f_00060.png,jira_board,"DWMG board | TO DO   IN PROGRESS   IN REVIEW   DONE
+DWMG-1252 Content model for exhibition
+DWMG-1281 Chatbot gives wrong opening 
+DWMG-1239 Product fi1ters reset on bac
+DWMG-1280 Content model for exhibition
+DWMG-130B Performance test for 10k con
+DWMG-1268 Two-factor authentication fo
+DWMG-1292 Refund workflow approval ste
+DWMG-1289 Event calendar timezone bug",DWMG-1252;DWMG-1281;DWMG-1239;DWMG-1280;DWMG-1308;DWMG-1268;DWMG-1292;DWMG-1289
+MTG-0003,65.0,MTG-0003/f_00065.png,jira_board,"DWMG board | TO DO   IN PROGRESS   IN REVIEW   DONE
+DWMG-1252 Content model for exhibition
+DWMG-1281 Chatbot gives wrong opening 
+DWMG-1239 Product filters reset on bac
+DWMG-1280 Content model for exhibition
+DWMG-1308 Performance test for 10k con
+DWMG-1268 Two-factor authentication fo
+DWMG-1292 Refund workflow approval ste
+DWMG-1289 Event calendar timezone bug",DWMG-1252;DWMG-1281;DWMG-1239;DWMG-1280;DWMG-1308;DWMG-1268;DWMG-1292;DWMG-1289
+MTG-0003,70.0,MTG-0003/f_00070.png,none,,
+MTG-0004,0.0,MTG-0004/f_00000.png,none,,
+MTG-0004,5.0,MTG-0004/f_00005.png,jira_ticket,"DWMG-1280  Content model for exhibition pages
+Status: IN REVIEW  Assignee: Hannah Price  Priority: Low
+DWMG-S7",DWMG-1280
+MTG-0004,10.0,MTG-0004/f_00010.png,jira_ticket,"DWMG-1280  Content model for exhibition pages
+Status: IN REVIEW  Assignee: Hannah Price  Priority: Low
+DWMG-S7",DWMG-1280
+MTG-0004,15.0,MTG-0004/f_00015.png,jira_ticket,"DWMG-1280  Content model for exhibition pages
+Status: IN REVIEW  Assignee: Hannah Price  Priority: Low
+DWMG-S7",DWMG-1280
+MTG-0004,20.0,MTG-0004/f_00020.png,jira_ticket,"DWMG-12B0  Content model for exhibition pages
+Status: IN REVIEW  Assignee: Hannah Price  Priority: Low
+DWMG-S7",DWMG-1280
+MTG-0004,25.0,MTG-0004/f_00025.png,jira_ticket,"DWMG-1280  Content model for exhibition pages
+Status: IN REVIEW  Assignee: Hannah Price  Priority: Low
+DWMG-S7",DWMG-1280
+MTG-0004,30.0,MTG-0004/f_00030.png,jira_ticket,"DWMG-1311  Data sync job fai1s at midnight
+Status: IN PROGRESS  Assignee: Unassigned  Priority: High
+DWMG-S7",DWMG-1311
+MTG-0004,35.0,MTG-0004/f_00035.png,jira_ticket,"DWMG-1308  Performance test for 10k concurrent users
+Status: QA  Assignee: Hannah Price  Priority: Low
+DWMG-S7",DWMG-1308
+MTG-0004,40.0,MTG-0004/f_00040.png,jira_ticket,"DWMG-1308  Performance test for 10k concurrent users
+Status: QA  Assignee: Hannah Price  Priority: Low
+DWMG-S7",DWMG-1308
+MTG-0004,45.0,MTG-0004/f_00045.png,none,,
+MTG-0005,0.0,MTG-0005/f_00000.png,none,,
+MTG-0005,5.0,MTG-0005/f_00005.png,jira_ticket,"BKEE-1O88  Upgrade Node runtime to v22
+Status: TO DO  Assignee: Neha Gupta  Priority: Medium
+BKEE-57",BKEE-1088
+MTG-0005,10.0,MTG-0005/f_00010.png,jira_ticket,"BKEE-1088  Upgrade Node runtime to v22
+Status: TO DO  Assignee: Neha Gupta  Priority: Medium
+BKEE-S7",BKEE-1088
+MTG-0005,15.0,MTG-0005/f_00015.png,jira_ticket,"BKEE-1088  Upgrade Node runtime to v22
+Status: TO DO  Assignee: Neha Gupta  Priority: Medium
+BKEE-S7",BKEE-1088
+MTG-0005,20.0,MTG-0005/f_00020.png,jira_ticket,"BKEE-1099  Admin role permissions not saving
+Status: TO DO  Assignee: Neha Gupta  Priority: High
+BKEE-S8",BKEE-1099
+MTG-0005,25.0,MTG-0005/f_00025.png,jira_ticket,"BKEE-1099  Admin role permissions not saving
+Status: TO DO  Assignee: Neha Gupta  Priority: High
+BKEE-SB",BKEE-1099
+MTG-0005,30.0,MTG-0005/f_00030.png,jira_ticket,"BKEE-1099  Admin role permissions not saving
+Status: T0 DO  Assignee: Neha Gupta  Priority: High
+BKEE-S8",BKEE-1099
+MTG-0005,35.0,MTG-0005/f_00035.png,jira_ticket,"BKEE-1105  Cookie consent banner overlaps footer
+Status: TO DO  Assignee: Jake Thompson  Priority: Lowest
+BKEE-57",BKEE-1105
+MTG-0005,40.0,MTG-0005/f_00040.png,jira_ticket,"BKEE-1105  Cookie consent banner overlaps footer
+Status: TO DO  Assignee: Jake Thompson  Priority: Lowest
+BKEE-S7",BKEE-1105
+MTG-0005,45.0,MTG-0005/f_00045.png,jira_ticket,"BKEE-1105  Cookie consent banner overlaps footer
+Status: TO DO  Assignee: Jake Thompson  Priority: Lowest
+BKEE-S7",BKEE-1105
+MTG-0005,50.0,MTG-0005/f_00050.png,none,,
+MTG-0006,0.0,MTG-0006/f_00000.png,none,,
+MTG-0006,5.0,MTG-0006/f_00005.png,jira_board,"BKEE board | TO DO   IN PROGRESS   IN REVIEW   DONE
+BKEE-1093 Admin role permissions not s
+BKEE-1088 Upgrade Node runtime to v22
+BKEE-1085 Email template branding upda
+BKEE-1087 Map view not loading store l
+BKEE-1086 Duplicate records in donor i
+BKEE-1101 Checkout page crashes when c
+BKEE-1099 Admin role permissions not s
+BKEE-11O5 Cookie consent banner overla",BKEE-1093;BKEE-1088;BKEE-1085;BKEE-1087;BKEE-1086;BKEE-1101;BKEE-1099;BKEE-1105
+MTG-0006,10.0,MTG-0006/f_00010.png,jira_board,"BKEE board | TO DO   IN PROGRESS   IN REVIEW   DONE
+BKEE-1093 Admin role permissions not s
+BKEE-10B8 Upgrade Node runtime to v22
+BKEE-1085 Email template branding upda
+BKEE-1087 Map view not loading store l
+BKEE-1086 Duplicate records in donor i
+BKEE-1101 Checkout page crashes when c
+BKEE-1099 Admin role permissions not s
+BKEE-1105 Cookie consent banner overla",BKEE-1093;BKEE-1088;BKEE-1085;BKEE-1087;BKEE-1086;BKEE-1101;BKEE-1099;BKEE-1105
+MTG-0006,15.0,MTG-0006/f_00015.png,jira_board,"BKEE board | TO DO   IN PROGRESS   IN REVIEW   DONE
+BKEE-1093 Admin role permissions not s
+BKEE-1088 Upgrade Node runtime to v22
+BKEE-1085 Email template branding upda
+BKEE-1087 Map view not loading store l
+BKEE-1086 Duplicate records in donor i
+BKEE-1101 Checkout page crashes when c
+BKEE-1099 Admin role permissions not s
+BKEE-1105 Cookie consent banner overla",BKEE-1093;BKEE-1088;BKEE-1085;BKEE-1087;BKEE-1086;BKEE-1101;BKEE-1099;BKEE-1105
+MTG-0006,20.0,MTG-0006/f_00020.png,jira_ticket,"BKEE-1105  Cookie consent banner overlaps footer
+Status: TO DO  Assignee: Jake Thompson  Priority: Lowest
+BKEE-S7",BKEE-1105
+MTG-0006,25.0,MTG-0006/f_00025.png,jira_ticket,"BKEE-11O5  Cookie consent banner overlaps footer
+Status: TO DO  Assignee: Jake Thompson  Priority: Lowest
+BKEE-S7",BKEE-1105
+MTG-0006,30.0,MTG-0006/f_00030.png,jira_ticket,"BKEE-1105  Cookie consent banner overlaps footer
+Status: TO DO  Assignee: Jake Thompson  Priority: Lowest
+BKEE-S7",BKEE-1105
+MTG-0006,35.0,MTG-0006/f_00035.png,jira_ticket,"BKEE-1105  Cookie consent banner overlaps footer
+Status: TO DO  Assignee: Jake Thompson  Priority: Lowest
+BKEE-S7",BKEE-1105
+MTG-0006,40.0,MTG-0006/f_00040.png,jira_ticket,"BKEE-1105  Cookie consent banner overlaps footer
+Status: TO DO  Assignee: Jake Thompson  Priority: Lowest
+BKEE-S7",BKEE-1105
+MTG-0006,45.0,MTG-0006/f_00045.png,jira_ticket,"BKEE-1085  Email template branding update
+Status: QA  Assignee: Neha Gupta  Priority: Medium
+BKEE-S8",BKEE-1085
+MTG-0006,50.0,MTG-0006/f_00050.png,jira_ticket,"BKEE-1085  Emai1 template branding update
+Status: QA  Assignee: Neha Gupta  Priority: Medium
+BKEE-S8",BKEE-1085
+MTG-0006,55.0,MTG-0006/f_00055.png,none,,
+MTG-0007,0.0,MTG-0007/f_00000.png,none,,
+MTG-0007,5.0,MTG-0007/f_00005.png,jira_board,"PTPC board | TO DO   IN PROGRESS   IN REVIEW   DONE
+PTPC-240 Password reset link expires 
+PTPC-244 Session expires during long 
+PTPC-224 Duplicate records in donor i
+PTPC-258 Map view not loading store l
+PTPC-253 Checkout page crashes when c
+PTPC-252 Password reset link expires 
+PTPC-241 Password reset link expires 
+PTPC-247 Performance test for 10k con",PTPC-240;PTPC-244;PTPC-224;PTPC-258;PTPC-253;PTPC-252;PTPC-241;PTPC-247
+MTG-0007,10.0,MTG-0007/f_00010.png,jira_board,"PTPC board | TO DO   IN PROGRESS   IN REVIEW   DONE
+PTPC-240 Password reset link expires 
+PTPC-244 Session expires during long 
+PTPC-224 Duplicate records in donor i
+PTPC-258 Map view not loading store l
+PTPC-253 Checkout page crashes when c
+PTPC-252 Password reset link expires 
+PTPC-241 Password reset link expires 
+PTPC-247 Performance test for 1Ok con",PTPC-240;PTPC-244;PTPC-224;PTPC-258;PTPC-253;PTPC-252;PTPC-241;PTPC-247
+MTG-0007,15.0,MTG-0007/f_00015.png,jira_board,"PTPC board | TO DO   IN PROGRESS   IN REVIEW   DONE
+PTPC-240 Password reset link expires 
+PTPC-244 Session expires during long 
+PTPC-224 Duplicate records in donor i
+PTPC-258 Map view not loading store l
+PTPC-253 Checkout page crashes when c
+PTPC-252 Password reset link expires 
+PTPC-24l Password reset link expires 
+PTPC-247 Performance test for 10k con",PTPC-240;PTPC-244;PTPC-224;PTPC-258;PTPC-253;PTPC-252;PTPC-241;PTPC-247
+MTG-0007,20.0,MTG-0007/f_00020.png,jira_ticket,"PTPC-240  Password reset link expires too early
+Status: QA  Assignee: Divya Menon  Priority: Low
+PTPC-S10",PTPC-240
+MTG-0007,25.0,MTG-0007/f_00025.png,jira_ticket,"PTPC-24O  Password reset link expires too early
+Status: QA  Assignee: Divya Menon  Priority: Low
+PTPC-S10",PTPC-240
+MTG-0007,30.0,MTG-0007/f_00030.png,jira_ticket,"PTPC-240  Password reset link expires too early
+Status: QA  Assignee: Divya Menon  Priority: Low
+PTPC-S10",PTPC-240
+MTG-0007,35.0,MTG-0007/f_00035.png,jira_ticket,"PTPC-244  Session expires during long forms
+Status: QA  Assignee: Laura Mitchel1  Priority: Medium
+PTPC-S10",PTPC-244
+MTG-0007,40.0,MTG-0007/f_00040.png,jira_ticket,"PTPC-244  Session expires during long forms
+Status: QA  Assignee: Laura Mitchell  Priority: Medium
+PTPC-S1O",PTPC-244
+MTG-0007,45.0,MTG-0007/f_00045.png,jira_ticket,"PTPC-258  Map view not loading store locations
+Status: IN PROGRESS  Assignee: Varun Chopra  Priority: Low
+PTPC-S10",PTPC-258
+MTG-0007,50.0,MTG-0007/f_00050.png,jira_ticket,"PTPC-258  Map view not loading store 1ocations
+Status: IN PROGRESS  Assignee: Varun Chopra  Priority: Low
+PTPC-Sl0",PTPC-258
+MTG-0007,55.0,MTG-0007/f_00055.png,jira_ticket,"PTPC-258  Map view not loading store locations
+Status: IN PROGRESS  Assignee: Varun Chopra  Priority: Low
+PTPC-510",PTPC-258
+MTG-0007,60.0,MTG-0007/f_00060.png,jira_ticket,"PTPC-2S8  Map view not loading store locations
+Status: IN PROGRESS  Assignee: Varun Chopra  Priority: Low
+PTPC-510",PTPC-258
+MTG-0007,65.0,MTG-0007/f_00065.png,jira_ticket,"PTPC-258  Map view not loading store locations
+Status: IN PROGRESS  Assignee: Varun Chopra  Priority: Low
+PTPC-S10",PTPC-258
+MTG-0007,70.0,MTG-0007/f_00070.png,jira_ticket,"PTPC-252  Password reset link expires too early
+Status: IN PROGRE5S  Assignee: Laura Mitchell  Priority: Medium
+PTPC-S9",PTPC-252
+MTG-0007,75.0,MTG-0007/f_00075.png,jira_ticket,"PTPC-252  Password reset link expires too early
+Status: IN PROGRESS  Assignee: Laura Mitchell  Priority: Medium
+PTPC-S9",PTPC-252
+MTG-0007,80.0,MTG-0007/f_00080.png,jira_ticket,"PTPC-252  Password reset link expires too early
+Status: IN PROGRESS  Assignee: Laura Mitchell  Priority: Medium
+PTPC-S9",PTPC-252
+MTG-0007,85.0,MTG-0007/f_00085.png,jira_ticket,"PTPC-252  Password reset link expires too early
+Status: IN PROGRESS  Assignee: Laura Mitchell  Priority: Medium
+PTPC-S9",PTPC-252
+MTG-0007,90.0,MTG-0007/f_00090.png,jira_board,"PTPC board | TO DO   IN PROGRESS   IN REVIEW   DONE
+PTPC-240 Password reset link expires 
+PTPC-244 Session expires during long 
+PTPC-224 Duplicate records in donor i
+PTPC-258 Map view not loading store l
+PTPC-253 Checkout page crashes when c
+PTPC-252 Password reset link expires 
+PTPC-241 Password reset link expires 
+PTPC-247 Performance test for 10k con",PTPC-240;PTPC-244;PTPC-224;PTPC-258;PTPC-253;PTPC-252;PTPC-241;PTPC-247
+MTG-0007,95.0,MTG-0007/f_00095.png,jira_board,"PTPC board | TO D0   IN PROGRESS   IN REVIEW   DONE
+PTPC-240 Password reset link expires 
+PTPC-244 Session expires during long 
+PTPC-224 Duplicate records in donor i
+PTPC-258 Map view not loading store l
+PTPC-253 Checkout page crashes when c
+PTPC-252 Password reset link expires 
+PTPC-241 Password reset link expires 
+PTPC-247 Performance test for 10k con",PTPC-240;PTPC-244;PTPC-224;PTPC-258;PTPC-253;PTPC-252;PTPC-241;PTPC-247
+MTG-0007,100.0,MTG-0007/f_00100.png,jira_board,"PTPC board | TO DO   IN PROGRESS   IN REVIEW   DONE
+PTPC-240 Password reset link expires 
+PTPC-244 Session expires during long 
+PTPC-224 Duplicate records in donor i
+PTPC-25B Map view not loading store l
+PTPC-253 Checkout page crashes when c
+PTPC-252 Password reset link expires 
+PTPC-241 Password reset link expires 
+PTPC-247 Performance test for 10k con",PTPC-240;PTPC-244;PTPC-224;PTPC-258;PTPC-253;PTPC-252;PTPC-241;PTPC-247
+MTG-0007,105.0,MTG-0007/f_00105.png,none,,
+MTG-0008,0.0,MTG-0008/f_00000.png,none,,
+MTG-0008,5.0,MTG-0008/f_00005.png,jira_ticket,"PTPC-244  Session expires during long forms
+Status: QA  Assignee: Laura Mitchell  Priority: Medium
+PTPC-S10",PTPC-244
+MTG-0008,10.0,MTG-0008/f_00010.png,jira_ticket,"PTPC-244  Session expires during long forms
+Status: QA  Assignee: Laura Mitchell  Priority: Medium
+PTPC-S10",PTPC-244
+MTG-0008,15.0,MTG-0008/f_00015.png,jira_board,"PTPC board | TO DO   IN PROGRESS   IN REVIEW   DONE
+PTPC-253 Checkout page crashes when c
+PTPC-238 Ticket booking double-charge
+PTPC-244 Session expires during long 
+PTPC-224 Duplicate records in donor i
+PTPC-241 Password reset link expires 
+PTPC-240 Password reset link expires 
+PTPC-247 Performance test for 10k con
+PTPC-248 Set up CI pipeline for stagi",PTPC-253;PTPC-238;PTPC-244;PTPC-224;PTPC-241;PTPC-240;PTPC-247;PTPC-248
+MTG-0008,20.0,MTG-0008/f_00020.png,jira_board,"PTPC board | TO DO   IN PROGRESS   IN REVIEW   DONE
+PTPC-253 Checkout page crashes when c
+PTPC-238 Ticket booking double-charge
+PTPC-244 Session expires during long 
+PTPC-224 Duplicate records in donor i
+PTPC-24l Password reset link expires 
+PTPC-240 Password reset link expires 
+PTPC-247 Performance test for 10k con
+PTPC-248 Set up CI pipeline for stagi",PTPC-253;PTPC-238;PTPC-244;PTPC-224;PTPC-241;PTPC-240;PTPC-247;PTPC-248
+MTG-0008,25.0,MTG-0008/f_00025.png,jira_ticket,"PTPC-238  Ticket booking double-charges customers
+Status: IN REVIEW  Assignee: Divya Menon  Priority: Medium
+PTPC-S10",PTPC-238
+MTG-0008,30.0,MTG-0008/f_00030.png,jira_ticket,"PTPC-238  Ticket booking double-charges customers
+Status: IN REVIEW  Assignee: Divya Menon  Priority: Medium
+PTPC-S10",PTPC-238
+MTG-0008,35.0,MTG-0008/f_00035.png,jira_ticket,"PTPC-23B  Ticket booking double-charges customers
+Status: IN REVIEW  Assignee: Divya Menon  Priority: Medium
+PTPC-51O",PTPC-238
+MTG-0008,40.0,MTG-0008/f_00040.png,jira_ticket,"PTPC-238  Ticket booking double-charges customers
+Status: IN REVIEW  Assignee: Divya Menon  Priority: Medium
+PTPC-S10",PTPC-238
+MTG-0008,45.0,MTG-0008/f_00045.png,jira_ticket,"PTPC-238  Ticket booking double-charges customers
+Status: IN REVIEW  Assignee: Divya Menon  Priority: Medium
+PTPC-S10",PTPC-238
+MTG-0009,0.0,MTG-0009/f_00000.png,none,,
+MTG-0009,5.0,MTG-0009/f_00005.png,jira_ticket,"DCIC-1527  Checkout page crashes when coupon applied
+Status: IN REVIEW  Assignee: Tom Fletcher  Priority: High
+DCIC-S7",DCIC-1527
+MTG-0009,10.0,MTG-0009/f_00010.png,jira_ticket,"DCIC-1S27  Checkout page crashes when coupon applied
+Status: IN REVIEW  Assignee: Tom Fletcher  Priority: High
+DCIC-S7",DCIC-1527
+MTG-0009,15.0,MTG-0009/f_00015.png,jira_ticket,"DCIC-1527  Checkout page crashes when coupon applied
+Status: IN REVIEW  Assignee: Tom Fletcher  Priority: High
+DCIC-S7",DCIC-1527
+MTG-0009,20.0,MTG-0009/f_00020.png,jira_ticket,"DCIC-1530  Content model for exhibition pages
+Status: IN PROGRESS  Assignee: Siddharth Jain  Priority: Medium
+DCIC-S7",DCIC-1530
+MTG-0009,25.0,MTG-0009/f_00025.png,jira_ticket,"DCIC-1530  Content model for exhibition pages
+Status: IN PROGRESS  Assignee: Siddharth Jain  Priority: Medium
+DCIC-S7",DCIC-1530
+MTG-0009,30.0,MTG-0009/f_00030.png,jira_ticket,"DCIC-1530  Content model for exhibition pages
+Status: IN PROGRESS  Assignee: Siddharth Jain  Priority: Medium
+DCIC-S7",DCIC-1530
+MTG-0009,35.0,MTG-0009/f_00035.png,jira_ticket,"DCIC-l530  Content model for exhibition pages
+Status: IN PROGRESS  Assignee: Siddharth Jain  Priority: Medium
+DCIC-S7",DCIC-1530
+MTG-0009,40.0,MTG-0009/f_00040.png,jira_ticket,"DCIC-1530  Content model for exhibition pages
+Status: IN PROGRESS  Assignee: Siddharth Jain  Priority: Medium
+DCIC-S7",DCIC-1530
+MTG-0009,45.0,MTG-0009/f_00045.png,jira_ticket,"DCIC-1530  Content model for exhibition pages
+Status: IN PROGRESS  Assignee: Siddharth Jain  Priority: Medium
+DCIC-S7",DCIC-1530
+MTG-0009,50.0,MTG-0009/f_00050.png,none,,
+MTG-0010,0.0,MTG-0010/f_00000.png,none,,
+MTG-0010,5.0,MTG-0010/f_00005.png,jira_ticket,"DCIC-1537  Search results page slow on mobile
+Status: IN PROGRESS  Assignee: Rohan Mehta  Priority: Low
+DCIC-S7",DCIC-1537
+MTG-0010,10.0,MTG-0010/f_00010.png,jira_ticket,"DCIC-1537  Search results page slow on mobile
+Status: IN PROGRESS  Assignee: Rohan Mehta  Priority: Low
+DCIC-S7",DCIC-1537
+MTG-0010,15.0,MTG-0010/f_00015.png,jira_ticket,"DCIC-1537  Search results page slow on mobile
+Status: IN PROGRESS  Assignee: Rohan Mehta  Priority: Low
+DCIC-S7",DCIC-1537
+MTG-0010,20.0,MTG-0010/f_00020.png,jira_ticket,"DCIC-1537  Search results page slow on mobile
+Status: IN PROGRESS  Assignee: Rohan Mehta  Priority: Low
+DCIC-S7",DCIC-1537
+MTG-0010,25.0,MTG-0010/f_00025.png,jira_ticket,"DCIC-1527  Checkout page crashes when coupon applied
+Status: IN REVIEW  Assignee: Tom Fletcher  Priority: High
+DCIC-S7",DCIC-1527
+MTG-0010,30.0,MTG-0010/f_00030.png,jira_ticket,"DCIC-1527  Checkout page crashes when coupon applied
+Status: IN REVIEW  Assignee: Tom Fletcher  Priority: High
+DCIC-S7",DCIC-1527
+MTG-0010,35.0,MTG-0010/f_00035.png,jira_ticket,"DCIC-1527  Checkout page crashes when coupon applied
+Status: IN REVIEW  Assignee: Tom Fletcher  Priority: High
+DCIC-S7",DCIC-1527
+MTG-0010,40.0,MTG-0010/f_00040.png,jira_ticket,"DCIC-1538  Image upload fai1s above 5 MB
+Status: DONE  Assignee: Rohan Mehta  Priority: Medium
+DCIC-S6",DCIC-1538
+MTG-0010,45.0,MTG-0010/f_00045.png,jira_ticket,"DCIC-1538  Image upload fails above 5 MB
+Status: DONE  Assignee: Rohan Mehta  Priority: Medium
+DCIC-S6",DCIC-1538
+MTG-0010,50.0,MTG-0010/f_00050.png,jira_ticket,"DCIC-1538  Image upload fails above 5 MB
+Status: D0NE  Assignee: Rohan Mehta  Priority: Medium
+DCIC-S6",DCIC-1538
+MTG-0010,55.0,MTG-0010/f_00055.png,jira_ticket,"DCIC-151l  API rate limiting for partner endpoints
+Status: QA  Assignee: Siddharth Jain  Priority: Low
+DCIC-S7",DCIC-1511
+MTG-0010,60.0,MTG-0010/f_00060.png,jira_ticket,"DCIC-l540  Migrate user tab1e to new schema
+Status: IN PROGRESS  Assignee: Daniel Brooks  Priority: Low
+DCIC-S7",DCIC-1540
+MTG-0010,65.0,MTG-0010/f_00065.png,jira_ticket,"DCIC-1540  Migrate user table to new schema
+Status: IN PROGRESS  Assignee: Daniel Brooks  Priority: Low
+DCIC-S7",DCIC-1540
+MTG-0010,70.0,MTG-0010/f_00070.png,jira_ticket,"DCIC-1529  Cookie consent banner overlaps footer
+Status: IN PROGRESS  Assignee: Daniel Brooks  Priority: Low
+DCIC-S7",DCIC-1529
+MTG-0010,75.0,MTG-0010/f_00075.png,jira_ticket,"DCIC-1529  Cookie consent banner overlaps footer
+Status: IN PR0GRE5S  Assignee: Daniel Brooks  Priority: Low
+DCIC-57",DCIC-1529
+MTG-0010,80.0,MTG-0010/f_00080.png,jira_ticket,"DCIC-1529  Cookie consent banner overlaps footer
+Status: IN PROGRESS  Assignee: Daniel Brooks  Priority: Low
+DCIC-S7",DCIC-1529
+MTG-0010,85.0,MTG-0010/f_00085.png,jira_ticket,"DCIC-1529  Cookie consent banner overlaps footer
+Status: IN PROGRESS  Assignee: Daniel Brooks  Priority: Low
+DCIC-S7",DCIC-1529
+MTG-0010,90.0,MTG-0010/f_00090.png,jira_ticket,"DCIC-1529  Cookie consent banner overlaps footer
+Status: IN PROGRESS  Assignee: Daniel Brooks  Priority: Low
+DCIC-S7",DCIC-1529
+MTG-0010,95.0,MTG-0010/f_00095.png,jira_ticket,"DCIC-1529  Cookie consent banner overlaps footer
+Status: IN PR0GRESS  Assignee: Daniel Brooks  Priority: Low
+DCIC-S7",DCIC-1529
+MTG-0010,100.0,MTG-0010/f_00100.png,jira_ticket,"DCIC-1529  Cookie consent banner overlaps footer
+Status: IN PROGRESS  Assignee: Daniel Brooks  Priority: Low
+DCIC-S7",DCIC-1529
+MTG-0010,105.0,MTG-0010/f_00105.png,none,,
+MTG-0011,0.0,MTG-0011/f_00000.png,none,,
+MTG-0011,5.0,MTG-0011/f_00005.png,jira_ticket,"LRNC-1195  Refund workflow approval step
+Status: IN REVIEW  Assignee: Emily Carter  Priority: Medium
+LRNC-53",LRNC-1195
+MTG-0011,10.0,MTG-0011/f_00010.png,jira_ticket,"LRNC-1195  Refund workflow approval step
+Status: IN REVIEW  Assignee: Emily Carter  Priority: Medium
+LRNC-S3",LRNC-1195
+MTG-0011,15.0,MTG-0011/f_00015.png,jira_ticket,"LRNC-1195  Refund workflow approval step
+Status: IN REVIEW  Assignee: Emily Carter  Priority: Medium
+LRNC-S3",LRNC-1195
+MTG-0011,20.0,MTG-0011/f_00020.png,jira_ticket,"LRNC-1206  Two-factor authentication for admins
+Status: BLOCKED  Assignee: Hannah Price  Priority: Medium
+LRNC-S3",LRNC-1206
+MTG-0011,25.0,MTG-0011/f_00025.png,jira_ticket,"LRNC-1206  Two-factor authentication for admins
+Status: BLOCKED  Assignee: Hannah Price  Priority: Medium
+LRNC-S3",LRNC-1206
+MTG-0011,30.0,MTG-0011/f_00030.png,jira_ticket,"LRNC-1206  Two-factor authentication for admins
+Status: BLOCKED  Assignee: Hannah Price  Priority: Medium
+LRNC-S3",LRNC-1206
+MTG-0011,35.0,MTG-0011/f_00035.png,jira_ticket,"LRNC-1195  Refund workf1ow approval step
+5tatus: IN REVIEW  Assignee: Emily Carter  Priority: Medium
+LRNC-S3",LRNC-1195
+MTG-0011,40.0,MTG-0011/f_00040.png,jira_ticket,"LRNC-1195  Refund workflow approval step
+Status: IN REVIEW  Assignee: Emily Carter  Priority: Medium
+LRNC-S3",LRNC-1195
+MTG-0011,45.0,MTG-0011/f_00045.png,jira_ticket,"LRNC-1195  Refund workflow approval step
+Status: IN REVIEW  Assignee: Emily Carter  Priority: Medium
+LRNC-S3",LRNC-1195
+MTG-0011,50.0,MTG-0011/f_00050.png,jira_ticket,"LRNC-1195  Refund workflow approval step
+5tatus: IN REVIEW  Assignee: Emily Carter  Priority: Medium
+LRNC-S3",LRNC-1195
+MTG-0012,0.0,MTG-0012/f_00000.png,none,,
+MTG-0012,5.0,MTG-0012/f_00005.png,jira_ticket,"LRNC-1260  Password reset link expires too ear1y
+Status: IN PROGRESS  Assignee: Aman Khanna  Priority: Highest
+LRNC-S3",LRNC-1260
+MTG-0012,10.0,MTG-0012/f_00010.png,jira_ticket,"LRNC-1260  Password reset link expires too early
+Status: IN PROGRESS  Assignee: Aman Khanna  Priority: Highest
+LRNC-S3",LRNC-1260
+MTG-0012,15.0,MTG-0012/f_00015.png,jira_ticket,"LRNC-1206  Two-factor authentication for admins
+5tatus: BLOCKED  Assignee: Hannah Price  Priority: Medium
+LRNC-S3",LRNC-1206
+MTG-0012,20.0,MTG-0012/f_00020.png,jira_ticket,"LRNC-1206  Two-factor authentication for admins
+Status: BLOCKED  Assignee: Hannah Price  Priority: Medium
+LRNC-S3",LRNC-1206
+MTG-0012,25.0,MTG-0012/f_00025.png,jira_ticket,"LRNC-1206  Two-factor authentication for admins
+Status: BLOCKED  Assignee: Hannah Price  Priority: Medium
+LRNC-53",LRNC-1206
+MTG-0012,30.0,MTG-0012/f_00030.png,jira_ticket,"LRNC-1206  Two-factor authentication for admins
+Status: BLOCKED  Assignee: Hannah Price  Priority: Medium
+LRNC-S3",LRNC-1206
+MTG-0012,35.0,MTG-0012/f_00035.png,jira_ticket,"LRNC-1206  Two-factor authentication for admins
+Status: BL0CKED  Assignee: Hannah Price  Priority: Medium
+LRNC-S3",LRNC-1206
+MTG-0012,40.0,MTG-0012/f_00040.png,jira_ticket,"LRNC-1206  Two-factor authentication for admins
+Status: BLOCKED  Assignee: Hannah Price  Priority: Medium
+LRNC-S3",LRNC-1206
+MTG-0012,45.0,MTG-0012/f_00045.png,jira_ticket,"LRNC-1189  Image upload fails above 5 MB
+Status: QA  Assignee: Pooja Reddy  Priority: Medium
+LRNC-S3",LRNC-1189
+MTG-0012,50.0,MTG-0012/f_00050.png,jira_ticket,"LRNC-1189  Image upload fails above 5 MB
+Status: QA  Assignee: Pooja Reddy  Priority: Medium
+LRNC-S3",LRNC-1189
+MTG-0012,55.0,MTG-0012/f_00055.png,jira_ticket,"LRNC-1189  Image upload fails above 5 MB
+Status: QA  Assignee: Pooja Reddy  Priority: Medium
+LRNC-S3",LRNC-1189
+MTG-0013,0.0,MTG-0013/f_00000.png,none,,
+MTG-0013,5.0,MTG-0013/f_00005.png,jira_board,"DCID board | TO DO   IN PROGRES5   IN REVIEW   DONE
+DCID-2440 Checkout page crashes when c
+DCID-2438 Translate site into Spanish
+DCID-2451 Push notifications not deliv
+DCID-2413 Add CSV export to admin repo
+DCID-2450 Cookie consent banner overla
+DCID-2426 Map view not loading store l
+DCID-2422 API rate limiting for partne
+DCID-2439 Migrate user table to new sc",DCID-2440;DCID-2438;DCID-2451;DCID-2413;DCID-2450;DCID-2426;DCID-2422;DCID-2439
+MTG-0013,10.0,MTG-0013/f_00010.png,jira_board,"DCID board | TO DO   IN PROGRESS   IN REVIEW   DONE
+DCID-2440 Checkout page crashes when c
+DCID-2438 Translate site into Spanish
+DCID-2451 Push notifications not deliv
+DCID-2413 Add CSV export to admin repo
+DCID-2450 Cookie consent banner overla
+DCID-2426 Map view not loading store l
+DCID-2422 API rate limiting for partne
+DCID-2439 Migrate user table to new sc",DCID-2440;DCID-2438;DCID-2451;DCID-2413;DCID-2450;DCID-2426;DCID-2422;DCID-2439
+MTG-0013,15.0,MTG-0013/f_00015.png,jira_board,"DCID board | TO D0   IN PROGRESS   IN REVIEW   DONE
+DCID-2440 Checkout page crashes when c
+DCID-2438 Translate site into Spanish
+DCID-2451 Push notifications not deliv
+DCID-2413 Add CSV export to admin repo
+DCID-2450 Cookie consent banner overla
+DCID-2426 Map view not loading store l
+DCID-2422 API rate limiting for partne
+DCID-2439 Migrate user table to new sc",DCID-2440;DCID-2438;DCID-2451;DCID-2413;DCID-2450;DCID-2426;DCID-2422;DCID-2439
+MTG-0013,20.0,MTG-0013/f_00020.png,jira_ticket,"DCID-2438  Trans1ate site into Spanish
+Status: IN REVIEW  Assignee: Ankit Verma  Priority: Low
+DCID-S3",DCID-2438
+MTG-0013,25.0,MTG-0013/f_00025.png,jira_ticket,"DCID-2438  Translate site into Spanish
+Status: IN REVIEW  Assignee: Ankit Verma  Priority: Low
+DCID-S3",DCID-2438
+MTG-0013,30.0,MTG-0013/f_00030.png,jira_ticket,"DCID-2438  Translate site into Spanish
+Status: IN REVIEW  Assignee: Ankit Verma  Priority: Low
+DCID-S3",DCID-2438
+MTG-0013,35.0,MTG-0013/f_00035.png,jira_ticket,"DCID-2413  Add CSV export to admin reports
+Status: IN REVIEW  Assignee: Ankit Verma  Priority: High
+DCID-S3",DCID-2413
+MTG-0013,40.0,MTG-0013/f_00040.png,jira_ticket,"DCID-2413  Add CSV export to admin reports
+Status: IN REVIEW  Assignee: Ankit Verma  Priority: High
+DCID-S3",DCID-2413
+MTG-0013,45.0,MTG-0013/f_00045.png,jira_ticket,"DCID-2413  Add CSV export to admin reports
+Status: IN REVIEW  Assignee: Ankit Verma  Priority: High
+DCID-S3",DCID-2413
+MTG-0013,50.0,MTG-0013/f_00050.png,jira_ticket,"DCID-2438  Translate site into Spanish
+Status: IN REVIEW  Assignee: Ankit Verma  Priority: Low
+DCID-S3",DCID-2438
+MTG-0014,0.0,MTG-0014/f_00000.png,none,,
+MTG-0014,5.0,MTG-0014/f_00005.png,jira_ticket,"DCID-2421  Email template branding update
+Status: IN PROGRESS  Assignee: Daniel Brooks  Priority: Low
+DCID-S4",DCID-2421
+MTG-0014,10.0,MTG-0014/f_00010.png,jira_ticket,"DCID-2421  Emai1 template branding update
+Status: IN PROGRESS  Assignee: Daniel Brooks  Priority: Low
+DCID-S4",DCID-2421
+MTG-0014,15.0,MTG-0014/f_00015.png,jira_ticket,"DCID-2421  Email template branding update
+Status: IN PROGRESS  Assignee: Daniel Brooks  Priority: Low
+DCID-S4",DCID-2421
+MTG-0014,20.0,MTG-0014/f_00020.png,jira_ticket,"DCID-2413  Add CSV export to admin reports
+Status: IN REVIEW  Assignee: Ankit Verma  Priority: High
+DCID-S3",DCID-2413
+MTG-0014,25.0,MTG-0014/f_00025.png,jira_ticket,"DCID-2413  Add CSV export to admin reports
+Status: IN REVIEW  Assignee: Ankit Verma  Priority: High
+DCID-S3",DCID-2413
+MTG-0014,30.0,MTG-0014/f_00030.png,jira_ticket,"DCID-2413  Add CSV export to admin reports
+Status: IN REVIEW  Assignee: Ankit Verma  Priority: High
+DCID-S3",DCID-2413
+MTG-0014,35.0,MTG-0014/f_00035.png,jira_ticket,"DCID-2440  Checkout page crashes when coupon applied
+Status: IN REVIEW  Assignee: Ishita Rao  Priority: High
+DCID-S3",DCID-2440
+MTG-0014,40.0,MTG-0014/f_00040.png,jira_ticket,"DCID-2440  Checkout page crashes when coupon app1ied
+Status: IN REVIEW  Assignee: Ishita Rao  Priority: High
+DCID-S3",DCID-2440
+MTG-0014,45.0,MTG-0014/f_00045.png,jira_ticket,"DCID-2413  Add CSV export to admin reports
+Status: IN REVIEW  Assignee: Ankit Verma  Priority: High
+DCID-S3",DCID-2413
+MTG-0014,50.0,MTG-0014/f_00050.png,jira_ticket,"DCID-24l3  Add CSV export to admin reports
+Status: IN REVIEW  Assignee: Ankit Verma  Priority: High
+DCID-S3",DCID-2413
+MTG-0014,55.0,MTG-0014/f_00055.png,jira_ticket,"DCID-2440  Checkout page crashes when coupon applied
+Status: IN REVIEW  Assignee: Ishita Rao  Priority: High
+DCID-S3",DCID-2440
+MTG-0014,60.0,MTG-0014/f_00060.png,jira_ticket,"DCID-2440  Checkout page crashes when coupon applied
+Status: IN REVIEW  Assignee: Ishita Rao  Priority: High
+DCID-S3",DCID-2440
+MTG-0014,65.0,MTG-0014/f_00065.png,jira_ticket,"DCID-2440  Checkout page crashes when coupon applied
+Status: IN REVIEW  Assignee: Ishita Rao  Priority: High
+DCID-S3",DCID-2440
+MTG-0014,70.0,MTG-0014/f_00070.png,jira_ticket,"DCID-2439  Migrate user table to new schema
+Status: IN REVIEW  Assignee: Unassigned  Priority: Medium
+DCID-S3",DCID-2439
+MTG-0014,75.0,MTG-0014/f_00075.png,jira_ticket,"DCID-2439  Migrate user table to new schema
+Status: IN REVIEW  Assignee: Unassigned  Priority: Medium
+DCID-S3",DCID-2439
+MTG-0014,80.0,MTG-0014/f_00080.png,jira_ticket,"DCID-2439  Migrate user table to new schema
+Status: IN REVIEW  Assignee: Unassigned  Priority: Medium
+DCID-S3",DCID-2439
+MTG-0014,85.0,MTG-0014/f_00085.png,jira_ticket,"DCID-2439  Migrate user table to new schema
+Status: IN REVIEW  Assignee: Unassigned  Priority: Medium
+DCID-S3",DCID-2439
+MTG-0014,90.0,MTG-0014/f_00090.png,jira_ticket,"DCID-2439  Migrate user table to new schema
+Status: IN REVIEW  Assignee: Unassigned  Priority: Medium
+DCID-S3",DCID-2439
+MTG-0014,95.0,MTG-0014/f_00095.png,jira_ticket,"DCID-2434  Dashboard charts show wrong totals
+Status: IN REVIEW  Assignee: Daniel Brooks  Priority: High
+DCID-S4",DCID-2434
+MTG-0014,100.0,MTG-0014/f_00100.png,none,,
+MTG-0015,0.0,MTG-0015/f_00000.png,none,,
+MTG-0015,5.0,MTG-0015/f_00005.png,jira_ticket,"CLDH-439  Cookie consent banner overlaps footer
+Status: IN PROGRESS  Assignee: Varun Chopra  Priority: High
+CLDH-S7",CLDH-439
+MTG-0015,10.0,MTG-0015/f_00010.png,jira_ticket,"CLDH-439  Cookie consent banner overlaps footer
+Status: IN PROGRESS  Assignee: Varun Chopra  Priority: High
+CLDH-S7",CLDH-439
+MTG-0015,15.0,MTG-0015/f_00015.png,jira_ticket,"CLDH-439  Cookie consent banner overlaps footer
+Status: IN PROGRESS  Assignee: Varun Chopra  Priority: High
+CLDH-S7",CLDH-439
+MTG-0015,20.0,MTG-0015/f_00020.png,jira_ticket,"CLDH-451  Map view not loading store locations
+Status: TO DO  Assignee: Varun Chopra  Priority: High
+CLDH-S7",CLDH-451
+MTG-0015,25.0,MTG-0015/f_00025.png,jira_ticket,"CLDH-451  Map view not loading store locations
+Status: TO DO  Assignee: Varun Chopra  Priority: High
+CLDH-S7",CLDH-451
+MTG-0015,30.0,MTG-0015/f_00030.png,none,,
+MTG-0016,0.0,MTG-0016/f_00000.png,none,,
+MTG-0016,5.0,MTG-0016/f_00005.png,jira_ticket,"CLDH-454  Set up CI pipeline for staging
+Status: QA  Assignee: Aman Khanna  Priority: High
+CLDH-S7",CLDH-454
+MTG-0016,10.0,MTG-0016/f_00010.png,jira_ticket,"CLDH-454  Set up CI pipeline for staging
+Status: QA  Assignee: Aman Khanna  Priority: High
+CLDH-S7",CLDH-454
+MTG-0016,15.0,MTG-0016/f_00015.png,jira_ticket,"CLDH-454  Set up CI pipeline for staging
+Status: QA  Assignee: Aman Khanna  Priority: High
+CLDH-S7",CLDH-454
+MTG-0016,20.0,MTG-0016/f_00020.png,jira_ticket,"CLDH-447  Event calendar timezone bug
+Status: QA  Assignee: Kavya Iyer  Priority: Medium
+CLDH-S7",CLDH-447
+MTG-0016,25.0,MTG-0016/f_00025.png,jira_ticket,"CLDH-422  Performance test for 10k concurrent users
+Status: IN REVIEW  Assignee: Aman Khanna  Priority: Medium
+CLDH-S7",CLDH-422
+MTG-0016,30.0,MTG-0016/f_00030.png,jira_ticket,"CLDH-422  Performance test for 1Ok concurrent users
+Status: IN REVIEW  Assignee: Aman Khanna  Priority: Medium
+CLDH-S7",CLDH-422
+MTG-0016,35.0,MTG-0016/f_00035.png,jira_ticket,"CLDH-453  API rate limiting for partner endpoints
+Status: IN REVIEW  Assignee: Kavya Iyer  Priority: Medium
+CLDH-S7",CLDH-453
+MTG-0016,40.0,MTG-0016/f_00040.png,jira_ticket,"CLDH-453  API rate limiting for partner endpoints
+Status: IN REVIEW  Assignee: Kavya Iyer  Priority: Medium
+CLDH-S7",CLDH-453
+MTG-0016,45.0,MTG-0016/f_00045.png,jira_ticket,"CLDH-453  API rate limiting for partner endpoints
+Status: IN REVIEW  Assignee: Kavya Iyer  Priority: Medium
+CLDH-S7",CLDH-453
+MTG-0016,50.0,MTG-0016/f_00050.png,jira_ticket,"CLDH-453  API rate limiting for partner endpoints
+Status: IN REVIEW  Assignee: Kavya Iyer  Priority: Medium
+CLDH-S7",CLDH-453
+MTG-0016,55.0,MTG-0016/f_00055.png,none,,
+MTG-0017,0.0,MTG-0017/f_00000.png,i360_portfolio,i360 Portfolio  |  Harborview Museum - Membership Portal: Green  |  Atlas Logistics - Data Warehouse Migration: Green  |  Atlas Logistics - Booking Engine: Green  |  5ilverline Travel - Partner Portal: Yellow  |  Oakridge Bank - Donor CRM Integration: Red  |  Ironbridge Manufacturing - Learning Platform: Green  |  Evergreen University - Donor CRM Integration: Green  |  Riverside Foundation - Claims Dashboard: Green,
+MTG-0017,5.0,MTG-0017/f_00005.png,i360_project,"i360  Project: Silverline Trave1 - Partner Portal  Client: Silverline Travel
+Status: Yellow  Delivery Lead: Shweta Kapoor",
+MTG-0017,10.0,MTG-0017/f_00010.png,i360_project,"i360  Project: Silverline Travel - Partner Portal  Client: Silverline Travel
+Status: Yellow  Delivery Lead: Shweta Kapoor",
+MTG-0017,15.0,MTG-0017/f_00015.png,i360_project,"i36O  Project: Atlas Logistics - Data Warehouse Migration  Client: Atlas Logistics
+Status: Green  Delivery Lead: Shweta Kapoor",
+MTG-0017,20.0,MTG-0017/f_00020.png,i360_project,"i360  Project: Atlas Logistics - Data Warehouse Migration  Client: Atlas Logistics
+Status: Green  De1ivery Lead: Shweta Kapoor",
+MTG-0017,25.0,MTG-0017/f_00025.png,i360_project,"i360  Project: Atlas Logistics - Data Warehouse Migration  Client: Atlas Logistics
+Status: Green  Delivery Lead: Shweta Kapoor",
+MTG-0017,30.0,MTG-0017/f_00030.png,i360_project,"i360  Project: Atlas Logistics - Data Warehouse Migration  Client: At1as Logistics
+Status: Green  Delivery Lead: Shweta Kapoor",
+MTG-0017,35.0,MTG-0017/f_00035.png,i360_project,"i360  Project: Atlas Logistics - Data Warehouse Migration  Client: Atlas Logistics
+Status: Green  Delivery Lead: Shweta Kapoor",
+MTG-0017,40.0,MTG-0017/f_00040.png,i360_project,"i360  Project: Silverline Travel - Partner Portal  Client: Silverline Travel
+Status: Ye1low  Delivery Lead: Shweta Kapoor",
+MTG-0017,45.0,MTG-0017/f_00045.png,i360_project,"i360  Project: Silverline Travel - Partner Portal  Client: Silverline Travel
+Status: Ye1low  Delivery Lead: Shweta Kapoor",
+MTG-0017,50.0,MTG-0017/f_00050.png,i360_project,"i360  Project: Silverline Travel - Partner Portal  Client: Silverline Travel
+Status: Yellow  Delivery Lead: Shweta Kapoor",
+MTG-0017,55.0,MTG-0017/f_00055.png,i360_project,"i36O  Project: Ironbridge Manufacturing - Learning P1atform  Client: Ironbridge Manufacturing
+Status: Green  De1ivery Lead: Nikhil Arora",
+MTG-0017,60.0,MTG-0017/f_00060.png,i360_project,"i360  Project: Evergreen University - Donor CRM Integration  Client: Evergreen University
+Status: Green  Delivery Lead: Anjali Saxena",
+MTG-0017,65.0,MTG-0017/f_00065.png,i360_project,"i360  Project: Evergreen University - Donor CRM Integration  Client: Evergreen University
+Status: Green  Delivery Lead: Anjali Saxena",
+MTG-0017,70.0,MTG-0017/f_00070.png,i360_project,"i360  Project: Atlas Logistics - Data Warehouse Migration  Client: Atlas Logistics
+Status: Green  Delivery Lead: Shweta Kapoor",
+MTG-0017,75.0,MTG-0017/f_00075.png,i360_project,"i360  Project: Atlas Logistics - Data Warehouse Migration  Client: Atlas Logistics
+Status: Green  Delivery Lead: Shweta Kapoor",
+MTG-0018,0.0,MTG-0018/f_00000.png,none,,
+MTG-0018,5.0,MTG-0018/f_00005.png,jira_ticket,"HMP-4016  Translate site into Spanish
+Status: IN REVIEW  Assignee: Vikram Singh  Priority: Medium
+HMP-S7",HMP-4016
+MTG-0018,10.0,MTG-0018/f_00010.png,jira_ticket,"HMP-4016  Translate site into Spanish
+Status: IN REVIEW  Assignee: Vikram Singh  Priority: Medium
+HMP-S7",HMP-4016
+MTG-0018,15.0,MTG-0018/f_00015.png,jira_ticket,"HMP-4016  Translate site into Spanish
+Status: IN REVIEW  Assignee: Vikram Singh  Priority: Medium
+HMP-S7",HMP-4016
+MTG-0018,20.0,MTG-0018/f_00020.png,jira_ticket,"HMP-4016  Translate site into Spanish
+Status: IN REVIEW  Assignee: Vikram Singh  Priority: Medium
+HMP-S7",HMP-4016
+MTG-0018,25.0,MTG-0018/f_00025.png,jira_ticket,"HMP-5484  Two-factor authentication for admins
+5tatus: BLOCKED  Assignee: Laura Mitchell  Priority: Highest
+HMP-S7",HMP-5484
+MTG-0018,30.0,MTG-0018/f_00030.png,jira_ticket,"HMP-5484  Two-factor authentication for admins
+Status: BLOCKED  Assignee: Laura Mitchell  Priority: Highest
+HMP-S7",HMP-5484
+MTG-0018,35.0,MTG-0018/f_00035.png,jira_board,"HMP board | TO DO   IN PROGRESS   IN REVIEW   DONE
+HMP-4016 Translate site into Spanish
+HMP-5485 Checkout page crashes when c
+HMP-5484 Two-factor authentication fo
+HMP-5470 PDF invoice generation broke
+HMP-4000 SSO login page times out aft
+HMP-5441 Map view not loading store l
+HMP-5468 Migrate user table to new sc
+HMP-5475 Data sync job fails at midni",HMP-4016;HMP-5485;HMP-5484;HMP-5470;HMP-4000;HMP-5441;HMP-5468;HMP-5475
+MTG-0018,40.0,MTG-0018/f_00040.png,jira_board,"HMP board | TO DO   IN PROGRESS   IN REVIEW   DONE
+HMP-4016 Translate site into Spanish
+HMP-5485 Checkout page crashes when c
+HMP-5484 Two-factor authentication fo
+HMP-5470 PDF invoice generation broke
+HMP-4000 SSO login page times out aft
+HMP-5441 Map view not loading store 1
+HMP-5468 Migrate user table to new sc
+HMP-5475 Data sync job fails at midni",HMP-4016;HMP-5485;HMP-5484;HMP-5470;HMP-4000;HMP-5441;HMP-5468;HMP-5475
+MTG-0018,45.0,MTG-0018/f_00045.png,jira_ticket,"HMP-40O0  SSO login page times out after 30 seconds
+Status: BLOCKED  Assignee: Sarah Collins  Priority: High
+HMP-S7",HMP-4000
+MTG-0018,50.0,MTG-0018/f_00050.png,jira_ticket,"HMP-400O  SSO login page times out after 30 seconds
+Status: BLOCKED  Assignee: Sarah Collins  Priority: High
+HMP-S7",HMP-4000
+MTG-0018,55.0,MTG-0018/f_00055.png,none,,
+MTG-0019,0.0,MTG-0019/f_00000.png,none,,
+MTG-0019,5.0,MTG-0019/f_00005.png,jira_ticket,"HMP-5484  Two-factor authentication for admins
+Status: QA  Assignee: Laura Mitchell  Priority: Highest
+HMP-S7",HMP-5484
+MTG-0019,10.0,MTG-0019/f_00010.png,jira_ticket,"HMP-5484  Two-factor authentication for admins
+Status: QA  Assignee: Laura Mitchell  Priority: Highest
+HMP-S7",HMP-5484
+MTG-0019,15.0,MTG-0019/f_00015.png,jira_ticket,"HMP-5484  Two-factor authentication for admins
+Status: QA  Assignee: Laura Mitchell  Priority: Highest
+HMP-S7",HMP-5484
+MTG-0019,20.0,MTG-0019/f_00020.png,jira_ticket,"HMP-5484  Two-factor authentication for admins
+Status: QA  Assignee: Laura Mitchell  Priority: Highest
+HMP-S7",HMP-5484
+MTG-0019,25.0,MTG-0019/f_00025.png,jira_ticket,"HMP-S484  Two-factor authentication for admins
+Status: QA  Assignee: Laura Mitchell  Priority: Highest
+HMP-57",HMP-5484
+MTG-0019,30.0,MTG-0019/f_00030.png,jira_ticket,"HMP-5484  Two-factor authentication for admins
+Status: QA  Assignee: Laura Mitchel1  Priority: Highest
+HMP-S7",HMP-5484
+MTG-0019,35.0,MTG-0019/f_00035.png,jira_ticket,"HMP-5484  Two-factor authentication for admins
+Status: QA  Assignee: Laura Mitchell  Priority: Highest
+HMP-S7",HMP-5484
+MTG-0019,40.0,MTG-0019/f_00040.png,jira_ticket,"HMP-5475  Data sync job fails at midnight
+Status: IN REVIEW  Assignee: Unassigned  Priority: Medium
+HMP-S7",HMP-5475
+MTG-0019,45.0,MTG-0019/f_00045.png,jira_ticket,"HMP-5475  Data sync job fails at midnight
+Status: IN REVIEW  Assignee: Unassigned  Priority: Medium
+HMP-S7",HMP-5475
+MTG-0019,50.0,MTG-0019/f_00050.png,jira_ticket,"HMP-5475  Data sync job fails at midnight
+Status: IN REVIEW  Assignee: Unassigned  Priority: Medium
+HMP-S7",HMP-5475
+MTG-0019,55.0,MTG-0019/f_00055.png,none,,
+MTG-0020,0.0,MTG-0020/f_00000.png,none,,
+MTG-0020,5.0,MTG-0020/f_00005.png,jira_board,"DWMG board | TO DO   IN PROGRES5   IN REVIEW   DONE
+DWMG-1289 Event calendar timezone bug
+DWMG-1311 Data sync job fails at midni
+DWMG-1314 PDF invoice generation broke
+DWMG-1252 Content model for exhibition
+DWMG-1239 Product filters reset on bac
+DWMG-1281 Chatbot gives wrong opening 
+DWMG-1280 Content model for exhibition
+DWMG-1305 Email template branding upda",DWMG-1289;DWMG-1311;DWMG-1314;DWMG-1252;DWMG-1239;DWMG-1281;DWMG-1280;DWMG-1305
+MTG-0020,10.0,MTG-0020/f_00010.png,jira_board,"DWMG board | TO DO   IN PROGRESS   IN REVIEW   DONE
+DWMG-1289 Event calendar timezone bug
+DWMG-1311 Data sync job fails at midni
+DWMG-1314 PDF invoice generation broke
+DWMG-1252 Content model for exhibition
+DWMG-1239 Product filters reset on bac
+DWMG-1281 Chatbot gives wrong opening 
+DWMG-12BO Content model for exhibition
+DWMG-1305 Email template branding upda",DWMG-1289;DWMG-1311;DWMG-1314;DWMG-1252;DWMG-1239;DWMG-1281;DWMG-1280;DWMG-1305
+MTG-0020,15.0,MTG-0020/f_00015.png,jira_board,"DWMG board | TO DO   IN PROGRESS   IN REVIEW   DONE
+DWMG-1289 Event ca1endar timezone bug
+DWMG-1311 Data sync job fails at midni
+DWMG-1314 PDF invoice generation broke
+DWMG-1252 Content model for exhibition
+DWMG-1239 Product filters reset on bac
+DWMG-1281 Chatbot gives wrong opening 
+DWMG-1280 Content model for exhibition
+DWMG-1305 Email template branding upda",DWMG-1289;DWMG-1311;DWMG-1314;DWMG-1252;DWMG-1239;DWMG-1281;DWMG-1280;DWMG-1305
+MTG-0020,20.0,MTG-0020/f_00020.png,jira_board,"DWMG board | TO DO   IN PROGRESS   IN REVIEW   DONE
+DWMG-1289 Event ca1endar timezone bug
+DWMG-1311 Data sync job fai1s at midni
+DWMG-1314 PDF invoice generation broke
+DWMG-1252 Content model for exhibition
+DWMG-1239 Product filters reset on bac
+DWMG-1281 Chatbot gives wrong opening 
+DWMG-1280 Content model for exhibition
+DWMG-1305 Email template branding upda",DWMG-1289;DWMG-1311;DWMG-1314;DWMG-1252;DWMG-1239;DWMG-1281;DWMG-1280;DWMG-1305
+MTG-0020,25.0,MTG-0020/f_00025.png,jira_ticket,"DWMG-12B9  Event calendar timezone bug
+Status: IN REVIEW  Assignee: Daniel Brooks  Priority: Highest
+DWMG-S7",DWMG-1289
+MTG-0020,30.0,MTG-0020/f_00030.png,jira_ticket,"DWMG-1289  Event calendar timezone bug
+Status: IN REVIEW  Assignee: Daniel Brooks  Priority: Highest
+DWMG-S7",DWMG-1289
+MTG-0020,35.0,MTG-0020/f_00035.png,jira_ticket,"DWMG-1314  PDF invoice generation broken
+Status: IN PROGRESS  Assignee: Unassigned  Priority: High
+DWMG-S7",DWMG-1314
+MTG-0020,40.0,MTG-0020/f_00040.png,jira_ticket,"DWMG-1314  PDF invoice generation broken
+Status: IN PROGRESS  Assignee: Unassigned  Priority: High
+DWMG-S7",DWMG-1314
+MTG-0020,45.0,MTG-0020/f_00045.png,jira_ticket,"DWMG-1252  Content model for exhibition pages
+Status: QA  Assignee: Daniel Brooks  Priority: High
+DWMG-S7",DWMG-1252
+MTG-0020,50.0,MTG-0020/f_00050.png,jira_ticket,"DWMG-1252  Content model for exhibition pages
+Status: QA  Assignee: Daniel Brooks  Priority: High
+DWMG-S7",DWMG-1252
+MTG-0020,55.0,MTG-0020/f_00055.png,jira_ticket,"DWMG-1252  Content model for exhibition pages
+Status: QA  Assignee: Daniel Brooks  Priority: High
+DWMG-S7",DWMG-1252
+MTG-0020,60.0,MTG-0020/f_00060.png,none,,
+MTG-0021,0.0,MTG-0021/f_00000.png,none,,
+MTG-0021,5.0,MTG-0021/f_00005.png,jira_ticket,"DWMG-1310  Dashboard charts show wrong totals
+Status: IN PROGRESS  Assignee: Jake Thompson  Priority: Low
+DWMG-S7",DWMG-1310
+MTG-0021,10.0,MTG-0021/f_00010.png,jira_ticket,"DWMG-1310  Dashboard charts show wrong totals
+Status: IN PROGRESS  Assignee: Jake Thompson  Priority: Low
+DWMG-S7",DWMG-1310
+MTG-0021,15.0,MTG-0021/f_00015.png,jira_ticket,"DWMG-1310  Dashboard charts show wrong totals
+Status: IN PROGRESS  Assignee: Jake Thompson  Priority: Low
+DWMG-57",DWMG-1310
+MTG-0021,20.0,MTG-0021/f_00020.png,jira_ticket,"DWMG-1310  Dashboard charts show wrong totals
+Status: IN PROGRESS  Assignee: Jake Thompson  Priority: Low
+DWMG-S7",DWMG-1310
+MTG-0021,25.0,MTG-0021/f_00025.png,jira_ticket,"DWMG-1310  Dashboard charts show wrong totals
+Status: IN PROGRESS  Assignee: Jake Thompson  Priority: Low
+DWMG-S7",DWMG-1310
+MTG-0021,30.0,MTG-0021/f_00030.png,jira_ticket,"DWMG-1305  Email template branding update
+Status: IN PROGRESS  Assignee: Manish Yadav  Priority: Highest
+DWMG-S7",DWMG-1305
+MTG-0021,35.0,MTG-0021/f_00035.png,jira_ticket,"DWMG-1305  Email template branding update
+Status: IN PROGRESS  Assignee: Manish Yadav  Priority: Highest
+DWMG-57",DWMG-1305
+MTG-0021,40.0,MTG-0021/f_00040.png,jira_ticket,"DWMG-1305  Email template branding update
+Status: IN PROGRESS  Assignee: Manish Yadav  Priority: Highest
+DWMG-S7",DWMG-1305
+MTG-0021,45.0,MTG-0021/f_00045.png,jira_ticket,"DWMG-1305  Email template branding update
+Status: IN PROGRESS  Assignee: Manish Yadav  Priority: Highest
+DWMG-S7",DWMG-1305
+MTG-0021,50.0,MTG-0021/f_00050.png,jira_ticket,"DWMG-1305  Email template branding update
+Status: IN PROGRESS  Assignee: Manish Yadav  Priority: Highest
+DWMG-S7",DWMG-1305
+MTG-0021,55.0,MTG-0021/f_00055.png,jira_ticket,"DWMG-l305  Email template branding update
+Status: IN PR0GRESS  Assignee: Manish Yadav  Priority: Highest
+DWMG-S7",DWMG-1305
+MTG-0021,60.0,MTG-0021/f_00060.png,jira_ticket,"DWMG-1305  Email template branding update
+Status: IN PROGRESS  Assignee: Manish Yadav  Priority: Highest
+DWMG-S7",DWMG-1305
+MTG-0021,65.0,MTG-0021/f_00065.png,jira_ticket,"DWMG-1305  Email template branding update
+Status: IN PROGRESS  Assignee: Manish Yadav  Priority: Highest
+DWMG-S7",DWMG-1305
+MTG-0021,70.0,MTG-0021/f_00070.png,jira_ticket,"DWMG-1314  PDF invoice generation broken
+5tatus: IN PROGRESS  Assignee: Unassigned  Priority: High
+DWMG-S7",DWMG-1314
+MTG-0021,75.0,MTG-0021/f_00075.png,jira_ticket,"DWMG-1311  Data sync job fails at midnight
+Status: IN REVIEW  Assignee: Unassigned  Priority: High
+DWMG-S7",DWMG-1311
+MTG-0021,80.0,MTG-0021/f_00080.png,jira_ticket,"DWMG-1311  Data sync job fails at midnight
+Status: IN REVIEW  Assignee: Unassigned  Priority: High
+DWMG-S7",DWMG-1311
+MTG-0021,85.0,MTG-0021/f_00085.png,jira_ticket,"DWMG-1280  Content model for exhibition pages
+Status: IN REVIEW  Assignee: Hannah Price  Priority: Low
+DWMG-S7",DWMG-1280
+MTG-0021,90.0,MTG-0021/f_00090.png,jira_ticket,"DWMG-1280  Content model for exhibition pages
+Status: IN REVIEW  Assignee: Hannah Price  Priority: Low
+DWMG-S7",DWMG-1280
+MTG-0021,95.0,MTG-0021/f_00095.png,jira_ticket,"DWMG-1280  Content model for exhibition pages
+Status: IN REVIEW  Assignee: Hannah Price  Priority: Low
+DWMG-S7",DWMG-1280
+MTG-0021,100.0,MTG-0021/f_00100.png,jira_ticket,"DWMG-1280  Content model for exhibition pages
+Status: IN REVIEW  Assignee: Hannah Price  Priority: Low
+DWMG-S7",DWMG-1280
+MTG-0021,105.0,MTG-0021/f_00105.png,none,,
+MTG-0022,0.0,MTG-0022/f_00000.png,none,,
+MTG-0022,5.0,MTG-0022/f_00005.png,jira_ticket,"BKEE-1098  Integrate Salesforce contact sync
+Status: BLOCKED  Assignee: Neha Gupta  Priority: Medium
+BKEE-S8",BKEE-1098
+MTG-0022,10.0,MTG-0022/f_00010.png,jira_ticket,"BKEE-10B7  Map view not loading store locations
+Status: IN PROGRESS  Assignee: Unassigned  Priority: Low
+BKEE-S8",BKEE-1087
+MTG-0022,15.0,MTG-0022/f_00015.png,jira_ticket,"BKEE-10B7  Map view not loading store locations
+Status: IN PROGRESS  Assignee: Unassigned  Priority: Low
+BKEE-S8",BKEE-1087
+MTG-0022,20.0,MTG-0022/f_00020.png,jira_ticket,"BKEE-1087  Map view not loading store locations
+Status: IN PROGRESS  Assignee: Unassigned  Priority: Low
+BKEE-S8",BKEE-1087
+MTG-0022,25.0,MTG-0022/f_00025.png,jira_ticket,"BKEE-l085  Email template branding update
+Status: QA  Assignee: Neha Gupta  Priority: Medium
+BKEE-S8",BKEE-1085
+MTG-0022,30.0,MTG-0022/f_00030.png,jira_ticket,"BKEE-1085  Email template branding update
+Status: QA  Assignee: Neha Gupta  Priority: Medium
+BKEE-S8",BKEE-1085
+MTG-0022,35.0,MTG-0022/f_00035.png,jira_ticket,"BKEE-10B5  Email template branding update
+Status: QA  Assignee: Neha Gupta  Priority: Medium
+BKEE-S8",BKEE-1085
+MTG-0022,40.0,MTG-0022/f_00040.png,jira_ticket,"BKEE-1100  Payment gateway retry logic for failed transactions
+Status: IN REVIEW  Assignee: Rahul Joshi  Priority: High
+BKEE-S7",BKEE-1100
+MTG-0022,45.0,MTG-0022/f_00045.png,jira_ticket,"BKEE-1100  Payment gateway retry logic for failed transactions
+Status: IN REVIEW  Assignee: Rahul Joshi  Priority: High
+BKEE-S7",BKEE-1100
+MTG-0022,50.0,MTG-0022/f_00050.png,jira_ticket,"BKEE-l100  Payment gateway retry logic for failed transactions
+Status: IN REVIEW  Assignee: Rahu1 Joshi  Priority: High
+BKEE-S7",BKEE-1100
+MTG-0022,55.0,MTG-0022/f_00055.png,jira_ticket,"BKEE-1093  Admin role permissions not saving
+Status: DONE  Assignee: Rahul Joshi  Priority: Highest
+BKEE-S7",BKEE-1093
+MTG-0022,60.0,MTG-0022/f_00060.png,jira_ticket,"BKEE-1093  Admin role permissions not saving
+Status: DONE  Assignee: Rahul Joshi  Priority: Highest
+BKEE-S7",BKEE-1093
+MTG-0022,65.0,MTG-0022/f_00065.png,jira_ticket,"BKEE-1093  Admin role permissions not saving
+Status: DONE  Assignee: Rahul Joshi  Priority: Highest
+BKEE-S7",BKEE-1093
+MTG-0022,70.0,MTG-0022/f_00070.png,jira_ticket,"BKEE-1093  Admin role permissions not saving
+Status: D0NE  Assignee: Rahul Joshi  Priority: Highest
+BKEE-57",BKEE-1093
+MTG-0022,75.0,MTG-0022/f_00075.png,jira_ticket,"BKEE-1101  Checkout page crashes when coupon applied
+Status: IN PROGRESS  Assignee: Rahul Joshi  Priority: Medium
+BKEE-S7",BKEE-1101
+MTG-0022,80.0,MTG-0022/f_00080.png,jira_ticket,"BKEE-1101  Checkout page crashes when coupon applied
+Status: IN PROGRESS  Assignee: Rahul Joshi  Priority: Medium
+BKEE-S7",BKEE-1101
+MTG-0022,85.0,MTG-0022/f_00085.png,none,,
+MTG-0023,0.0,MTG-0023/f_00000.png,none,,
+MTG-0023,5.0,MTG-0023/f_00005.png,jira_ticket,"BKEE-1106  Email template branding update
+Status: QA  Assignee: Neha Gupta  Priority: High
+BKEE-S8",BKEE-1106
+MTG-0023,10.0,MTG-0023/f_00010.png,jira_ticket,"BKEE-1106  Email template branding update
+Status: QA  Assignee: Neha Gupta  Priority: High
+BKEE-S8",BKEE-1106
+MTG-0023,15.0,MTG-0023/f_00015.png,jira_ticket,"BKEE-1106  Email template branding update
+Status: QA  Assignee: Neha Gupta  Priority: High
+BKEE-S8",BKEE-1106
+MTG-0023,20.0,MTG-0023/f_00020.png,jira_ticket,"BKEE-1106  Email template branding update
+Status: QA  Assignee: Neha Gupta  Priority: High
+BKEE-SB",BKEE-1106
+MTG-0023,25.0,MTG-0023/f_00025.png,jira_ticket,"BKEE-1099  Admin role permissions not saving
+Status: IN PROGRESS  Assignee: Neha Gupta  Priority: High
+BKEE-S8",BKEE-1099
+MTG-0023,30.0,MTG-0023/f_00030.png,jira_ticket,"BKEE-1099  Admin role permissions not saving
+Status: IN PROGRESS  Assignee: Neha Gupta  Priority: High
+BKEE-S8",BKEE-1099
+MTG-0023,35.0,MTG-0023/f_00035.png,jira_ticket,"BKEE-1099  Admin role permissions not saving
+Status: IN PROGRESS  Assignee: Neha Gupta  Priority: High
+BKEE-S8",BKEE-1099
+MTG-0023,40.0,MTG-0023/f_00040.png,jira_ticket,"BKEE-1099  Admin role permissions not saving
+Status: IN PROGRESS  Assignee: Neha Gupta  Priority: High
+BKEE-S8",BKEE-1099
+MTG-0023,45.0,MTG-0023/f_00045.png,jira_ticket,"BKEE-1086  Duplicate records in donor import
+Status: BLOCKED  Assignee: Neha Gupta  Priority: Low
+BKEE-S8",BKEE-1086
+MTG-0023,50.0,MTG-0023/f_00050.png,jira_ticket,"BKEE-1086  Duplicate records in donor import
+Status: BLOCKED  Assignee: Neha Gupta  Priority: Low
+BKEE-S8",BKEE-1086
+MTG-0023,55.0,MTG-0023/f_00055.png,jira_ticket,"BKEE-1086  Duplicate records in donor import
+Status: BLOCKED  Assignee: Neha Gupta  Priority: Low
+BKEE-S8",BKEE-1086
+MTG-0023,60.0,MTG-0023/f_00060.png,jira_ticket,"BKEE-1086  Duplicate records in donor import
+Status: BLOCKED  Assignee: Neha Gupta  Priority: Low
+BKEE-S8",BKEE-1086
+MTG-0023,65.0,MTG-0023/f_00065.png,jira_ticket,"BKEE-l087  Map view not loading store locations
+Status: IN PROGRESS  Assignee: Unassigned  Priority: Low
+BKEE-S8",BKEE-1087
+MTG-0023,70.0,MTG-0023/f_00070.png,jira_ticket,"BKEE-1087  Map view not loading store locations
+5tatus: IN PROGRESS  Assignee: Unassigned  Priority: Low
+BKEE-SB",BKEE-1087
+MTG-0023,75.0,MTG-0023/f_00075.png,jira_ticket,"BKEE-1087  Map view not loading store locations
+Status: IN PROGRESS  Assignee: Unassigned  Priority: Low
+BKEE-S8",BKEE-1087
+MTG-0023,80.0,MTG-0023/f_00080.png,jira_ticket,"BKEE-1098  Integrate Salesforce contact sync
+Status: BLOCKED  Assignee: Neha Gupta  Priority: Medium
+BKEE-S8",BKEE-1098
+MTG-0023,85.0,MTG-0023/f_00085.png,jira_ticket,"BKEE-1098  Integrate Salesforce contact sync
+Status: BLOCKED  Assignee: Neha Gupta  Priority: Medium
+BKEE-S8",BKEE-1098
+MTG-0023,90.0,MTG-0023/f_00090.png,jira_ticket,"BKEE-1098  Integrate Salesforce contact sync
+Status: BLOCKED  Assignee: Neha Gupta  Priority: Medium
+BKEE-S8",BKEE-1098
+MTG-0023,95.0,MTG-0023/f_00095.png,jira_ticket,"BKEE-1098  Integrate Salesforce contact sync
+Status: BLOCKED  Assignee: Neha Gupta  Priority: Medium
+BKEE-S8",BKEE-1098
+MTG-0023,100.0,MTG-0023/f_00100.png,none,,
+MTG-0024,0.0,MTG-0024/f_00000.png,none,,
+MTG-0024,5.0,MTG-0024/f_00005.png,jira_ticket,"PTPC-224  Duplicate records in donor import
+Status: QA  Assignee: Sarah Collins  Priority: Medium
+PTPC-S10",PTPC-224
+MTG-0024,10.0,MTG-0024/f_00010.png,jira_ticket,"PTPC-224  Duplicate records in donor import
+Status: QA  Assignee: Sarah Collins  Priority: Medium
+PTPC-S10",PTPC-224
+MTG-0024,15.0,MTG-0024/f_00015.png,jira_ticket,"PTPC-224  Duplicate records in donor import
+Status: QA  Assignee: Sarah Collins  Priority: Medium
+PTPC-S10",PTPC-224
+MTG-0024,20.0,MTG-0024/f_00020.png,jira_ticket,"PTPC-224  Duplicate records in donor import
+Status: QA  Assignee: Sarah Collins  Priority: Medium
+PTPC-S10",PTPC-224
+MTG-0024,25.0,MTG-0024/f_00025.png,jira_ticket,"PTPC-224  Duplicate records in donor import
+Status: QA  Assignee: Sarah Collins  Priority: Medium
+PTPC-S10",PTPC-224
+MTG-0024,30.0,MTG-0024/f_00030.png,jira_ticket,"PTPC-224  Duplicate records in donor import
+Status: QA  Assignee: Sarah Co1lins  Priority: Medium
+PTPC-S10",PTPC-224
+MTG-0024,35.0,MTG-0024/f_00035.png,jira_ticket,"PTPC-224  Duplicate records in donor import
+Status: QA  Assignee: Sarah Collins  Priority: Medium
+PTPC-S10",PTPC-224
+MTG-0024,40.0,MTG-0024/f_00040.png,jira_ticket,"PTPC-252  Password reset link expires too early
+Status: QA  Assignee: Laura Mitchell  Priority: Medium
+PTPC-S9",PTPC-252
+MTG-0024,45.0,MTG-0024/f_00045.png,jira_ticket,"PTPC-252  Password reset link expires too early
+Status: QA  Assignee: Laura Mitchell  Priority: Medium
+PTPC-S9",PTPC-252
+MTG-0024,50.0,MTG-0024/f_00050.png,jira_ticket,"PTPC-252  Password reset link expires too early
+Status: QA  Assignee: Laura Mitchell  Priority: Medium
+PTPC-S9",PTPC-252
+MTG-0024,55.0,MTG-0024/f_00055.png,jira_ticket,"PTPC-252  Password reset link expires too early
+Status: QA  Assignee: Laura Mitchell  Priority: Medium
+PTPC-S9",PTPC-252
+MTG-0024,60.0,MTG-0024/f_00060.png,jira_ticket,"PTPC-252  Password reset link expires too early
+Status: QA  Assignee: Laura Mitchell  Priority: Medium
+PTPC-S9",PTPC-252
+MTG-0024,65.0,MTG-0024/f_00065.png,jira_ticket,"PTPC-241  Password reset link expires too early
+Status: IN PROGRESS  Assignee: Unassigned  Priority: Medium
+PTPC-S10",PTPC-241
+MTG-0024,70.0,MTG-0024/f_00070.png,jira_ticket,"PTPC-241  Password reset link expires too early
+Status: IN PROGRESS  Assignee: Unassigned  Priority: Medium
+PTPC-S10",PTPC-241
+MTG-0024,75.0,MTG-0024/f_00075.png,jira_ticket,"PTPC-241  Password reset link expires too early
+Status: IN PROGRESS  Assignee: Unassigned  Priority: Medium
+PTPC-S10",PTPC-241
+MTG-0024,80.0,MTG-0024/f_00080.png,jira_ticket,"PTPC-241  Password reset link expires too early
+Status: IN PROGRESS  Assignee: Unassigned  Priority: Medium
+PTPC-S10",PTPC-241
+MTG-0025,0.0,MTG-0025/f_00000.png,none,,
+MTG-0025,5.0,MTG-0025/f_00005.png,jira_ticket,"PTPC-244  Session expires during 1ong forms
+Status: QA  Assignee: Laura Mitchell  Priority: Medium
+PTPC-S10",PTPC-244
+MTG-0025,10.0,MTG-0025/f_00010.png,jira_ticket,"PTPC-247  Performance test for 10k concurrent users
+Status: QA  Assignee: Daniel Brooks  Priority: High
+PTPC-S10",PTPC-247
+MTG-0025,15.0,MTG-0025/f_00015.png,jira_ticket,"PTPC-247  Performance test for 10k concurrent users
+Status: QA  Assignee: Daniel Brooks  Priority: High
+PTPC-S1O",PTPC-247
+MTG-0025,20.0,MTG-0025/f_00020.png,jira_ticket,"PTPC-247  Performance test for 10k concurrent users
+Status: QA  Assignee: Daniel Brooks  Priority: High
+PTPC-S10",PTPC-247
+MTG-0025,25.0,MTG-0025/f_00025.png,jira_ticket,"PTPC-247  Performance test for 10k concurrent users
+Status: QA  Assignee: Daniel Brooks  Priority: High
+PTPC-S10",PTPC-247
+MTG-0025,30.0,MTG-0025/f_00030.png,jira_ticket,"PTPC-237  Push notifications not delivered on Android
+Status: IN REVIEW  Assignee: Daniel Brooks  Priority: Low
+PTPC-S10",PTPC-237
+MTG-0025,35.0,MTG-0025/f_00035.png,jira_ticket,"PTPC-237  Push notifications not delivered on Android
+Status: IN REVIEW  Assignee: Danie1 Brooks  Priority: Low
+PTPC-S10",PTPC-237
+MTG-0025,40.0,MTG-0025/f_00040.png,jira_ticket,"PTPC-237  Push notifications not delivered on Android
+Status: IN REVIEW  Assignee: Daniel Brooks  Priority: Low
+PTPC-S10",PTPC-237
+MTG-0025,45.0,MTG-0025/f_00045.png,jira_ticket,"PTPC-238  Ticket booking double-charges customers
+Status: IN REVIEW  Assignee: Divya Menon  Priority: Medium
+PTPC-S10",PTPC-238
+MTG-0025,50.0,MTG-0025/f_00050.png,jira_ticket,"PTPC-238  Ticket booking double-charges customers
+Status: IN REVIEW  Assignee: Divya Menon  Priority: Medium
+PTPC-S10",PTPC-238
+MTG-0025,55.0,MTG-0025/f_00055.png,jira_ticket,"PTPC-238  Ticket booking double-charges customers
+5tatus: IN REVIEW  Assignee: Divya Menon  Priority: Medium
+PTPC-S10",PTPC-238
+MTG-0025,60.0,MTG-0025/f_00060.png,jira_ticket,"PTPC-238  Ticket booking double-charges customers
+Status: IN REVIEW  Assignee: Divya Menon  Priority: Medium
+PTPC-S10",PTPC-238
+MTG-0025,65.0,MTG-0025/f_00065.png,jira_ticket,"PTPC-238  Ticket booking double-charges customers
+Status: IN REVIEW  Assignee: Divya Menon  Priority: Medium
+PTPC-S10",PTPC-238
+MTG-0025,70.0,MTG-0025/f_00070.png,jira_ticket,"PTPC-262  Push notifications not delivered on Android
+Status: IN REVIEW  Assignee: Daniel Brooks  Priority: Medium
+PTPC-S9",PTPC-262
+MTG-0025,75.0,MTG-0025/f_00075.png,jira_ticket,"PTPC-262  Push notifications not delivered on Android
+Status: IN REVIEW  Assignee: Daniel Brooks  Priority: Medium
+PTPC-S9",PTPC-262
+MTG-0025,80.0,MTG-0025/f_00080.png,jira_ticket,"PTPC-262  Push notifications not delivered on Android
+Status: IN REVIEW  Assignee: Daniel Brooks  Priority: Medium
+PTPC-S9",PTPC-262
+MTG-0025,85.0,MTG-0025/f_00085.png,jira_ticket,"PTPC-262  Push notifications not delivered on Android
+Status: IN REVIEW  Assignee: Daniel Brooks  Priority: Medium
+PTPC-S9",PTPC-262
+MTG-0025,90.0,MTG-0025/f_00090.png,jira_ticket,"PTPC-238  Ticket booking double-charges customers
+Status: IN REVIEW  Assignee: Divya Menon  Priority: Medium
+PTPC-S10",PTPC-238
+MTG-0025,95.0,MTG-0025/f_00095.png,jira_ticket,"PTPC-238  Ticket booking double-charges customers
+Status: IN REVIEW  Assignee: Divya Menon  Priority: Medium
+PTPC-S10",PTPC-238
+MTG-0025,100.0,MTG-0025/f_00100.png,jira_ticket,"PTPC-238  Ticket booking double-charges customers
+Status: IN REVIEW  Assignee: Divya Menon  Priority: Medium
+PTPC-S10",PTPC-238
+MTG-0025,105.0,MTG-0025/f_00105.png,jira_ticket,"PTPC-238  Ticket booking double-charges customers
+Status: IN REVIEW  Assignee: Divya Menon  Priority: Medium
+PTPC-S10",PTPC-238
+MTG-0026,0.0,MTG-0026/f_00000.png,none,,
+MTG-0026,5.0,MTG-0026/f_00005.png,jira_ticket,"DCIC-1527  Checkout page crashes when coupon applied
+Status: IN REVIEW  Assignee: Tom Fletcher  Priority: High
+DCIC-S7",DCIC-1527
+MTG-0026,10.0,MTG-0026/f_00010.png,jira_ticket,"DCIC-1527  Checkout page crashes when coupon applied
+Status: IN REVIEW  Assignee: Tom Fletcher  Priority: High
+DCIC-S7",DCIC-1527
+MTG-0026,15.0,MTG-0026/f_00015.png,jira_ticket,"DCIC-1527  Checkout page crashes when coupon applied
+Status: IN REVIEW  Assignee: Tom Fletcher  Priority: High
+DCIC-S7",DCIC-1527
+MTG-0026,20.0,MTG-0026/f_00020.png,jira_ticket,"DCIC-1527  Checkout page crashes when coupon applied
+Status: IN REVIEW  Assignee: Tom Fletcher  Priority: High
+DCIC-S7",DCIC-1527
+MTG-0026,25.0,MTG-0026/f_00025.png,jira_ticket,"DCIC-1527  Checkout page crashes when coupon applied
+Status: IN REVIEW  Assignee: Tom Fletcher  Priority: High
+DCIC-S7",DCIC-1527
+MTG-0026,30.0,MTG-0026/f_00030.png,jira_ticket,"DCIC-1527  Checkout page crashes when coupon applied
+Status: IN REVIEW  Assignee: Tom Fletcher  Priority: High
+DCIC-S7",DCIC-1527
+MTG-0026,35.0,MTG-0026/f_00035.png,jira_ticket,"DCIC-1527  Checkout page crashes when coupon applied
+5tatus: IN REVIEW  Assignee: Tom Fletcher  Priority: High
+DCIC-S7",DCIC-1527
+MTG-0026,40.0,MTG-0026/f_00040.png,jira_ticket,"DCIC-1S53  SSO login page times out after 30 seconds
+Status: T0 DO  Assignee: Tom Fletcher  Priority: Medium
+DCIC-S7",DCIC-1553
+MTG-0026,45.0,MTG-0026/f_00045.png,jira_ticket,"DCIC-1553  SSO login page times out after 30 seconds
+Status: TO DO  Assignee: Tom Fletcher  Priority: Medium
+DCIC-S7",DCIC-1553
+MTG-0026,50.0,MTG-0026/f_00050.png,jira_ticket,"DCIC-1553  SSO login page times out after 30 seconds
+Status: TO DO  Assignee: Tom Fletcher  Priority: Medium
+DCIC-S7",DCIC-1553
+MTG-0026,55.0,MTG-0026/f_00055.png,jira_ticket,"DCIC-1511  API rate limiting for partner endpoints
+Status: QA  Assignee: Siddharth Jain  Priority: Low
+DCIC-S7",DCIC-1511
+MTG-0026,60.0,MTG-0026/f_00060.png,jira_ticket,"DCIC-1511  API rate limiting for partner endpoints
+Status: QA  Assignee: Siddharth Jain  Priority: Low
+DCIC-S7",DCIC-1511
+MTG-0026,65.0,MTG-0026/f_00065.png,jira_ticket,"DCIC-1S11  API rate limiting for partner endpoints
+Status: QA  Assignee: Siddharth Jain  Priority: Low
+DCIC-S7",DCIC-1511
+MTG-0027,0.0,MTG-0027/f_00000.png,none,,
+MTG-0027,5.0,MTG-0027/f_00005.png,jira_ticket,"DCIC-1527  Checkout page crashes when coupon applied
+Status: IN REVIEW  Assignee: Tom Fletcher  Priority: High
+DCIC-57",DCIC-1527
+MTG-0027,10.0,MTG-0027/f_00010.png,jira_ticket,"DCIC-1527  Checkout page crashes when coupon applied
+Status: IN REVIEW  Assignee: Tom Fletcher  Priority: High
+DCIC-S7",DCIC-1527
+MTG-0027,15.0,MTG-0027/f_00015.png,jira_ticket,"DCIC-1527  Checkout page crashes when coupon app1ied
+Status: IN REVIEW  Assignee: Tom Fletcher  Priority: High
+DCIC-S7",DCIC-1527
+MTG-0027,20.0,MTG-0027/f_00020.png,jira_ticket,"DCIC-1527  Checkout page crashes when coupon applied
+Status: IN REVIEW  Assignee: Tom Fletcher  Priority: High
+DCIC-S7",DCIC-1527
+MTG-0027,25.0,MTG-0027/f_00025.png,jira_ticket,"DCIC-1537  Search results page slow on mobile
+Status: IN PROGRESS  Assignee: Rohan Mehta  Priority: Low
+DCIC-S7",DCIC-1537
+MTG-0027,30.0,MTG-0027/f_00030.png,jira_ticket,"DCIC-1537  Search results page slow on mobile
+Status: IN PROGRESS  Assignee: Rohan Mehta  Priority: Low
+DCIC-S7",DCIC-1537
+MTG-0027,35.0,MTG-0027/f_00035.png,jira_ticket,"DCIC-1537  Search results page slow on mobile
+Status: IN PROGRESS  Assignee: Rohan Mehta  Priority: Low
+DCIC-S7",DCIC-1537
+MTG-0027,40.0,MTG-0027/f_00040.png,jira_ticket,"DCIC-l537  Search results page slow on mobile
+Status: IN PROGRESS  Assignee: Rohan Mehta  Priority: Low
+DCIC-S7",DCIC-1537
+MTG-0027,45.0,MTG-0027/f_00045.png,jira_ticket,"DCIC-1537  Search results page slow on mobile
+Status: IN PROGRESS  Assignee: Rohan Mehta  Priority: Low
+DCIC-S7",DCIC-1537
+MTG-0027,50.0,MTG-0027/f_00050.png,jira_board,"DCIC board | TO DO   IN PROGRESS   IN REVIEW   DONE
+DCIC-1S27 Checkout page crashes when c
+DCIC-1537 Search results page slow on 
+DCIC-1524 Image upload fails above 5 M
+DCIC-1540 Migrate user table to new sc
+DCIC-1553 SSO login page times out aft
+DCIC-1529 Cookie consent banner overla
+DCIC-1511 API rate limiting for partne
+DCIC-1530 Content model for exhibition",DCIC-1527;DCIC-1537;DCIC-1524;DCIC-1540;DCIC-1553;DCIC-1529;DCIC-1511;DCIC-1530
+MTG-0027,55.0,MTG-0027/f_00055.png,jira_board,"DCIC board | TO DO   IN PROGRESS   IN REVIEW   DONE
+DCIC-1527 Checkout page crashes when c
+DCIC-1537 Search results page slow on 
+DCIC-1524 Image upload fails above 5 M
+DCIC-1540 Migrate user table to new sc
+DCIC-1553 SSO login page times out aft
+DCIC-1S29 Cookie consent banner overla
+DCIC-151l API rate limiting for partne
+DCIC-1530 Content model for exhibition",DCIC-1527;DCIC-1537;DCIC-1524;DCIC-1540;DCIC-1553;DCIC-1529;DCIC-1511;DCIC-1530
+MTG-0027,60.0,MTG-0027/f_00060.png,jira_board,"DCIC board | TO DO   IN PROGRESS   IN REVIEW   DONE
+DCIC-1527 Checkout page crashes when c
+DCIC-1537 Search results page slow on 
+DCIC-1524 Image upload fails above 5 M
+DCIC-1540 Migrate user table to new sc
+DCIC-1553 SSO login page times out aft
+DCIC-1529 Cookie consent banner overla
+DCIC-1511 API rate limiting for partne
+DCIC-1530 Content model for exhibition",DCIC-1527;DCIC-1537;DCIC-1524;DCIC-1540;DCIC-1553;DCIC-1529;DCIC-1511;DCIC-1530
+MTG-0027,65.0,MTG-0027/f_00065.png,jira_ticket,"DCIC-1540  Migrate user table to new schema
+Status: IN REVIEW  Assignee: Daniel Brooks  Priority: Low
+DCIC-S7",DCIC-1540
+MTG-0027,70.0,MTG-0027/f_00070.png,jira_ticket,"DCIC-1540  Migrate user table to new schema
+Status: IN REVIEW  Assignee: Daniel Brooks  Priority: Low
+DCIC-S7",DCIC-1540
+MTG-0027,75.0,MTG-0027/f_00075.png,jira_ticket,"DCIC-1553  SSO login page times out after 30 seconds
+Status: BLOCKED  Assignee: Tom Fletcher  Priority: Medium
+DCIC-S7",DCIC-1553
+MTG-0027,80.0,MTG-0027/f_00080.png,jira_ticket,"DCIC-1553  SSO login page times out after 30 seconds
+Status: BLOCKED  Assignee: Tom Fletcher  Priority: Medium
+DCIC-S7",DCIC-1553
+MTG-0027,85.0,MTG-0027/f_00085.png,jira_ticket,"DCIC-15S3  SSO login page times out after 30 seconds
+Status: BLOCKED  Assignee: Tom Fletcher  Priority: Medium
+DCIC-S7",DCIC-1553
+MTG-0027,90.0,MTG-0027/f_00090.png,jira_ticket,"DCIC-1553  SSO login page times out after 30 seconds
+Status: BLOCKED  Assignee: Tom Fletcher  Priority: Medium
+DCIC-S7",DCIC-1553
+MTG-0027,95.0,MTG-0027/f_00095.png,jira_ticket,"DCIC-1553  SS0 login page times out after 30 seconds
+Status: BLOCKED  Assignee: Tom Fletcher  Priority: Medium
+DCIC-57",DCIC-1553
+MTG-0027,100.0,MTG-0027/f_00100.png,jira_ticket,"DCIC-1553  SSO login page times out after 30 seconds
+Status: BLOCKED  Assignee: Tom Fletcher  Priority: Medium
+DCIC-S7",DCIC-1553
+MTG-0028,0.0,MTG-0028/f_00000.png,none,,
+MTG-0028,5.0,MTG-0028/f_00005.png,jira_ticket,"LRNC-1206  Two-factor authentication for admins
+Status: IN PROGRESS  Assignee: Hannah Price  Priority: Medium
+LRNC-S3",LRNC-1206
+MTG-0028,10.0,MTG-0028/f_00010.png,jira_ticket,"LRNC-1206  Two-factor authentication for admins
+Status: IN PROGRESS  Assignee: Hannah Price  Priority: Medium
+LRNC-S3",LRNC-1206
+MTG-0028,15.0,MTG-0028/f_00015.png,jira_ticket,"LRNC-1206  Two-factor authentication for admins
+Status: IN PROGRES5  Assignee: Hannah Price  Priority: Medium
+LRNC-S3",LRNC-1206
+MTG-0028,20.0,MTG-0028/f_00020.png,jira_ticket,"LRNC-1195  Refund workflow approval step
+Status: IN REVIEW  Assignee: Emily Carter  Priority: Medium
+LRNC-S3",LRNC-1195
+MTG-0028,25.0,MTG-0028/f_00025.png,jira_ticket,"LRNC-1195  Refund workflow approval step
+Status: IN REVIEW  Assignee: Emily Carter  Priority: Medium
+LRNC-S3",LRNC-1195
+MTG-0028,30.0,MTG-0028/f_00030.png,jira_ticket,"LRNC-1195  Refund workflow approval step
+Status: IN REVIEW  Assignee: Emily Carter  Priority: Medium
+LRNC-53",LRNC-1195
+MTG-0028,35.0,MTG-0028/f_00035.png,jira_ticket,"LRNC-1189  Image upload fails above 5 MB
+Status: QA  Assignee: Pooja Reddy  Priority: Medium
+LRNC-S3",LRNC-1189
+MTG-0028,40.0,MTG-0028/f_00040.png,jira_ticket,"LRNC-1189  Image upload fails above 5 MB
+Status: QA  Assignee: Pooja Reddy  Priority: Medium
+LRNC-S3",LRNC-1189
+MTG-0028,45.0,MTG-0028/f_00045.png,jira_ticket,"LRNC-1l89  Image upload fails above 5 MB
+Status: QA  Assignee: Pooja Reddy  Priority: Medium
+LRNC-S3",LRNC-1189
+MTG-0028,50.0,MTG-0028/f_00050.png,jira_ticket,"LRNC-1260  Password reset link expires too early
+Status: IN PROGRESS  Assignee: Aman Khanna  Priority: Highest
+LRNC-S3",LRNC-1260
+MTG-0028,55.0,MTG-0028/f_00055.png,jira_ticket,"LRNC-1260  Password reset link expires too early
+Status: IN PROGRESS  Assignee: Aman Khanna  Priority: Highest
+LRNC-S3",LRNC-1260
+MTG-0028,60.0,MTG-0028/f_00060.png,jira_ticket,"LRNC-1260  Password reset link expires too early
+Status: IN PROGRESS  Assignee: Aman Khanna  Priority: Highest
+LRNC-S3",LRNC-1260
+MTG-0028,65.0,MTG-0028/f_00065.png,none,,
+MTG-0029,0.0,MTG-0029/f_00000.png,none,,
+MTG-0029,5.0,MTG-0029/f_00005.png,jira_ticket,"LRNC-1245  API rate limiting for partner endpoints
+Status: IN PROGRESS  Assignee: Aman Khanna  Priority: High
+LRNC-S3",LRNC-1245
+MTG-0029,10.0,MTG-0029/f_00010.png,jira_ticket,"LRNC-1245  API rate limiting for partner endpoints
+Status: IN PROGRESS  Assignee: Aman Khanna  Priority: High
+LRNC-S3",LRNC-1245
+MTG-0029,15.0,MTG-0029/f_00015.png,jira_ticket,"LRNC-1245  API rate limiting for partner endpoints
+Status: IN PROGRESS  Assignee: Aman Khanna  Priority: High
+LRNC-S3",LRNC-1245
+MTG-0029,20.0,MTG-0029/f_00020.png,jira_ticket,"LRNC-1245  API rate limiting for partner endpoints
+Status: IN PROGRESS  Assignee: Aman Khanna  Priority: High
+LRNC-S3",LRNC-1245
+MTG-0029,25.0,MTG-0029/f_00025.png,jira_ticket,"LRNC-1245  API rate limiting for partner endpoints
+Status: IN PROGRESS  Assignee: Aman Khanna  Priority: High
+LRNC-S3",LRNC-1245
+MTG-0029,30.0,MTG-0029/f_00030.png,jira_ticket,"LRNC-1259  Audit log for record changes
+Status: QA  Assignee: Priya Sharma  Priority: Low
+LRNC-S3",LRNC-1259
+MTG-0029,35.0,MTG-0029/f_00035.png,jira_ticket,"LRNC-1263  Push notifications not delivered on Android
+Status: IN REVIEW  Assignee: Pooja Reddy  Priority: Medium
+LRNC-S3",LRNC-1263
+MTG-0029,40.0,MTG-0029/f_00040.png,jira_ticket,"LRNC-l263  Push notifications not delivered on Android
+Status: IN REVIEW  Assignee: Pooja Reddy  Priority: Medium
+LRNC-S3",LRNC-1263
+MTG-0029,45.0,MTG-0029/f_00045.png,jira_ticket,"LRNC-1263  Push notifications not delivered on Android
+Status: IN REVIEW  Assignee: Pooja Reddy  Priority: Medium
+LRNC-S3",LRNC-1263
+MTG-0029,50.0,MTG-0029/f_00050.png,jira_ticket,"LRNC-1266  SSO login page times out after 30 seconds
+Status: IN REVIEW  Assignee: Aman Khanna  Priority: Medium
+LRNC-S3",LRNC-1266
+MTG-0029,55.0,MTG-0029/f_00055.png,jira_ticket,"LRNC-1266  SSO login page times out after 30 seconds
+Status: IN REVIEW  Assignee: Aman Khanna  Priority: Medium
+LRNC-S3",LRNC-1266
+MTG-0029,60.0,MTG-0029/f_00060.png,jira_ticket,"LRNC-1266  5SO login page times out after 30 seconds
+Status: IN REVIEW  Assignee: Aman Khanna  Priority: Medium
+LRNC-S3",LRNC-1266
+MTG-0029,65.0,MTG-0029/f_00065.png,jira_ticket,"LRNC-1206  Two-factor authentication for admins
+Status: QA  Assignee: Hannah Price  Priority: Medium
+LRNC-S3",LRNC-1206
+MTG-0029,70.0,MTG-0029/f_00070.png,jira_ticket,"LRNC-1249  Cookie consent banner over1aps footer
+Status: IN REVIEW  Assignee: Karan Malhotra  Priority: Medium
+LRNC-S3",LRNC-1249
+MTG-0029,75.0,MTG-0029/f_00075.png,jira_ticket,"LRNC-1249  Cookie consent banner overlaps footer
+Status: IN REVIEW  Assignee: Karan Malhotra  Priority: Medium
+LRNC-S3",LRNC-1249
+MTG-0029,80.0,MTG-0029/f_00080.png,jira_ticket,"LRNC-1249  Cookie consent banner overlaps footer
+Status: IN REVIEW  Assignee: Karan Malhotra  Priority: Medium
+LRNC-S3",LRNC-1249
+MTG-0029,85.0,MTG-0029/f_00085.png,jira_ticket,"LRNC-1249  Cookie consent banner overlaps footer
+Status: IN REVIEW  Assignee: Karan Malhotra  Priority: Medium
+LRNC-S3",LRNC-1249
+MTG-0029,90.0,MTG-0029/f_00090.png,jira_ticket,"LRNC-1249  Cookie consent banner overlaps footer
+Status: IN REVIEW  Assignee: Karan Malhotra  Priority: Medium
+LRNC-S3",LRNC-1249
+MTG-0030,0.0,MTG-0030/f_00000.png,none,,
+MTG-0030,5.0,MTG-0030/f_00005.png,jira_ticket,"DCID-2421  Email template branding update
+Status: IN PROGRESS  Assignee: Daniel Brooks  Priority: Low
+DCID-S4",DCID-2421
+MTG-0030,10.0,MTG-0030/f_00010.png,jira_ticket,"DCID-2421  Email template branding update
+5tatus: IN PROGRESS  Assignee: Daniel Brooks  Priority: Low
+DCID-S4",DCID-2421
+MTG-0030,15.0,MTG-0030/f_00015.png,jira_ticket,"DCID-242l  Email template branding update
+Status: IN PR0GRESS  Assignee: Daniel Brooks  Priority: Low
+DCID-S4",DCID-2421
+MTG-0030,20.0,MTG-0030/f_00020.png,jira_ticket,"DCID-2434  Dashboard charts show wrong totals
+Status: REOPENED  Assignee: Daniel Brooks  Priority: High
+DCID-S4",DCID-2434
+MTG-0030,25.0,MTG-0030/f_00025.png,jira_ticket,"DCID-2434  Dashboard charts show wrong totals
+Status: REOPENED  Assignee: Daniel Brooks  Priority: High
+DCID-S4",DCID-2434
+MTG-0030,30.0,MTG-0030/f_00030.png,jira_ticket,"DCID-2434  Dashboard charts show wrong totals
+Status: REOPENED  Assignee: Daniel Brooks  Priority: High
+DCID-S4",DCID-2434
+MTG-0030,35.0,MTG-0030/f_00035.png,jira_ticket,"DCID-2434  Dashboard charts show wrong totals
+Status: REOPENED  Assignee: Daniel Brooks  Priority: High
+DCID-S4",DCID-2434
+MTG-0030,40.0,MTG-0030/f_00040.png,jira_ticket,"DCID-2434  Dashboard charts show wrong totals
+Status: REOPENED  Assignee: Daniel Brooks  Priority: High
+DCID-S4",DCID-2434
+MTG-0030,45.0,MTG-0030/f_00045.png,jira_ticket,"DCID-2434  Dashboard charts show wrong totals
+Status: REOPENED  Assignee: Daniel Brooks  Priority: High
+DCID-S4",DCID-2434
+MTG-0031,0.0,MTG-0031/f_00000.png,none,,
+MTG-0031,5.0,MTG-0031/f_00005.png,jira_ticket,"DCID-2440  Checkout page crashes when coupon applied
+Status: DONE  Assignee: Ishita Rao  Priority: High
+DCID-S3",DCID-2440
+MTG-0031,10.0,MTG-0031/f_00010.png,jira_ticket,"DCID-2440  Checkout page crashes when coupon applied
+Status: DONE  Assignee: Ishita Rao  Priority: High
+DCID-S3",DCID-2440
+MTG-0031,15.0,MTG-0031/f_00015.png,jira_ticket,"DCID-2440  Checkout page crashes when coupon applied
+Status: D0NE  Assignee: Ishita Rao  Priority: High
+DCID-S3",DCID-2440
+MTG-0031,20.0,MTG-0031/f_00020.png,jira_ticket,"DCID-2428  Payment gateway retry logic for failed transactions
+Status: IN PROGRESS  Assignee: Rahul Joshi  Priority: Low
+DCID-S4",DCID-2428
+MTG-0031,25.0,MTG-0031/f_00025.png,jira_ticket,"DCID-2428  Payment gateway retry logic for failed transactions
+Status: IN PROGRESS  Assignee: Rahul Joshi  Priority: Low
+DCID-S4",DCID-2428
+MTG-0031,30.0,MTG-0031/f_00030.png,jira_ticket,"DCID-2428  Payment gateway retry logic for failed transactions
+Status: IN PROGRESS  Assignee: Rahul Joshi  Priority: Low
+DCID-S4",DCID-2428
+MTG-0031,35.0,MTG-0031/f_00035.png,jira_ticket,"DCID-2434  Dashboard charts show wrong totals
+Status: REOPENED  Assignee: Daniel Brooks  Priority: High
+DCID-S4",DCID-2434
+MTG-0031,40.0,MTG-0031/f_00040.png,jira_ticket,"DCID-2434  Dashboard charts show wrong totals
+5tatus: REOPENED  Assignee: Daniel Brooks  Priority: High
+DCID-S4",DCID-2434
+MTG-0031,45.0,MTG-0031/f_00045.png,jira_ticket,"DCID-2434  Dashboard charts show wrong totals
+Status: REOPENED  Assignee: Daniel Brooks  Priority: High
+DCID-S4",DCID-2434
+MTG-0031,50.0,MTG-0031/f_00050.png,none,,
+MTG-0034,0.0,MTG-0034/f_00000.png,i360_portfolio,i360 Portfolio  |  Harborview Museum - Membership Portal: Green  |  Atlas Logistics - Data Warehouse Migration: Green  |  Atlas Logistics - Booking Engine: Green  |  Silverline Travel - Partner Portal: Yellow  |  Oakridge Bank - Donor CRM Integration: Red  |  Ironbridge Manufacturing - Learning Platform: Green  |  Evergreen University - Donor CRM Integration: Green  |  Riverside Foundation - Claims Dashboard: Green,
+MTG-0034,5.0,MTG-0034/f_00005.png,i360_project,"i360  Project: Harborview Museum - Membership Portal  Client: Harborview Museum
+Status: Green  Delivery Lead: Nikhi1 Arora",
+MTG-0034,10.0,MTG-0034/f_00010.png,i360_project,"i360  Project: Harborview Museum - Membership Portal  Client: Harborview Museum
+Status: Green  Delivery Lead: Nikhil Arora",
+MTG-0034,15.0,MTG-0034/f_00015.png,i360_project,"i360  Project: Atlas Logistics - Data Warehouse Migration  Client: Atlas Logistics
+Status: Green  Delivery Lead: Shweta Kapoor",
+MTG-0034,20.0,MTG-0034/f_00020.png,i360_project,"i360  Project: Atlas Logistics - Data Warehouse Migration  Client: Atlas Logistics
+Status: Green  Delivery Lead: 5hweta Kapoor",
+MTG-0034,25.0,MTG-0034/f_00025.png,i360_project,"i360  Project: Atlas Logistics - Data Warehouse Migration  Client: Atlas Logistics
+Status: Green  Delivery Lead: Shweta Kapoor",
+MTG-0034,30.0,MTG-0034/f_00030.png,i360_project,"i360  Project: Atlas Logistics - Data Warehouse Migration  Client: Atlas Logistics
+Status: Green  Delivery Lead: Shweta Kapoor",
+MTG-0034,35.0,MTG-0034/f_00035.png,i360_project,"i360  Project: Atlas Logistics - Booking Engine  Client: Atlas Logistics
+Status: Green  Delivery Lead: Mark Davies",
+MTG-0034,40.0,MTG-0034/f_00040.png,i360_project,"i360  Project: At1as Logistics - Booking Engine  Client: Atlas Logistics
+Status: Green  De1ivery Lead: Mark Davies",
+MTG-0034,45.0,MTG-0034/f_00045.png,i360_project,"i360  Project: Atlas Logistics - Booking Engine  Client: Atlas Logistics
+Status: Green  Delivery Lead: Mark Davies",
+MTG-0034,50.0,MTG-0034/f_00050.png,i360_project,"i360  Project: Atlas Logistics - Booking Engine  Client: Atlas Logistics
+Status: Green  Delivery Lead: Mark Davies",
+MTG-0034,55.0,MTG-0034/f_00055.png,i360_project,"i360  Project: Silverline Travel - Partner Portal  Client: Silverline Travel
+Status: Yellow  Delivery Lead: Shweta Kapoor",
+MTG-0034,60.0,MTG-0034/f_00060.png,i360_project,"i360  Project: Oakridge Bank - Donor CRM Integration  Client: Oakridge Bank
+Status: Red  Delivery Lead: Sameer Qureshi",
+MTG-0034,65.0,MTG-0034/f_00065.png,i360_project,"i360  Project: Oakridge Bank - Donor CRM Integration  Client: Oakridge Bank
+Status: Red  Delivery Lead: Sameer Qureshi",
+MTG-0034,70.0,MTG-0034/f_00070.png,i360_project,"i360  Project: Silverline Travel - Partner Portal  Client: Silverline Travel
+Status: Yellow  Delivery Lead: Shweta Kapoor",
+MTG-0034,75.0,MTG-0034/f_00075.png,i360_project,"i360  Project: Evergreen University - Donor CRM Integration  C1ient: Evergreen University
+Status: Green  Delivery Lead: Anjali Saxena",
+MTG-0034,80.0,MTG-0034/f_00080.png,i360_portfolio,i360 Portfolio  |  Harborview Museum - Membership Portal: Green  |  Atlas Logistics - Data Warehouse Migration: Green  |  Atlas Logistics - Booking Engine: Green  |  Silverline Travel - Partner Portal: Yellow  |  0akridge Bank - Donor CRM Integration: Red  |  Ironbridge Manufacturing - Learning Platform: Green  |  Evergreen University - Donor CRM Integration: Green  |  Riverside Foundation - Claims Dashboard: Green,
+MTG-0034,85.0,MTG-0034/f_00085.png,i360_portfolio,i360 Portfolio  |  Harborview Museum - Membership Portal: Green  |  Atlas Logistics - Data Warehouse Migration: Green  |  Atlas Logistics - Booking Engine: Green  |  Silverline Travel - Partner Portal: Yellow  |  Oakridge Bank - Donor CRM Integration: Red  |  Ironbridge Manufacturing - Learning Platform: Green  |  Evergreen University - Donor CRM Integration: Green  |  Riverside Foundation - Claims Dashboard: Green,
+MTG-0035,0.0,MTG-0035/f_00000.png,none,,
+MTG-0035,5.0,MTG-0035/f_00005.png,jira_ticket,"HMP-54B3  Add CSV export to admin reports
+Status: IN REVIEW  Assignee: Jake Thompson  Priority: Medium
+HMP-S7",HMP-5483
+MTG-0035,10.0,MTG-0035/f_00010.png,jira_ticket,"HMP-S483  Add CSV export to admin reports
+Status: IN REVIEW  Assignee: Jake Thompson  Priority: Medium
+HMP-S7",HMP-5483
+MTG-0035,15.0,MTG-0035/f_00015.png,jira_ticket,"HMP-5483  Add CSV export to admin reports
+Status: IN REVIEW  Assignee: Jake Thompson  Priority: Medium
+HMP-S7",HMP-5483
+MTG-0035,20.0,MTG-0035/f_00020.png,jira_ticket,"HMP-5483  Add CSV export to admin reports
+Status: IN REVIEW  Assignee: Jake Thompson  Priority: Medium
+HMP-S7",HMP-5483
+MTG-0035,25.0,MTG-0035/f_00025.png,jira_ticket,"HMP-4000  SSO login page times out after 30 seconds
+Status: BLOCKED  Assignee: Sarah Collins  Priority: High
+HMP-57",HMP-4000
+MTG-0035,30.0,MTG-0035/f_00030.png,jira_ticket,"HMP-4000  SSO login page times out after 30 seconds
+Status: BLOCKED  Assignee: Sarah Collins  Priority: High
+HMP-S7",HMP-4000
+MTG-0035,35.0,MTG-0035/f_00035.png,jira_ticket,"HMP-4000  SSO login page times out after 30 seconds
+Status: BLOCKED  Assignee: Sarah Collins  Priority: High
+HMP-S7",HMP-4000
+MTG-0035,40.0,MTG-0035/f_00040.png,jira_ticket,"HMP-4000  SSO login page times out after 30 seconds
+Status: BLOCKED  Assignee: Sarah Collins  Priority: High
+HMP-S7",HMP-4000
+MTG-0035,45.0,MTG-0035/f_00045.png,jira_ticket,"HMP-4000  SS0 login page times out after 30 seconds
+Status: BLOCKED  Assignee: Sarah Collins  Priority: High
+HMP-S7",HMP-4000
+MTG-0035,50.0,MTG-0035/f_00050.png,jira_ticket,"HMP-4000  S5O login page times out after 30 seconds
+Status: BLOCKED  Assignee: Sarah Collins  Priority: High
+HMP-S7",HMP-4000
+MTG-0035,55.0,MTG-0035/f_00055.png,jira_ticket,"HMP-5500  Payment gateway retry logic for failed transactions
+Status: IN PROGRESS  Assignee: Laura Mitchell  Priority: Medium
+HMP-S7",HMP-5500
+MTG-0035,60.0,MTG-0035/f_00060.png,jira_ticket,"HMP-5500  Payment gateway retry logic for failed transactions
+Status: IN PROGRESS  Assignee: Laura Mitchell  Priority: Medium
+HMP-S7",HMP-5500
+MTG-0035,65.0,MTG-0035/f_00065.png,jira_ticket,"HMP-55O0  Payment gateway retry logic for failed transactions
+Status: IN PROGRESS  Assignee: Laura Mitchell  Priority: Medium
+HMP-S7",HMP-5500
+MTG-0035,70.0,MTG-0035/f_00070.png,jira_ticket,"HMP-5500  Payment gateway retry logic for failed transactions
+Status: IN PROGRESS  Assignee: Laura Mitchell  Priority: Medium
+HMP-S7",HMP-5500
+MTG-0035,75.0,MTG-0035/f_00075.png,jira_board,"HMP board | TO DO   IN PROGRESS   IN REVIEW   DONE
+HMP-S483 Add CSV export to admin repo
+HMP-4000 SSO login page times out aft
+HMP-5500 Payment gateway retry logic 
+HMP-5486 Translate site into Spanish
+HMP-5485 Checkout page crashes when c
+HMP-4016 Translate site into Spanish
+HMP-5441 Map view not loading store l
+HMP-5468 Migrate user table to new sc",HMP-5483;HMP-4000;HMP-5500;HMP-5486;HMP-5485;HMP-4016;HMP-5441;HMP-5468
+MTG-0035,80.0,MTG-0035/f_00080.png,jira_board,"HMP board | TO DO   IN PROGRESS   IN REVIEW   DONE
+HMP-5483 Add CSV export to admin repo
+HMP-4000 SSO login page times out aft
+HMP-5500 Payment gateway retry logic 
+HMP-5486 Translate site into Spanish
+HMP-54B5 Checkout page crashes when c
+HMP-4016 Translate site into Spanish
+HMP-5441 Map view not loading store l
+HMP-5468 Migrate user table to new sc",HMP-5483;HMP-4000;HMP-5500;HMP-5486;HMP-5485;HMP-4016;HMP-5441;HMP-5468
+MTG-0035,85.0,MTG-0035/f_00085.png,jira_board,"HMP board | TO DO   IN PROGRESS   IN REVIEW   DONE
+HMP-54B3 Add CSV export to admin repo
+HMP-4O00 SSO login page times out aft
+HMP-5500 Payment gateway retry logic 
+HMP-5486 Translate site into Spanish
+HMP-5485 Checkout page crashes when c
+HMP-4016 Translate site into Spanish
+HMP-5441 Map view not loading store 1
+HMP-5468 Migrate user table to new sc",HMP-5483;HMP-4000;HMP-5500;HMP-5486;HMP-5485;HMP-4016;HMP-5441;HMP-5468
+MTG-0035,90.0,MTG-0035/f_00090.png,jira_board,"HMP board | TO DO   IN PR0GRE5S   IN REVIEW   DONE
+HMP-5483 Add CSV export to admin repo
+HMP-4000 SSO login page times out aft
+HMP-5500 Payment gateway retry logic 
+HMP-S486 Translate site into Spanish
+HMP-5485 Checkout page crashes when c
+HMP-4016 Translate site into Spanish
+HMP-5441 Map view not loading store 1
+HMP-5468 Migrate user table to new sc",HMP-5483;HMP-4000;HMP-5500;HMP-5486;HMP-5485;HMP-4016;HMP-5441;HMP-5468
+MTG-0035,95.0,MTG-0035/f_00095.png,jira_board,"HMP board | TO DO   IN PROGRESS   IN REVIEW   DONE
+HMP-5483 Add CSV export to admin repo
+HMP-4000 SSO login page times out aft
+HMP-5S00 Payment gateway retry logic 
+HMP-5486 Translate site into Spanish
+HMP-5485 Checkout page crashes when c
+HMP-4016 Translate site into Spanish
+HMP-5441 Map view not loading store l
+HMP-5468 Migrate user table to new sc",HMP-5483;HMP-4000;HMP-5500;HMP-5486;HMP-5485;HMP-4016;HMP-5441;HMP-5468
+MTG-0036,0.0,MTG-0036/f_00000.png,none,,
+MTG-0036,5.0,MTG-0036/f_00005.png,jira_ticket,"HMP-5485  Checkout page crashes when coupon applied
+Status: QA  Assignee: Emily Carter  Priority: Medium
+HMP-S7",HMP-5485
+MTG-0036,10.0,MTG-0036/f_00010.png,jira_ticket,"HMP-5485  Checkout page crashes when coupon applied
+Status: QA  Assignee: Emily Carter  Priority: Medium
+HMP-S7",HMP-5485
+MTG-0036,15.0,MTG-0036/f_00015.png,jira_ticket,"HMP-5485  Checkout page crashes when coupon applied
+Status: QA  Assignee: Emily Carter  Priority: Medium
+HMP-S7",HMP-5485
+MTG-0036,20.0,MTG-0036/f_00020.png,jira_ticket,"HMP-5486  Trans1ate site into Spanish
+Status: BLOCKED  Assignee: Emily Carter  Priority: Medium
+HMP-S7",HMP-5486
+MTG-0036,25.0,MTG-0036/f_00025.png,jira_ticket,"HMP-5500  Payment gateway retry logic for failed transactions
+Status: IN PROGRESS  Assignee: Laura Mitchell  Priority: Medium
+HMP-S7",HMP-5500
+MTG-0036,30.0,MTG-0036/f_00030.png,jira_ticket,"HMP-5500  Payment gateway retry logic for failed transactions
+Status: IN PROGRESS  Assignee: Laura Mitchell  Priority: Medium
+HMP-S7",HMP-5500
+MTG-0036,35.0,MTG-0036/f_00035.png,jira_board,"HMP board | TO DO   IN PROGRESS   IN REVIEW   DONE
+HMP-5485 Checkout page crashes when c
+HMP-5486 Translate site into Spanish
+HMP-5500 Payment gateway retry logic 
+HMP-4000 SSO login page times out aft
+HMP-4016 Translate site into 5panish
+HMP-5441 Map view not 1oading store l
+HMP-S468 Migrate user table to new sc
+HMP-5475 Data sync job fails at midni",HMP-5485;HMP-5486;HMP-5500;HMP-4000;HMP-4016;HMP-5441;HMP-5468;HMP-5475
+MTG-0036,40.0,MTG-0036/f_00040.png,jira_board,"HMP board | TO DO   IN PROGRESS   IN REVIEW   DONE
+HMP-5485 Checkout page crashes when c
+HMP-5486 Translate site into Spanish
+HMP-5500 Payment gateway retry logic 
+HMP-4000 SSO login page times out aft
+HMP-4016 Translate site into Spanish
+HMP-5441 Map view not loading store l
+HMP-5468 Migrate user table to new sc
+HMP-5475 Data sync job fails at midni",HMP-5485;HMP-5486;HMP-5500;HMP-4000;HMP-4016;HMP-5441;HMP-5468;HMP-5475
+MTG-0036,45.0,MTG-0036/f_00045.png,jira_board,"HMP board | TO DO   IN PROGRESS   IN REVIEW   DONE
+HMP-5485 Checkout page crashes when c
+HMP-5486 Translate site into Spanish
+HMP-5500 Payment gateway retry logic 
+HMP-4000 SSO 1ogin page times out aft
+HMP-4016 Translate site into 5panish
+HMP-5441 Map view not loading store l
+HMP-5468 Migrate user table to new sc
+HMP-5475 Data sync job fails at midni",HMP-5485;HMP-5486;HMP-5500;HMP-4000;HMP-4016;HMP-5441;HMP-5468;HMP-5475
+MTG-0037,0.0,MTG-0037/f_00000.png,none,,
+MTG-0037,5.0,MTG-0037/f_00005.png,jira_ticket,"DWMG-1280  Content model for exhibition pages
+Status: IN REVIEW  Assignee: Hannah Price  Priority: Low
+DWMG-S7",DWMG-1280
+MTG-0037,10.0,MTG-0037/f_00010.png,jira_ticket,"DWMG-1280  Content model for exhibition pages
+Status: IN REVIEW  Assignee: Hannah Price  Priority: Low
+DWMG-S7",DWMG-1280
+MTG-0037,15.0,MTG-0037/f_00015.png,jira_ticket,"DWMG-1280  Content model for exhibition pages
+Status: IN REVIEW  Assignee: Hannah Price  Priority: Low
+DWMG-S7",DWMG-1280
+MTG-0037,20.0,MTG-0037/f_00020.png,jira_ticket,"DWMG-1280  Content model for exhibition pages
+Status: IN REVIEW  Assignee: Hannah Price  Priority: Low
+DWMG-S7",DWMG-1280
+MTG-0037,25.0,MTG-0037/f_00025.png,jira_ticket,"DWMG-1280  Content model for exhibition pages
+Status: IN REVIEW  Assignee: Hannah Price  Priority: Low
+DWMG-S7",DWMG-1280
+MTG-0037,30.0,MTG-0037/f_00030.png,jira_ticket,"DWMG-1311  Data sync job fails at midnight
+Status: QA  Assignee: Unassigned  Priority: High
+DWMG-S7",DWMG-1311
+MTG-0037,35.0,MTG-0037/f_00035.png,jira_ticket,"DWMG-131l  Data sync job fails at midnight
+Status: QA  Assignee: Unassigned  Priority: High
+DWMG-S7",DWMG-1311
+MTG-0037,40.0,MTG-0037/f_00040.png,jira_ticket,"DWMG-1318  PDF invoice generation broken
+Status: IN REVIEW  Assignee: Emi1y Carter  Priority: Medium
+DWMG-S7",DWMG-1318
+MTG-0037,45.0,MTG-0037/f_00045.png,jira_ticket,"DWMG-l318  PDF invoice generation broken
+Status: IN REVIEW  Assignee: Emily Carter  Priority: Medium
+DWMG-S7",DWMG-1318
+MTG-0037,50.0,MTG-0037/f_00050.png,jira_ticket,"DWMG-1318  PDF invoice generation broken
+Status: IN REVIEW  Assignee: Emily Carter  Priority: Medium
+DWMG-S7",DWMG-1318
+MTG-0037,55.0,MTG-0037/f_00055.png,jira_ticket,"DWMG-1318  PDF invoice generation broken
+Status: IN REVIEW  Assignee: Emily Carter  Priority: Medium
+DWMG-S7",DWMG-1318
+MTG-0037,60.0,MTG-0037/f_00060.png,none,,
+MTG-0038,0.0,MTG-0038/f_00000.png,none,,
+MTG-0038,5.0,MTG-0038/f_00005.png,jira_ticket,"DWMG-1325  Payment gateway retry logic for failed transactions
+Status: IN PROGRESS  Assignee: Neha Gupta  Priority: Lowest
+DWMG-S7",DWMG-1325
+MTG-0038,10.0,MTG-0038/f_00010.png,jira_ticket,"DWMG-1325  Payment gateway retry logic for failed transactions
+Status: IN PROGRESS  Assignee: Neha Gupta  Priority: Lowest
+DWMG-S7",DWMG-1325
+MTG-0038,15.0,MTG-0038/f_00015.png,jira_ticket,"DWMG-1325  Payment gateway retry logic for failed transactions
+Status: IN PROGRESS  Assignee: Neha Gupta  Priority: Lowest
+DWMG-S7",DWMG-1325
+MTG-0038,20.0,MTG-0038/f_00020.png,jira_ticket,"DWMG-1320  Member renewal email not triggering
+Status: IN PROGRESS  Assignee: Neha Gupta  Priority: High
+DWMG-S7",DWMG-1320
+MTG-0038,25.0,MTG-0038/f_00025.png,jira_ticket,"DWMG-1320  Member renewal email not triggering
+Status: IN PROGRESS  Assignee: Neha Gupta  Priority: High
+DWMG-S7",DWMG-1320
+MTG-0038,30.0,MTG-0038/f_00030.png,jira_ticket,"DWMG-1252  Content model for exhibition pages
+Status: IN REVIEW  Assignee: Daniel Brooks  Priority: High
+DWMG-S7",DWMG-1252
+MTG-0038,35.0,MTG-0038/f_00035.png,jira_ticket,"DWMG-1252  Content model for exhibition pages
+Status: IN REVIEW  Assignee: Daniel Brooks  Priority: High
+DWMG-S7",DWMG-1252
+MTG-0038,40.0,MTG-0038/f_00040.png,jira_ticket,"DWMG-1252  Content model for exhibition pages
+Status: IN REVIEW  Assignee: Daniel Brooks  Priority: High
+DWMG-S7",DWMG-1252
+MTG-0038,45.0,MTG-0038/f_00045.png,jira_ticket,"DWMG-1310  Dashboard charts show wrong totals
+Status: IN PROGRESS  Assignee: Jake Thompson  Priority: Low
+DWMG-S7",DWMG-1310
+MTG-0038,50.0,MTG-0038/f_00050.png,jira_ticket,"DWMG-1310  Dashboard charts show wrong totals
+Status: IN PROGRESS  Assignee: Jake Thompson  Priority: Low
+DWMG-S7",DWMG-1310
+MTG-0038,55.0,MTG-0038/f_00055.png,jira_board,"DWMG board | TO DO   IN PROGRESS   IN REVIEW   DONE
+DWMG-1325 Payment gateway retry logic 
+DWMG-1320 Member renewal email not tri
+DWMG-1252 Content model for exhibition
+DWMG-1310 Dashboard charts show wrong 
+DWMG-l239 Product filters reset on bac
+DWMG-1281 Chatbot gives wrong opening 
+DWMG-1280 Content model for exhibition
+DWMG-1289 Event calendar timezone bug",DWMG-1325;DWMG-1320;DWMG-1252;DWMG-1310;DWMG-1239;DWMG-1281;DWMG-1280;DWMG-1289
+MTG-0038,60.0,MTG-0038/f_00060.png,jira_board,"DWMG board | TO DO   IN PROGRESS   IN REVIEW   DONE
+DWMG-1325 Payment gateway retry logic 
+DWMG-1320 Member renewal email not tri
+DWMG-1252 Content model for exhibition
+DWMG-1310 Dashboard charts show wrong 
+DWMG-1239 Product filters reset on bac
+DWMG-1281 Chatbot gives wrong opening 
+DWMG-1280 Content model for exhibition
+DWMG-1289 Event calendar timezone bug",DWMG-1325;DWMG-1320;DWMG-1252;DWMG-1310;DWMG-1239;DWMG-1281;DWMG-1280;DWMG-1289
+MTG-0038,65.0,MTG-0038/f_00065.png,none,,
+MTG-0039,0.0,MTG-0039/f_00000.png,none,,
+MTG-0039,5.0,MTG-0039/f_00005.png,jira_ticket,"BKEE-l106  Email template branding update
+Status: QA  Assignee: Neha Gupta  Priority: High
+BKEE-SB",BKEE-1106
+MTG-0039,10.0,MTG-0039/f_00010.png,jira_ticket,"BKEE-1106  Email template branding update
+Status: QA  Assignee: Neha Gupta  Priority: High
+BKEE-S8",BKEE-1106
+MTG-0039,15.0,MTG-0039/f_00015.png,jira_ticket,"BKEE-1106  Email template branding update
+Status: QA  Assignee: Neha Gupta  Priority: High
+BKEE-S8",BKEE-1106
+MTG-0039,20.0,MTG-0039/f_00020.png,jira_ticket,"BKEE-1106  Email template branding update
+Status: QA  Assignee: Neha Gupta  Priority: High
+BKEE-S8",BKEE-1106
+MTG-0039,25.0,MTG-0039/f_00025.png,jira_ticket,"BKEE-1106  Email template branding update
+Status: QA  Assignee: Neha Gupta  Priority: High
+BKEE-S8",BKEE-1106
+MTG-0039,30.0,MTG-0039/f_00030.png,jira_ticket,"BKEE-1106  Email template branding update
+Status: QA  Assignee: Neha Gupta  Priority: High
+BKEE-S8",BKEE-1106
+MTG-0039,35.0,MTG-0039/f_00035.png,jira_ticket,"BKEE-1086  Duplicate records in donor import
+Status: BLOCKED  Assignee: Neha Gupta  Priority: Low
+BKEE-S8",BKEE-1086
+MTG-0039,40.0,MTG-0039/f_00040.png,jira_ticket,"BKEE-1086  Duplicate records in donor import
+Status: BLOCKED  Assignee: Neha Gupta  Priority: Low
+BKEE-S8",BKEE-1086
+MTG-0039,45.0,MTG-0039/f_00045.png,jira_ticket,"BKEE-1098  Integrate Salesforce contact sync
+Status: BLOCKED  Assignee: Neha Gupta  Priority: Medium
+BKEE-S8",BKEE-1098
+MTG-0039,50.0,MTG-0039/f_00050.png,jira_ticket,"BKEE-lO98  Integrate Salesforce contact sync
+Status: BLOCKED  Assignee: Neha Gupta  Priority: Medium
+BKEE-S8",BKEE-1098
+MTG-0039,55.0,MTG-0039/f_00055.png,jira_ticket,"BKEE-1O98  Integrate Salesforce contact sync
+Status: BLOCKED  Assignee: Neha Gupta  Priority: Medium
+BKEE-S8",BKEE-1098
+MTG-0039,60.0,MTG-0039/f_00060.png,jira_ticket,"BKEE-1098  Integrate Salesforce contact sync
+Status: BLOCKED  Assignee: Neha Gupta  Priority: Medium
+BKEE-S8",BKEE-1098
+MTG-0039,65.0,MTG-0039/f_00065.png,jira_ticket,"BKEE-1O98  Integrate Sa1esforce contact sync
+5tatus: BLOCKED  Assignee: Neha Gupta  Priority: Medium
+BKEE-S8",BKEE-1098
+MTG-0039,70.0,MTG-0039/f_00070.png,jira_ticket,"BKEE-1098  Integrate Salesforce contact sync
+Status: BLOCKED  Assignee: Neha Gupta  Priority: Medium
+BKEE-S8",BKEE-1098
+MTG-0039,75.0,MTG-0039/f_00075.png,jira_ticket,"BKEE-1098  Integrate Salesforce contact sync
+Status: BLOCKED  Assignee: Neha Gupta  Priority: Medium
+BKEE-S8",BKEE-1098
+MTG-0039,80.0,MTG-0039/f_00080.png,jira_ticket,"BKEE-1087  Map view not loading store locations
+Status: IN PROGRESS  Assignee: Unassigned  Priority: Low
+BKEE-S8",BKEE-1087
+MTG-0039,85.0,MTG-0039/f_00085.png,jira_ticket,"BKEE-1087  Map view not loading store locations
+Status: IN PROGRESS  Assignee: Unassigned  Priority: Low
+BKEE-S8",BKEE-1087
+MTG-0039,90.0,MTG-0039/f_00090.png,jira_ticket,"BKEE-1098  Integrate Salesforce contact sync
+5tatus: BLOCKED  Assignee: Neha Gupta  Priority: Medium
+BKEE-S8",BKEE-1098
+MTG-0040,0.0,MTG-0040/f_00000.png,none,,
+MTG-0040,5.0,MTG-0040/f_00005.png,jira_ticket,"BKEE-1098  Integrate Salesforce contact sync
+Status: BLOCKED  Assignee: Neha Gupta  Priority: Medium
+BKEE-S8",BKEE-1098
+MTG-0040,10.0,MTG-0040/f_00010.png,jira_ticket,"BKEE-1098  Integrate Salesforce contact sync
+Status: BLOCKED  Assignee: Neha Gupta  Priority: Medium
+BKEE-SB",BKEE-1098
+MTG-0040,15.0,MTG-0040/f_00015.png,jira_ticket,"BKEE-1098  Integrate Salesforce contact sync
+Status: BLOCKED  Assignee: Neha Gupta  Priority: Medium
+BKEE-S8",BKEE-1098
+MTG-0040,20.0,MTG-0040/f_00020.png,jira_ticket,"BKEE-1085  Emai1 template branding update
+Status: QA  Assignee: Neha Gupta  Priority: Medium
+BKEE-S8",BKEE-1085
+MTG-0040,25.0,MTG-0040/f_00025.png,jira_ticket,"BKEE-108S  Email template branding update
+Status: QA  Assignee: Neha Gupta  Priority: Medium
+BKEE-S8",BKEE-1085
+MTG-0040,30.0,MTG-0040/f_00030.png,jira_ticket,"BKEE-1085  Email template branding update
+Status: QA  Assignee: Neha Gupta  Priority: Medium
+BKEE-S8",BKEE-1085
+MTG-0040,35.0,MTG-0040/f_00035.png,jira_ticket,"BKEE-1085  Email template branding update
+Status: QA  Assignee: Neha Gupta  Priority: Medium
+BKEE-S8",BKEE-1085
+MTG-0040,40.0,MTG-0040/f_00040.png,jira_ticket,"BKEE-1087  Map view not loading store locations
+Status: BLOCKED  Assignee: Unassigned  Priority: Low
+BKEE-S8",BKEE-1087
+MTG-0040,45.0,MTG-0040/f_00045.png,jira_ticket,"BKEE-1087  Map view not loading store locations
+Status: BLOCKED  Assignee: Unassigned  Priority: Low
+BKEE-S8",BKEE-1087
+MTG-0040,50.0,MTG-0040/f_00050.png,jira_ticket,"BKEE-1O99  Admin role permissions not saving
+Status: IN PROGRESS  Assignee: Neha Gupta  Priority: High
+BKEE-58",BKEE-1099
+MTG-0040,55.0,MTG-0040/f_00055.png,jira_ticket,"BKEE-1099  Admin role permissions not saving
+Status: IN PROGRESS  Assignee: Neha Gupta  Priority: High
+BKEE-S8",BKEE-1099
+MTG-0040,60.0,MTG-0040/f_00060.png,jira_ticket,"BKEE-1099  Admin role permissions not saving
+Status: IN PR0GRESS  Assignee: Neha Gupta  Priority: High
+BKEE-S8",BKEE-1099
+MTG-0040,65.0,MTG-0040/f_00065.png,jira_ticket,"BKEE-1099  Admin role permissions not saving
+5tatus: IN PROGRESS  Assignee: Neha Gupta  Priority: High
+BKEE-S8",BKEE-1099
+MTG-0040,70.0,MTG-0040/f_00070.png,jira_ticket,"BKEE-1099  Admin role permissions not saving
+Status: IN PROGRESS  Assignee: Neha Gupta  Priority: High
+BKEE-S8",BKEE-1099
+MTG-0040,75.0,MTG-0040/f_00075.png,jira_ticket,"BKEE-1O99  Admin role permissions not saving
+Status: IN PROGRESS  Assignee: Neha Gupta  Priority: High
+BKEE-S8",BKEE-1099
+MTG-0040,80.0,MTG-0040/f_00080.png,jira_ticket,"BKEE-1098  Integrate Salesforce contact sync
+Status: BLOCKED  Assignee: Neha Gupta  Priority: Medium
+BKEE-S8",BKEE-1098
+MTG-0040,85.0,MTG-0040/f_00085.png,jira_ticket,"BKEE-l098  Integrate Salesforce contact sync
+Status: BLOCKED  Assignee: Neha Gupta  Priority: Medium
+BKEE-S8",BKEE-1098
+MTG-0040,90.0,MTG-0040/f_00090.png,jira_ticket,"BKEE-1098  Integrate Salesforce contact sync
+Status: BLOCKED  Assignee: Neha Gupta  Priority: Medium
+BKEE-SB",BKEE-1098
+MTG-0040,95.0,MTG-0040/f_00095.png,jira_ticket,"BKEE-1O98  Integrate Salesforce contact sync
+Status: BLOCKED  Assignee: Neha Gupta  Priority: Medium
+BKEE-S8",BKEE-1098
+MTG-0040,100.0,MTG-0040/f_00100.png,none,,
+MTG-0041,0.0,MTG-0041/f_00000.png,none,,
+MTG-0041,5.0,MTG-0041/f_00005.png,jira_ticket,"PTPC-248  Set up CI pipeline for staging
+Status: QA  Assignee: Divya Menon  Priority: Medium
+PTPC-S10",PTPC-248
+MTG-0041,10.0,MTG-0041/f_00010.png,jira_ticket,"PTPC-248  Set up CI pipeline for staging
+Status: QA  Assignee: Divya Menon  Priority: Medium
+PTPC-S10",PTPC-248
+MTG-0041,15.0,MTG-0041/f_00015.png,jira_ticket,"PTPC-248  Set up CI pipeline for staging
+Status: QA  Assignee: Divya Menon  Priority: Medium
+PTPC-S10",PTPC-248
+MTG-0041,20.0,MTG-0041/f_00020.png,jira_ticket,"PTPC-248  Set up CI pipeline for staging
+Status: QA  Assignee: Divya Menon  Priority: Medium
+PTPC-S10",PTPC-248
+MTG-0041,25.0,MTG-0041/f_00025.png,jira_ticket,"PTPC-260  Email template branding update
+Status: IN PROGRESS  Assignee: Divya Menon  Priority: Medium
+PTPC-S10",PTPC-260
+MTG-0041,30.0,MTG-0041/f_00030.png,jira_ticket,"PTPC-260  Email template branding update
+Status: IN PROGRESS  Assignee: Divya Menon  Priority: Medium
+PTPC-S10",PTPC-260
+MTG-0041,35.0,MTG-0041/f_00035.png,jira_ticket,"PTPC-260  Email template branding update
+5tatus: IN PROGRESS  Assignee: Divya Menon  Priority: Medium
+PTPC-S10",PTPC-260
+MTG-0041,40.0,MTG-0041/f_00040.png,jira_ticket,"PTPC-260  Email template branding update
+Status: IN PROGRESS  Assignee: Divya Menon  Priority: Medium
+PTPC-S10",PTPC-260
+MTG-0041,45.0,MTG-0041/f_00045.png,jira_ticket,"PTPC-244  Session expires during long forms
+Status: QA  Assignee: Laura Mitchell  Priority: Medium
+PTPC-S10",PTPC-244
+MTG-0041,50.0,MTG-0041/f_00050.png,jira_ticket,"PTPC-244  Session expires during long forms
+Status: QA  Assignee: Laura Mitchell  Priority: Medium
+PTPC-S10",PTPC-244
+MTG-0041,55.0,MTG-0041/f_00055.png,jira_ticket,"PTPC-244  Session expires during long forms
+Status: QA  Assignee: Laura Mitchell  Priority: Medium
+PTPC-S10",PTPC-244
+MTG-0041,60.0,MTG-0041/f_00060.png,jira_ticket,"PTPC-244  5ession expires during long forms
+Status: QA  Assignee: Laura Mitchell  Priority: Medium
+PTPC-S10",PTPC-244
+MTG-0041,65.0,MTG-0041/f_00065.png,jira_ticket,"PTPC-244  Session expires during long forms
+5tatus: QA  Assignee: Laura Mitchell  Priority: Medium
+PTPC-S10",PTPC-244
+MTG-0041,70.0,MTG-0041/f_00070.png,jira_ticket,"PTPC-247  Performance test for 10k concurrent users
+Status: QA  Assignee: Daniel Brooks  Priority: High
+PTPC-S10",PTPC-247
+MTG-0041,75.0,MTG-0041/f_00075.png,jira_ticket,"PTPC-247  Performance test for 10k concurrent users
+Status: QA  Assignee: Daniel Brooks  Priority: High
+PTPC-S10",PTPC-247
+MTG-0041,80.0,MTG-0041/f_00080.png,jira_ticket,"PTPC-247  Performance test for 10k concurrent users
+Status: QA  Assignee: Daniel Brooks  Priority: High
+PTPC-S10",PTPC-247
+MTG-0041,85.0,MTG-0041/f_00085.png,none,,
+MTG-0042,0.0,MTG-0042/f_00000.png,none,,
+MTG-0042,5.0,MTG-0042/f_00005.png,jira_ticket,"PTPC-244  Session expires during long forms
+Status: QA  Assignee: Laura Mitchell  Priority: Medium
+PTPC-S10",PTPC-244
+MTG-0042,10.0,MTG-0042/f_00010.png,jira_ticket,"PTPC-244  Session expires during long forms
+Status: QA  Assignee: Laura Mitchell  Priority: Medium
+PTPC-S10",PTPC-244
+MTG-0042,15.0,MTG-0042/f_00015.png,jira_ticket,"PTPC-244  Session expires during long forms
+Status: QA  Assignee: Laura Mitchell  Priority: Medium
+PTPC-S10",PTPC-244
+MTG-0042,20.0,MTG-0042/f_00020.png,jira_ticket,"PTPC-244  Session expires during long forms
+Status: QA  Assignee: Laura Mitchell  Priority: Medium
+PTPC-S10",PTPC-244
+MTG-0042,25.0,MTG-0042/f_00025.png,jira_ticket,"PTPC-237  Push notifications not delivered on Android
+Status: IN REVIEW  Assignee: Daniel Brooks  Priority: Low
+PTPC-S10",PTPC-237
+MTG-0042,30.0,MTG-0042/f_00030.png,jira_ticket,"PTPC-237  Push notifications not delivered on Android
+Status: IN REVIEW  Assignee: Daniel Brooks  Priority: Low
+PTPC-S10",PTPC-237
+MTG-0042,35.0,MTG-0042/f_00035.png,jira_ticket,"PTPC-258  Map view not loading store locations
+Status: QA  Assignee: Varun Chopra  Priority: Low
+PTPC-Sl0",PTPC-258
+MTG-0042,40.0,MTG-0042/f_00040.png,jira_ticket,"PTPC-258  Map view not loading store locations
+Status: QA  Assignee: Varun Chopra  Priority: Low
+PTPC-S10",PTPC-258
+MTG-0042,45.0,MTG-0042/f_00045.png,jira_ticket,"PTPC-258  Map view not loading store locations
+Status: QA  Assignee: Varun Chopra  Priority: Low
+PTPC-510",PTPC-258
+MTG-0042,50.0,MTG-0042/f_00050.png,jira_ticket,"PTPC-247  Performance test for 10k concurrent users
+Status: IN REVIEW  Assignee: Daniel Brooks  Priority: High
+PTPC-S10",PTPC-247
+MTG-0042,55.0,MTG-0042/f_00055.png,jira_ticket,"PTPC-247  Performance test for 10k concurrent users
+Status: IN REVIEW  Assignee: Daniel Brooks  Priority: High
+PTPC-S10",PTPC-247
+MTG-0042,60.0,MTG-0042/f_00060.png,jira_ticket,"PTPC-247  Performance test for 10k concurrent users
+Status: IN REVIEW  Assignee: Daniel Brooks  Priority: High
+PTPC-S10",PTPC-247
+MTG-0042,65.0,MTG-0042/f_00065.png,jira_ticket,"PTPC-260  Email template branding update
+Status: IN PROGRESS  Assignee: Divya Menon  Priority: Medium
+PTPC-S10",PTPC-260
+MTG-0042,70.0,MTG-0042/f_00070.png,jira_ticket,"PTPC-260  Email template branding update
+Status: IN PROGRESS  Assignee: Divya Menon  Priority: Medium
+PTPC-S10",PTPC-260
+MTG-0042,75.0,MTG-0042/f_00075.png,none,,
+MTG-0043,0.0,MTG-0043/f_00000.png,none,,
+MTG-0043,5.0,MTG-0043/f_00005.png,jira_ticket,"DCIC-1527  Checkout page crashes when coupon applied
+Status: QA  Assignee: Tom Fletcher  Priority: High
+DCIC-S7",DCIC-1527
+MTG-0043,10.0,MTG-0043/f_00010.png,jira_ticket,"DCIC-1527  Checkout page crashes when coupon applied
+Status: QA  Assignee: Tom Fletcher  Priority: High
+DCIC-S7",DCIC-1527
+MTG-0043,15.0,MTG-0043/f_00015.png,jira_ticket,"DCIC-1527  Checkout page crashes when coupon applied
+Status: QA  Assignee: Tom Fletcher  Priority: High
+DCIC-S7",DCIC-1527
+MTG-0043,20.0,MTG-0043/f_00020.png,jira_ticket,"DCIC-1537  Search results page slow on mobile
+Status: IN PROGRESS  Assignee: Rohan Mehta  Priority: Low
+DCIC-S7",DCIC-1537
+MTG-0043,25.0,MTG-0043/f_00025.png,jira_ticket,"DCIC-1537  Search results page slow on mobile
+Status: IN PR0GRESS  Assignee: Rohan Mehta  Priority: Low
+DCIC-S7",DCIC-1537
+MTG-0043,30.0,MTG-0043/f_00030.png,jira_ticket,"DCIC-1537  Search results page slow on mobile
+Status: IN PROGRESS  Assignee: Rohan Mehta  Priority: Low
+DCIC-S7",DCIC-1537
+MTG-0043,35.0,MTG-0043/f_00035.png,jira_ticket,"DCIC-1537  Search results page slow on mobile
+Status: IN PROGRESS  Assignee: Rohan Mehta  Priority: Low
+DCIC-S7",DCIC-1537
+MTG-0043,40.0,MTG-0043/f_00040.png,jira_ticket,"DCIC-1537  Search results page slow on mobile
+Status: IN PROGRESS  Assignee: Rohan Mehta  Priority: Low
+DCIC-S7",DCIC-1537
+MTG-0043,45.0,MTG-0043/f_00045.png,jira_ticket,"DCIC-1537  Search results page slow on mobile
+Status: IN PROGRESS  Assignee: Rohan Mehta  Priority: Low
+DCIC-S7",DCIC-1537
+MTG-0043,50.0,MTG-0043/f_00050.png,jira_ticket,"DCIC-1537  Search results page slow on mobile
+Status: IN PROGRESS  Assignee: Rohan Mehta  Priority: Low
+DCIC-S7",DCIC-1537
+MTG-0043,55.0,MTG-0043/f_00055.png,none,,
+MTG-0044,0.0,MTG-0044/f_00000.png,none,,
+MTG-0044,5.0,MTG-0044/f_00005.png,jira_ticket,"DCIC-1529  Cookie consent banner overlaps footer
+Status: BLOCKED  Assignee: Daniel Brooks  Priority: Low
+DCIC-S7",DCIC-1529
+MTG-0044,10.0,MTG-0044/f_00010.png,jira_ticket,"DCIC-1529  Cookie consent banner overlaps footer
+Status: BLOCKED  Assignee: Daniel Brooks  Priority: Low
+DCIC-S7",DCIC-1529
+MTG-0044,15.0,MTG-0044/f_00015.png,jira_ticket,"DCIC-1529  Cookie consent banner overlaps footer
+Status: BLOCKED  Assignee: Daniel Brooks  Priority: Low
+DCIC-S7",DCIC-1529
+MTG-0044,20.0,MTG-0044/f_00020.png,jira_ticket,"DCIC-1562  Integrate Salesforce contact sync
+Status: IN REVIEW  Assignee: Tom Fletcher  Priority: Low
+DCIC-S7",DCIC-1562
+MTG-0044,25.0,MTG-0044/f_00025.png,jira_ticket,"DCIC-1562  Integrate Salesforce contact sync
+Status: IN REVIEW  Assignee: Tom Fletcher  Priority: Low
+DCIC-S7",DCIC-1562
+MTG-0044,30.0,MTG-0044/f_00030.png,jira_ticket,"DCIC-1562  Integrate Salesforce contact sync
+Status: IN REVIEW  Assignee: Tom Fletcher  Priority: Low
+DCIC-S7",DCIC-1562
+MTG-0044,35.0,MTG-0044/f_00035.png,jira_ticket,"DCIC-1562  Integrate Salesforce contact sync
+Status: IN REVIEW  Assignee: Tom Fletcher  Priority: Low
+DCIC-S7",DCIC-1562
+MTG-0044,40.0,MTG-0044/f_00040.png,jira_ticket,"DCIC-1562  Integrate Salesforce contact sync
+Status: IN REVIEW  Assignee: Tom Fletcher  Priority: Low
+DCIC-S7",DCIC-1562
+MTG-0044,45.0,MTG-0044/f_00045.png,jira_ticket,"DCIC-1563  Session expires during long forms
+Status: IN PROGRES5  Assignee: Daniel Brooks  Priority: Highest
+DCIC-S7",DCIC-1563
+MTG-0044,50.0,MTG-0044/f_00050.png,jira_ticket,"DCIC-1563  Session expires during long forms
+Status: IN PR0GRESS  Assignee: Daniel Brooks  Priority: Highest
+DCIC-S7",DCIC-1563
+MTG-0044,55.0,MTG-0044/f_00055.png,jira_ticket,"DCIC-1530  Content model for exhibition pages
+Status: IN PROGRESS  Assignee: Siddharth Jain  Priority: Medium
+DCIC-S7",DCIC-1530
+MTG-0044,60.0,MTG-0044/f_00060.png,jira_ticket,"DCIC-1530  Content model for exhibition pages
+Status: IN PROGRESS  Assignee: Siddharth Jain  Priority: Medium
+DCIC-S7",DCIC-1530
+MTG-0044,65.0,MTG-0044/f_00065.png,jira_ticket,"DCIC-1511  API rate limiting for partner endpoints
+Status: BLOCKED  Assignee: Siddharth Jain  Priority: Low
+DCIC-S7",DCIC-1511
+MTG-0044,70.0,MTG-0044/f_00070.png,jira_ticket,"DCIC-1511  API rate 1imiting for partner endpoints
+Status: BLOCKED  Assignee: Siddharth Jain  Priority: Low
+DCIC-S7",DCIC-1511
+MTG-0044,75.0,MTG-0044/f_00075.png,jira_ticket,"DCIC-1511  API rate limiting for partner endpoints
+Status: BLOCKED  Assignee: Siddharth Jain  Priority: Low
+DCIC-S7",DCIC-1511
+MTG-0044,80.0,MTG-0044/f_00080.png,jira_ticket,"DCIC-1511  API rate limiting for partner endpoints
+Status: BLOCKED  Assignee: 5iddharth Jain  Priority: Low
+DCIC-57",DCIC-1511
+MTG-0044,85.0,MTG-0044/f_00085.png,none,,
+MTG-0045,0.0,MTG-0045/f_00000.png,none,,
+MTG-0045,5.0,MTG-0045/f_00005.png,jira_ticket,"LRNC-1245  API rate limiting for partner endpoints
+Status: QA  Assignee: Aman Khanna  Priority: High
+LRNC-S3",LRNC-1245
+MTG-0045,10.0,MTG-0045/f_00010.png,jira_ticket,"LRNC-1245  API rate limiting for partner endpoints
+Status: QA  Assignee: Aman Khanna  Priority: High
+LRNC-S3",LRNC-1245
+MTG-0045,15.0,MTG-0045/f_00015.png,jira_ticket,"LRNC-1245  API rate limiting for partner endpoints
+Status: QA  Assignee: Aman Khanna  Priority: High
+LRNC-S3",LRNC-1245
+MTG-0045,20.0,MTG-0045/f_00020.png,jira_ticket,"LRNC-1245  API rate 1imiting for partner endpoints
+Status: QA  Assignee: Aman Khanna  Priority: High
+LRNC-S3",LRNC-1245
+MTG-0045,25.0,MTG-0045/f_00025.png,jira_ticket,"LRNC-1245  API rate limiting for partner endpoints
+Status: QA  Assignee: Aman Khanna  Priority: High
+LRNC-S3",LRNC-1245
+MTG-0045,30.0,MTG-0045/f_00030.png,jira_ticket,"LRNC-1245  API rate limiting for partner endpoints
+Status: QA  Assignee: Aman Khanna  Priority: High
+LRNC-S3",LRNC-1245
+MTG-0045,35.0,MTG-0045/f_00035.png,jira_ticket,"LRNC-1245  API rate limiting for partner endpoints
+5tatus: QA  Assignee: Aman Khanna  Priority: High
+LRNC-53",LRNC-1245
+MTG-0045,40.0,MTG-0045/f_00040.png,jira_ticket,"LRNC-1245  API rate limiting for partner endpoints
+Status: QA  Assignee: Aman Khanna  Priority: High
+LRNC-S3",LRNC-1245
+MTG-0046,0.0,MTG-0046/f_00000.png,none,,
+MTG-0046,5.0,MTG-0046/f_00005.png,jira_ticket,"LRNC-1280  Upgrade Node runtime to v22
+Status: QA  Assignee: Daniel Brooks  Priority: Lowest
+LRNC-S3",LRNC-1280
+MTG-0046,10.0,MTG-0046/f_00010.png,jira_ticket,"LRNC-1282  Add CSV export to admin reports
+Status: IN REVIEW  Assignee: Karan Malhotra  Priority: Medium
+LRNC-S3",LRNC-1282
+MTG-0046,15.0,MTG-0046/f_00015.png,jira_ticket,"LRNC-1282  Add CSV export to admin reports
+Status: IN REVIEW  Assignee: Karan Malhotra  Priority: Medium
+LRNC-S3",LRNC-1282
+MTG-0046,20.0,MTG-0046/f_00020.png,jira_ticket,"LRNC-1282  Add CSV export to admin reports
+Status: IN REVIEW  Assignee: Karan Malhotra  Priority: Medium
+LRNC-S3",LRNC-1282
+MTG-0046,25.0,MTG-0046/f_00025.png,jira_ticket,"LRNC-1282  Add CSV export to admin reports
+Status: IN REVIEW  Assignee: Karan Malhotra  Priority: Medium
+LRNC-S3",LRNC-1282
+MTG-0046,30.0,MTG-0046/f_00030.png,jira_ticket,"LRNC-1282  Add C5V export to admin reports
+Status: IN REVIEW  Assignee: Karan Malhotra  Priority: Medium
+LRNC-S3",LRNC-1282
+MTG-0046,35.0,MTG-0046/f_00035.png,jira_ticket,"LRNC-1282  Add CSV export to admin reports
+Status: IN REVIEW  Assignee: Karan Malhotra  Priority: Medium
+LRNC-S3",LRNC-1282
+MTG-0046,40.0,MTG-0046/f_00040.png,jira_ticket,"LRNC-1282  Add CSV export to admin reports
+Status: IN REVIEW  Assignee: Karan Malhotra  Priority: Medium
+LRNC-S3",LRNC-1282
+MTG-0047,0.0,MTG-0047/f_00000.png,none,,
+MTG-0047,5.0,MTG-0047/f_00005.png,jira_board,"DCID board | T0 DO   IN PROGRESS   IN REVIEW   DONE
+DCID-2421 Email template branding upda
+DCID-2455 Event calendar timezone bug
+DCID-2428 Payment gateway retry logic 
+DCID-2467 Event calendar timezone bug
+DCID-2468 Dashboard charts show wrong 
+DCID-2434 Dashboard charts show wrong 
+DCID-2456 Map view not loading store l
+DCID-2457 Set up CI pipeline for stagi",DCID-2421;DCID-2455;DCID-2428;DCID-2467;DCID-2468;DCID-2434;DCID-2456;DCID-2457
+MTG-0047,10.0,MTG-0047/f_00010.png,jira_board,"DCID board | TO DO   IN PROGRESS   IN REVIEW   DONE
+DCID-2421 Email template branding upda
+DCID-2455 Event calendar timezone bug
+DCID-2428 Payment gateway retry logic 
+DCID-2467 Event calendar timezone bug
+DCID-2468 Dashboard charts show wrong 
+DCID-2434 Dashboard charts show wrong 
+DCID-2456 Map view not loading store l
+DCID-2457 Set up CI pipeline for stagi",DCID-2421;DCID-2455;DCID-2428;DCID-2467;DCID-2468;DCID-2434;DCID-2456;DCID-2457
+MTG-0047,15.0,MTG-0047/f_00015.png,jira_board,"DCID board | TO DO   IN PROGRESS   IN REVIEW   DONE
+DCID-2421 Email temp1ate branding upda
+DCID-2455 Event calendar timezone bug
+DCID-2428 Payment gateway retry logic 
+DCID-2467 Event calendar timezone bug
+DCID-2468 Dashboard charts show wrong 
+DCID-2434 Dashboard charts show wrong 
+DCID-2456 Map view not loading store l
+DCID-2457 Set up CI pipeline for stagi",DCID-2421;DCID-2455;DCID-2428;DCID-2467;DCID-2468;DCID-2434;DCID-2456;DCID-2457
+MTG-0047,20.0,MTG-0047/f_00020.png,jira_ticket,"DCID-2455  Event calendar timezone bug
+Status: IN PROGRE5S  Assignee: Ankit Verma  Priority: High
+DCID-S4",DCID-2455
+MTG-0047,25.0,MTG-0047/f_00025.png,jira_ticket,"DCID-2455  Event calendar timezone bug
+Status: IN PROGRESS  Assignee: Ankit Verma  Priority: High
+DCID-S4",DCID-2455
+MTG-0047,30.0,MTG-0047/f_00030.png,jira_ticket,"DCID-2455  Event calendar timezone bug
+5tatus: IN PROGRESS  Assignee: Ankit Verma  Priority: High
+DCID-S4",DCID-2455
+MTG-0047,35.0,MTG-0047/f_00035.png,jira_ticket,"DCID-2428  Payment gateway retry logic for failed transactions
+Status: IN PROGRESS  Assignee: Rahul Joshi  Priority: Low
+DCID-S4",DCID-2428
+MTG-0047,40.0,MTG-0047/f_00040.png,jira_ticket,"DCID-2428  Payment gateway retry logic for failed transactions
+Status: IN PROGRESS  Assignee: Rahul Joshi  Priority: Low
+DCID-54",DCID-2428
+MTG-0047,45.0,MTG-0047/f_00045.png,jira_ticket,"DCID-2428  Payment gateway retry logic for failed transactions
+Status: IN PROGRESS  Assignee: Rahul Joshi  Priority: Low
+DCID-S4",DCID-2428
+MTG-0047,50.0,MTG-0047/f_00050.png,jira_ticket,"DCID-2428  Payment gateway retry logic for failed transactions
+Status: IN PROGRESS  Assignee: Rahu1 Joshi  Priority: Low
+DCID-S4",DCID-2428
+MTG-0047,55.0,MTG-0047/f_00055.png,jira_ticket,"DCID-2428  Payment gateway retry logic for failed transactions
+Status: IN PROGRE5S  Assignee: Rahul Joshi  Priority: Low
+DCID-S4",DCID-2428
+MTG-0047,60.0,MTG-0047/f_00060.png,jira_ticket,"DCID-2468  Dashboard charts show wrong totals
+Status: IN PROGRESS  Assignee: Siddharth Jain  Priority: Medium
+DCID-S4",DCID-2468
+MTG-0047,65.0,MTG-0047/f_00065.png,jira_ticket,"DCID-2468  Dashboard charts show wrong totals
+Status: IN PROGRESS  Assignee: Siddharth Jain  Priority: Medium
+DCID-S4",DCID-2468
+MTG-0047,70.0,MTG-0047/f_00070.png,jira_ticket,"DCID-2468  Dashboard charts show wrong totals
+Status: IN PROGRE5S  Assignee: Siddharth Jain  Priority: Medium
+DCID-S4",DCID-2468
+MTG-0047,75.0,MTG-0047/f_00075.png,jira_ticket,"DCID-2468  Dashboard charts show wrong totals
+Status: IN PROGRESS  Assignee: Siddharth Jain  Priority: Medium
+DCID-S4",DCID-2468
+MTG-0047,80.0,MTG-0047/f_00080.png,jira_ticket,"DCID-2468  Dashboard charts show wrong totals
+Status: IN PROGRESS  Assignee: Siddharth Jain  Priority: Medium
+DCID-S4",DCID-2468
+MTG-0047,85.0,MTG-0047/f_00085.png,jira_ticket,"DCID-2468  Dashboard charts show wrong totals
+Status: IN PROGRESS  Assignee: Siddharth Jain  Priority: Medium
+DCID-S4",DCID-2468
+MTG-0047,90.0,MTG-0047/f_00090.png,jira_ticket,"DCID-2468  Dashboard charts show wrong tota1s
+Status: IN PROGRESS  Assignee: Siddharth Jain  Priority: Medium
+DCID-S4",DCID-2468
+MTG-0048,0.0,MTG-0048/f_00000.png,none,,
+MTG-0048,5.0,MTG-0048/f_00005.png,jira_ticket,"DCID-2428  Payment gateway retry logic for failed transactions
+Status: IN REVIEW  Assignee: Rahul Joshi  Priority: Low
+DCID-S4",DCID-2428
+MTG-0048,10.0,MTG-0048/f_00010.png,jira_ticket,"DCID-2428  Payment gateway retry logic for failed transactions
+Status: IN REVIEW  Assignee: Rahu1 Joshi  Priority: Low
+DCID-S4",DCID-2428
+MTG-0048,15.0,MTG-0048/f_00015.png,jira_ticket,"DCID-2464  Audit log for record changes
+Status: IN REVIEW  Assignee: Ankit Verma  Priority: High
+DCID-54",DCID-2464
+MTG-0048,20.0,MTG-0048/f_00020.png,jira_ticket,"DCID-2464  Audit log for record changes
+Status: IN REVIEW  Assignee: Ankit Verma  Priority: High
+DCID-S4",DCID-2464
+MTG-0048,25.0,MTG-0048/f_00025.png,jira_ticket,"DCID-2464  Audit log for record changes
+Status: IN REVIEW  Assignee: Ankit Verma  Priority: High
+DCID-S4",DCID-2464
+MTG-0048,30.0,MTG-0048/f_00030.png,jira_ticket,"DCID-2464  Audit log for record changes
+Status: IN REVIEW  Assignee: Ankit Verma  Priority: High
+DCID-S4",DCID-2464
+MTG-0048,35.0,MTG-0048/f_00035.png,jira_ticket,"DCID-2464  Audit log for record changes
+Status: IN REVIEW  Assignee: Ankit Verma  Priority: High
+DCID-S4",DCID-2464
+MTG-0048,40.0,MTG-0048/f_00040.png,jira_ticket,"DCID-2464  Audit log for record changes
+Status: IN REVIEW  Assignee: Ankit Verma  Priority: High
+DCID-S4",DCID-2464
+MTG-0048,45.0,MTG-0048/f_00045.png,jira_ticket,"DCID-2452  Set up CI pipeline for staging
+Status: IN PROGRESS  Assignee: Siddharth Jain  Priority: Medium
+DCID-S4",DCID-2452
+MTG-0048,50.0,MTG-0048/f_00050.png,jira_ticket,"DCID-2428  Payment gateway retry logic for failed transactions
+Status: IN REVIEW  Assignee: Rahul Joshi  Priority: Low
+DCID-S4",DCID-2428
+MTG-0048,55.0,MTG-0048/f_00055.png,jira_board,"DCID board | TO DO   IN PROGRESS   IN REVIEW   DONE
+DCID-2421 Email template branding upda
+DCID-2464 Audit log for record changes
+DCID-2455 Event calendar timezone bug
+DCID-2452 Set up CI pipeline for stagi
+DCID-2428 Payment gateway retry logic 
+DCID-2457 Set up CI pipeline for stagi
+DCID-2434 Dashboard charts show wrong 
+DCID-246B Dashboard charts show wrong ",DCID-2421;DCID-2464;DCID-2455;DCID-2452;DCID-2428;DCID-2457;DCID-2434;DCID-2468
+MTG-0048,60.0,MTG-0048/f_00060.png,jira_board,"DCID board | TO DO   IN PROGRESS   IN REVIEW   DONE
+DCID-2421 Email template branding upda
+DCID-2464 Audit log for record changes
+DCID-2455 Event calendar timezone bug
+DCID-2452 Set up CI pipeline for stagi
+DCID-2428 Payment gateway retry logic 
+DCID-2457 Set up CI pipeline for stagi
+DCID-2434 Dashboard charts show wrong 
+DCID-2468 Dashboard charts show wrong ",DCID-2421;DCID-2464;DCID-2455;DCID-2452;DCID-2428;DCID-2457;DCID-2434;DCID-2468
+MTG-0048,65.0,MTG-0048/f_00065.png,jira_board,"DCID board | TO D0   IN PROGRES5   IN REVIEW   DONE
+DCID-242l Email template branding upda
+DCID-2464 Audit log for record changes
+DCID-2455 Event calendar timezone bug
+DCID-2452 Set up CI pipe1ine for stagi
+DCID-242B Payment gateway retry logic 
+DCID-2457 Set up CI pipeline for stagi
+DCID-2434 Dashboard charts show wrong 
+DCID-2468 Dashboard charts show wrong ",DCID-2421;DCID-2464;DCID-2455;DCID-2452;DCID-2428;DCID-2457;DCID-2434;DCID-2468
+MTG-0048,70.0,MTG-0048/f_00070.png,jira_ticket,"DCID-2457  Set up CI pipeline for staging
+Status: IN REVIEW  Assignee: Rahul Joshi  Priority: Low
+DCID-S4",DCID-2457
+MTG-0048,75.0,MTG-0048/f_00075.png,jira_ticket,"DCID-2457  Set up CI pipeline for staging
+Status: IN REVIEW  Assignee: Rahul Joshi  Priority: Low
+DCID-S4",DCID-2457
+MTG-0048,80.0,MTG-0048/f_00080.png,jira_ticket,"DCID-2457  Set up CI pipeline for staging
+Status: IN REVIEW  Assignee: Rahul Joshi  Priority: Low
+DCID-S4",DCID-2457
+MTG-0048,85.0,MTG-0048/f_00085.png,none,,
+MTG-0049,0.0,MTG-0049/f_00000.png,none,,
+MTG-0049,5.0,MTG-0049/f_00005.png,jira_ticket,"CLDH-455  Translate site into Spanish
+Status: TO DO  Assignee: Varun Chopra  Priority: High
+CLDH-S8",CLDH-455
+MTG-0049,10.0,MTG-0049/f_00010.png,jira_ticket,"CLDH-458  API rate limiting for partner endpoints
+Status: TO DO  Assignee: Varun Chopra  Priority: High
+CLDH-S8",CLDH-458
+MTG-0049,15.0,MTG-0049/f_00015.png,jira_ticket,"CLDH-458  API rate limiting for partner endpoints
+Status: TO DO  Assignee: Varun Chopra  Priority: High
+CLDH-S8",CLDH-458
+MTG-0049,20.0,MTG-0049/f_00020.png,jira_ticket,"CLDH-4S8  API rate limiting for partner endpoints
+Status: TO DO  Assignee: Varun Chopra  Priority: High
+CLDH-S8",CLDH-458
+MTG-0049,25.0,MTG-0049/f_00025.png,jira_ticket,"CLDH-458  API rate limiting for partner endpoints
+Status: TO DO  Assignee: Varun Chopra  Priority: High
+CLDH-SB",CLDH-458
+MTG-0049,30.0,MTG-0049/f_00030.png,jira_ticket,"CLDH-458  API rate limiting for partner endpoints
+Status: TO DO  Assignee: Varun Chopra  Priority: High
+CLDH-S8",CLDH-458
+MTG-0049,35.0,MTG-0049/f_00035.png,jira_ticket,"CLDH-459  Push notifications not de1ivered on Android
+Status: IN PROGRE5S  Assignee: Unassigned  Priority: Medium
+CLDH-S8",CLDH-459
+MTG-0049,40.0,MTG-0049/f_00040.png,jira_ticket,"CLDH-459  Push notifications not delivered on Android
+Status: IN PROGRESS  Assignee: Unassigned  Priority: Medium
+CLDH-S8",CLDH-459
+MTG-0049,45.0,MTG-0049/f_00045.png,none,,
+MTG-0050,0.0,MTG-0050/f_00000.png,none,,
+MTG-0050,5.0,MTG-0050/f_00005.png,jira_ticket,"CLDH-455  Translate site into Spanish
+Status: IN PROGRESS  Assignee: Varun Chopra  Priority: High
+CLDH-S8",CLDH-455
+MTG-0050,10.0,MTG-0050/f_00010.png,jira_ticket,"CLDH-455  Translate site into Spanish
+Status: IN PROGRESS  Assignee: Varun Chopra  Priority: High
+CLDH-S8",CLDH-455
+MTG-0050,15.0,MTG-0050/f_00015.png,jira_ticket,"CLDH-455  Translate site into Spanish
+Status: IN PROGRESS  Assignee: Varun Chopra  Priority: High
+CLDH-SB",CLDH-455
+MTG-0050,20.0,MTG-0050/f_00020.png,jira_ticket,"CLDH-455  Translate site into Spanish
+Status: IN PROGRESS  Assignee: Varun Chopra  Priority: High
+CLDH-S8",CLDH-455
+MTG-0050,25.0,MTG-0050/f_00025.png,jira_ticket,"CLDH-458  API rate limiting for partner endpoints
+Status: IN PROGRESS  Assignee: Varun Chopra  Priority: High
+CLDH-S8",CLDH-458
+MTG-0050,30.0,MTG-0050/f_00030.png,jira_ticket,"CLDH-458  API rate limiting for partner endpoints
+Status: IN PROGRESS  Assignee: Varun Chopra  Priority: High
+CLDH-S8",CLDH-458
+MTG-0050,35.0,MTG-0050/f_00035.png,jira_ticket,"CLDH-458  API rate limiting for partner endpoints
+Status: IN PROGRE5S  Assignee: Varun Chopra  Priority: High
+CLDH-S8",CLDH-458
+MTG-0050,40.0,MTG-0050/f_00040.png,jira_ticket,"CLDH-458  API rate limiting for partner endpoints
+Status: IN PROGRESS  Assignee: Varun Chopra  Priority: High
+CLDH-S8",CLDH-458
+MTG-0050,45.0,MTG-0050/f_00045.png,jira_ticket,"CLDH-458  API rate limiting for partner endpoints
+Status: IN PROGRESS  Assignee: Varun Chopra  Priority: High
+CLDH-S8",CLDH-458
+MTG-0050,50.0,MTG-0050/f_00050.png,jira_ticket,"CLDH-458  API rate limiting for partner endpoints
+Status: IN PROGRESS  Assignee: Varun Chopra  Priority: High
+CLDH-S8",CLDH-458
+MTG-0050,55.0,MTG-0050/f_00055.png,jira_ticket,"CLDH-458  API rate limiting for partner endpoints
+Status: IN PR0GRESS  Assignee: Varun Chopra  Priority: High
+CLDH-S8",CLDH-458
+MTG-0051,0.0,MTG-0051/f_00000.png,i360_portfolio,i360 Portfolio  |  Harborview Museum - Membership Portal: Green  |  At1as Logistics - Data Warehouse Migration: Green  |  Atlas Logistics - Booking Engine: Green  |  Silver1ine Travel - Partner Portal: Yellow  |  Oakridge Bank - Donor CRM Integration: Yellow  |  Ironbridge Manufacturing - Learning Platform: Green  |  Evergreen University - Donor CRM Integration: Green  |  Riverside Foundation - Claims Dashboard: Green,
+MTG-0051,5.0,MTG-0051/f_00005.png,i360_portfolio,i360 Portfolio  |  Harborview Museum - Membership Portal: Green  |  Atlas Logistics - Data Warehouse Migration: Green  |  Atlas Logistics - Booking Engine: Green  |  Silverline Travel - Partner Portal: Yellow  |  Oakridge Bank - Donor CRM Integration: Yellow  |  Ironbridge Manufacturing - Learning Platform: Green  |  Evergreen University - Donor CRM Integration: Green  |  Riverside Foundation - Claims Dashboard: Green,
+MTG-0051,10.0,MTG-0051/f_00010.png,i360_portfolio,i360 Portfolio  |  Harborview Museum - Membership Portal: Green  |  Atlas Logistics - Data Warehouse Migration: Green  |  Atlas Logistics - Booking Engine: Green  |  Silverline Travel - Partner Portal: Yellow  |  Oakridge Bank - Donor CRM Integration: Yellow  |  Ironbridge Manufacturing - Learning Platform: Green  |  Evergreen University - Donor CRM Integration: Green  |  Riverside Foundation - Claims Dashboard: Green,
+MTG-0051,15.0,MTG-0051/f_00015.png,i360_project,"i360  Project: Atlas Logistics - Data Warehouse Migration  Client: Atlas Logistics
+Status: Green  Delivery Lead: Shweta Kapoor",
+MTG-0051,20.0,MTG-0051/f_00020.png,i360_project,"i360  Project: Atlas Logistics - Data Warehouse Migration  Client: Atlas Logistics
+Status: Green  Delivery Lead: Shweta Kapoor",
+MTG-0051,25.0,MTG-0051/f_00025.png,i360_project,"i360  Project: Atlas Logistics - Data Warehouse Migration  Client: Atlas Logistics
+Status: Green  Delivery Lead: Shweta Kapoor",
+MTG-0051,30.0,MTG-0051/f_00030.png,i360_project,"i360  Project: Atlas Logistics - Data Warehouse Migration  Client: Atlas Logistics
+Status: Green  Delivery Lead: Shweta Kapoor",
+MTG-0051,35.0,MTG-0051/f_00035.png,i360_project,"i360  Project: Atlas Logistics - Data Warehouse Migration  Client: Atlas Logistics
+Status: Green  Delivery Lead: Shweta Kapoor",
+MTG-0051,40.0,MTG-0051/f_00040.png,i360_project,"i360  Project: Atlas Logistics - Data Warehouse Migration  Client: Atlas Logistics
+Status: Green  Delivery Lead: Shweta Kapoor",
+MTG-0051,45.0,MTG-0051/f_00045.png,i360_project,"i360  Project: Atlas Logistics - Data Warehouse Migration  Client: Atlas Logistics
+Status: Green  Delivery Lead: Shweta Kapoor",
+MTG-0051,50.0,MTG-0051/f_00050.png,i360_project,"i360  Project: At1as Logistics - Booking Engine  Client: Atlas Logistics
+Status: Green  Delivery Lead: Mark Davies",
+MTG-0051,55.0,MTG-0051/f_00055.png,i360_project,"i360  Project: Riverside Foundation - Claims Dashboard  C1ient: Riverside Foundation
+Status: Green  Delivery Lead: Deepak Pillai",
+MTG-0051,60.0,MTG-0051/f_00060.png,i360_project,"i360  Project: Riverside Foundation - Claims Dashboard  Client: Riverside Foundation
+Status: Green  Delivery Lead: Deepak Pillai",
+MTG-0051,65.0,MTG-0051/f_00065.png,i360_portfolio,i360 Portfolio  |  Harborview Museum - Membership Porta1: Green  |  Atlas Logistics - Data Warehouse Migration: Green  |  Atlas Logistics - Booking Engine: Green  |  Silverline Travel - Partner Portal: Yellow  |  Oakridge Bank - Donor CRM Integration: Yellow  |  Ironbridge Manufacturing - Learning Platform: Green  |  Evergreen University - Donor CRM Integration: Green  |  Riverside Foundation - Claims Dashboard: Green,
+MTG-0051,70.0,MTG-0051/f_00070.png,i360_portfolio,i360 Portfolio  |  Harborview Museum - Membership Portal: Green  |  Atlas Logistics - Data Warehouse Migration: Green  |  At1as Logistics - Booking Engine: Green  |  Silverline Travel - Partner Portal: Yellow  |  Oakridge Bank - Donor CRM Integration: Yellow  |  Ironbridge Manufacturing - Learning Platform: Green  |  Evergreen University - Donor CRM Integration: Green  |  Riverside Foundation - Claims Dashboard: Green,
+MTG-0051,75.0,MTG-0051/f_00075.png,i360_project,"i360  Project: Ironbridge Manufacturing - Learning P1atform  Client: Ironbridge Manufacturing
+Status: Green  Delivery Lead: Nikhil Arora",
+MTG-0051,80.0,MTG-0051/f_00080.png,i360_project,"i36O  Project: Evergreen University - Donor CRM Integration  Client: Evergreen University
+Status: Green  Delivery Lead: Anjali Saxena",
+MTG-0051,85.0,MTG-0051/f_00085.png,i360_project,"i360  Project: Riverside Foundation - Claims Dashboard  Client: Riverside Foundation
+Status: Green  Delivery Lead: Deepak Pillai",
+MTG-0051,90.0,MTG-0051/f_00090.png,i360_project,"i360  Project: Riverside Foundation - Claims Dashboard  Client: Riverside Foundation
+Status: Green  Delivery Lead: Deepak Pillai",
+MTG-DEMO-001,0.0,MTG-DEMO-001/f_00000.png,none,,
+MTG-DEMO-001,5.0,MTG-DEMO-001/f_00005.png,jira_ticket,"HMP-S500  Payment gateway retry logic for fai1ed transactions
+Status: IN PROGRESS  Assignee: Laura Mitchell  Priority: Medium
+HMP-57",HMP-5500
+MTG-DEMO-001,10.0,MTG-DEMO-001/f_00010.png,jira_ticket,"HMP-5500  Payment gateway retry logic for failed transactions
+5tatus: IN PROGRESS  Assignee: Laura Mitchell  Priority: Medium
+HMP-S7",HMP-5500
+MTG-DEMO-001,15.0,MTG-DEMO-001/f_00015.png,jira_ticket,"HMP-5500  Payment gateway retry logic for failed transactions
+Status: IN PROGRESS  Assignee: Laura Mitchell  Priority: Medium
+HMP-S7",HMP-5500
+MTG-DEMO-001,20.0,MTG-DEMO-001/f_00020.png,jira_ticket,"HMP-S500  Payment gateway retry logic for failed transactions
+Status: IN PROGRE5S  Assignee: Laura Mitchell  Priority: Medium
+HMP-S7",HMP-5500
+MTG-DEMO-001,25.0,MTG-DEMO-001/f_00025.png,jira_ticket,"HMP-5500  Payment gateway retry logic for fai1ed transactions
+Status: IN PROGRES5  Assignee: Laura Mitchell  Priority: Medium
+HMP-S7",HMP-5500
+MTG-DEMO-001,30.0,MTG-DEMO-001/f_00030.png,jira_ticket,"HMP-5500  Payment gateway retry logic for failed transactions
+Status: IN PROGRESS  Assignee: Laura Mitchell  Priority: Medium
+HMP-S7",HMP-5500
+MTG-DEMO-001,35.0,MTG-DEMO-001/f_00035.png,jira_ticket,"HMP-5500  Payment gateway retry logic for failed transactions
+Status: IN PROGRESS  Assignee: Laura Mitchell  Priority: Medium
+HMP-S7",HMP-5500
+MTG-DEMO-001,40.0,MTG-DEMO-001/f_00040.png,jira_ticket,"HMP-5500  Payment gateway retry logic for failed transactions
+Status: IN PROGRESS  Assignee: Laura Mitchell  Priority: Medium
+HMP-S7",HMP-5500
+MTG-DEMO-001,45.0,MTG-DEMO-001/f_00045.png,jira_ticket,"HMP-5500  Payment gateway retry logic for failed transactions
+Status: IN PROGRESS  Assignee: Laura Mitche1l  Priority: Medium
+HMP-S7",HMP-5500
+MTG-DEMO-001,50.0,MTG-DEMO-001/f_00050.png,jira_ticket,"HMP-5500  Payment gateway retry logic for failed transactions
+Status: IN PROGRESS  Assignee: Laura Mitchel1  Priority: Medium
+HMP-S7",HMP-5500
+MTG-DEMO-001,55.0,MTG-DEMO-001/f_00055.png,jira_ticket,"HMP-5500  Payment gateway retry logic for failed transactions
+Status: IN PROGRESS  Assignee: Laura Mitchell  Priority: Medium
+HMP-S7",HMP-5500
+MTG-DEMO-001,60.0,MTG-DEMO-001/f_00060.png,jira_ticket,"HMP-5500  Payment gateway retry logic for failed transactions
+Status: IN PROGRESS  Assignee: Laura Mitchell  Priority: Medium
+HMP-S7",HMP-5500
+MTG-DEMO-001,65.0,MTG-DEMO-001/f_00065.png,jira_ticket,"HMP-5500  Payment gateway retry logic for failed transactions
+Status: IN PROGRESS  Assignee: Laura Mitchell  Priority: Medium
+HMP-S7",HMP-5500
+MTG-DEMO-001,70.0,MTG-DEMO-001/f_00070.png,jira_ticket,"HMP-5500  Payment gateway retry logic for failed transactions
+Status: IN PROGRESS  Assignee: Laura Mitchell  Priority: Medium
+HMP-S7",HMP-5500

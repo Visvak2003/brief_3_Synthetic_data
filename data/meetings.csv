@@ -1,0 +1,51 @@
+meeting_id,meeting_type,project_id,start_time,title,source,asr_output_script
+MTG-0001,Daily standup,P1060,2026-09-28T10:15,HMP standup,Teams recording,Latin (romanized)
+MTG-0002,Daily standup,P1060,2026-10-01T10:00,HMP standup,Teams recording,Latin (romanized)
+MTG-0003,Daily standup,P1061,2026-09-28T10:30,DWMG standup,Fellow,Devanagari+Latin
+MTG-0004,Daily standup,P1061,2026-10-01T10:15,DWMG standup,Fellow,Latin (romanized)
+MTG-0005,Daily standup,P1062,2026-09-28T10:00,BKEE standup,Teams recording,Latin (romanized)
+MTG-0006,Daily standup,P1062,2026-10-01T10:15,BKEE standup,Teams recording,Devanagari+Latin
+MTG-0007,Daily standup,P1063,2026-09-28T10:00,PTPC standup,Fellow,Latin (romanized)
+MTG-0008,Daily standup,P1063,2026-10-01T10:15,PTPC standup,Fellow,Latin (romanized)
+MTG-0009,Daily standup,P1064,2026-09-28T10:15,DCIC standup,Fellow,Devanagari+Latin
+MTG-0010,Daily standup,P1064,2026-10-01T10:30,DCIC standup,Fellow,Latin (romanized)
+MTG-0011,Daily standup,P1065,2026-09-28T10:30,LRNC standup,Teams recording,Latin (romanized)
+MTG-0012,Daily standup,P1065,2026-10-01T10:15,LRNC standup,Teams recording,Latin (romanized)
+MTG-0013,Daily standup,P1066,2026-09-28T10:00,DCID standup,Teams recording,Latin (romanized)
+MTG-0014,Daily standup,P1066,2026-10-01T10:15,DCID standup,Fellow,Devanagari+Latin
+MTG-0015,Daily standup,P1067,2026-09-28T10:30,CLDH standup,Teams recording,Latin (romanized)
+MTG-0016,Daily standup,P1067,2026-10-01T10:00,CLDH standup,Teams recording,Latin (romanized)
+MTG-0017,i360 weekly review,,2026-09-29T15:00,Weekly i360 portfolio review,Teams recording,Devanagari+Latin
+MTG-0018,Daily standup,P1060,2026-10-05T10:15,HMP standup,Teams recording,Latin (romanized)
+MTG-0019,Daily standup,P1060,2026-10-08T10:00,HMP standup,Teams recording,Devanagari+Latin
+MTG-0020,Daily standup,P1061,2026-10-05T10:30,DWMG standup,Teams recording,Latin (romanized)
+MTG-0021,Daily standup,P1061,2026-10-08T10:30,DWMG standup,Teams recording,Latin (romanized)
+MTG-0022,Daily standup,P1062,2026-10-05T10:00,BKEE standup,Fellow,Latin (romanized)
+MTG-0023,Daily standup,P1062,2026-10-08T10:00,BKEE standup,Teams recording,Devanagari+Latin
+MTG-0024,Daily standup,P1063,2026-10-05T10:30,PTPC standup,Teams recording,Latin (romanized)
+MTG-0025,Daily standup,P1063,2026-10-08T10:15,PTPC standup,Teams recording,Devanagari+Latin
+MTG-0026,Daily standup,P1064,2026-10-05T10:15,DCIC standup,Fellow,Devanagari+Latin
+MTG-0027,Daily standup,P1064,2026-10-08T10:00,DCIC standup,Teams recording,Devanagari+Latin
+MTG-0028,Daily standup,P1065,2026-10-05T10:00,LRNC standup,Teams recording,Devanagari+Latin
+MTG-0029,Daily standup,P1065,2026-10-08T10:00,LRNC standup,Fellow,Latin (romanized)
+MTG-0030,Daily standup,P1066,2026-10-05T10:15,DCID standup,Fellow,Latin (romanized)
+MTG-0031,Daily standup,P1066,2026-10-08T10:00,DCID standup,Teams recording,Devanagari+Latin
+MTG-0034,i360 weekly review,,2026-10-06T15:00,Weekly i360 portfolio review,Teams recording,Latin (romanized)
+MTG-0035,Daily standup,P1060,2026-10-12T10:00,HMP standup,Teams recording,Devanagari+Latin
+MTG-0036,Daily standup,P1060,2026-10-15T10:00,HMP standup,Teams recording,Latin (romanized)
+MTG-0037,Daily standup,P1061,2026-10-12T10:00,DWMG standup,Fellow,Latin (romanized)
+MTG-0038,Daily standup,P1061,2026-10-15T10:30,DWMG standup,Fellow,Devanagari+Latin
+MTG-0039,Daily standup,P1062,2026-10-12T10:15,BKEE standup,Fellow,Latin (romanized)
+MTG-0040,Daily standup,P1062,2026-10-15T10:30,BKEE standup,Fellow,Latin (romanized)
+MTG-0041,Daily standup,P1063,2026-10-12T10:15,PTPC standup,Teams recording,Latin (romanized)
+MTG-0042,Daily standup,P1063,2026-10-15T10:00,PTPC standup,Teams recording,Latin (romanized)
+MTG-0043,Daily standup,P1064,2026-10-12T10:30,DCIC standup,Fellow,Latin (romanized)
+MTG-0044,Daily standup,P1064,2026-10-15T10:15,DCIC standup,Fellow,Devanagari+Latin
+MTG-0045,Daily standup,P1065,2026-10-12T10:30,LRNC standup,Fellow,Devanagari+Latin
+MTG-0046,Daily standup,P1065,2026-10-15T10:15,LRNC standup,Teams recording,Latin (romanized)
+MTG-0047,Daily standup,P1066,2026-10-12T10:30,DCID standup,Teams recording,Devanagari+Latin
+MTG-0048,Daily standup,P1066,2026-10-15T10:00,DCID standup,Teams recording,Devanagari+Latin
+MTG-0049,Daily standup,P1067,2026-10-12T10:15,CLDH standup,Teams recording,Devanagari+Latin
+MTG-0050,Daily standup,P1067,2026-10-15T10:15,CLDH standup,Fellow,Devanagari+Latin
+MTG-0051,i360 weekly review,,2026-10-13T15:00,Weekly i360 portfolio review,Teams recording,Devanagari+Latin
+MTG-DEMO-001,Daily standup,P1060,2026-10-15T10:30,HMP standup (showcase),Teams recording,Devanagari+Latin

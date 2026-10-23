@@ -1,0 +1,69 @@
+project_id,project_name,client,jira_key,location,criticality,delivery_lead,team_size,start_date,planned_end_date,planned_weeks,state,methodology,budget_hours
+P1000,Cobalt Media - Collections Website,Cobalt Media,COL,USA,Normal,Rachel Green-Moore,9,2024-08-12,2024-11-18,14,Closed,Scrum,2758
+P1001,Crestline Insurance - Data Warehouse Migration,Crestline Insurance,DWM,United Kingdom,Normal,Sameer Qureshi,8,2024-03-25,2024-09-09,24,Closed,Scrum,3696
+P1002,Lumen Arts Council - Patient App,Lumen Arts Council,PAP,USA,Normal,Anjali Saxena,8,2024-10-14,2025-03-31,24,Closed,Kanban-ish,5640
+P1003,Summit Learning - Booking Engine,Summit Learning,BKE,India,Normal,Anjali Saxena,4,2024-06-17,2024-10-28,19,Closed,Scrum,4237
+P1004,Pinecrest Hospital Group - Data Warehouse Migration,Pinecrest Hospital Group,DWMA,India,Critical,Deepak Pillai,5,2025-08-25,2026-02-16,25,Closed,Scrum,4775
+P1005,Evergreen University - eCommerce Replatform,Evergreen University,ECR,IN,Critical,Mark Davies,4,2025-06-02,2025-10-20,20,Closed,Kanban-ish,4400
+P1006,Pinecrest Hospital Group - eCommerce Replatform,Pinecrest Hospital Group,ECRA,USA,Normal,Rachel Green-Moore,4,2025-03-10,2025-10-13,31,Closed,Scrum,6324
+P1007,Seaside Aquarium - Claims Dashboard,Seaside Aquarium,CLD,United States,Critical,Anjali Saxena,4,2025-08-18,2026-03-16,30,Closed,Scrum,5370
+P1008,Evergreen University - Donor CRM Integration,Evergreen University,DCI,India,Normal,Anjali Saxena,7,2025-07-28,2026-03-23,34,Closed,Scrum,5746
+P1009,Bluepeak Retail - Fleet Tracking,Bluepeak Retail,FLT,United Kingdom,Normal,Mark Davies,8,2024-10-21,2025-03-31,23,Closed,Scrum,3588
+P1010,Crestline Insurance - Fleet Tracking,Crestline Insurance,FLTA,US,Normal,Shweta Kapoor,4,2024-09-30,2025-01-20,16,Closed,Kanban-ish,2352
+P1011,Silverline Travel - Data Warehouse Migration,Silverline Travel,DWMB,US,Normal,Deepak Pillai,5,2024-04-08,2024-07-08,13,Closed,Scrum,1170
+P1012,Atlas Logistics - Fleet Tracking,Atlas Logistics,FLTB,US,Critical,Shweta Kapoor,6,2025-11-17,2026-03-30,19,Closed,Scrum,2622
+P1013,Harborview Museum - Claims Dashboard,Harborview Museum,CLDA,United States,Normal,Sameer Qureshi,9,2024-12-09,2025-05-26,24,Closed,Scrum,2088
+P1014,Pinecrest Hospital Group - Patient App,Pinecrest Hospital Group,PAPA,United Kingdom,Normal,Shweta Kapoor,6,2024-02-12,2024-07-01,20,Closed,Kanban-ish,4420
+P1015,Oakridge Bank - eCommerce Replatform,Oakridge Bank,ECRB,UK,Critical,Mark Davies,9,2025-12-01,2026-05-18,24,Closed,Scrum,3816
+P1016,Oakridge Bank - Claims Dashboard,Oakridge Bank,CLDB,IN,Normal,Anjali Saxena,7,2024-09-09,2024-12-09,13,Closed,Scrum,1443
+P1017,Riverside Foundation - Ticketing System,Riverside Foundation,TKT,India,Normal,Julia Barnes,5,2025-06-30,2026-02-16,33,Closed,Scrum,3300
+P1018,Riverside Foundation - eCommerce Replatform,Riverside Foundation,ECRC,United States,Normal,Rachel Green-Moore,5,2024-06-10,2025-02-03,34,Closed,Scrum,4556
+P1019,Greenleaf Nonprofit Network - Ticketing System,Greenleaf Nonprofit Network,TKTA,UK,Normal,Deepak Pillai,6,2024-10-14,2025-03-31,24,Closed,Scrum,3120
+P1020,Ironbridge Manufacturing - Patient App,Ironbridge Manufacturing,PAPB,IN,Critical,Shweta Kapoor,5,2024-09-09,2025-04-21,32,Closed,Scrum,7968
+P1021,Bluepeak Retail - Learning Platform,Bluepeak Retail,LRN,US,Critical,Deepak Pillai,3,2024-01-15,2024-06-17,22,Closed,Scrum,4290
+P1022,Evergreen University - Claims Dashboard,Evergreen University,CLDC,USA,Critical,Julia Barnes,5,2025-01-27,2025-09-15,33,Closed,Scrum,7656
+P1023,Pinecrest Hospital Group - Partner Portal,Pinecrest Hospital Group,PTP,United Kingdom,Normal,Shweta Kapoor,6,2024-07-15,2025-01-27,28,Closed,Scrum,2884
+P1024,Lumen Arts Council - Donor CRM Integration,Lumen Arts Council,DCIA,India,Normal,Julia Barnes,9,2024-11-11,2025-03-24,19,Closed,Scrum,2888
+P1025,Oakridge Bank - Patient App,Oakridge Bank,PAPC,United States,Normal,Sameer Qureshi,9,2024-07-08,2024-12-16,23,Closed,Kanban-ish,4899
+P1026,Evergreen University - Mobile Banking App,Evergreen University,MBA,India,Normal,Deepak Pillai,5,2025-09-01,2026-01-26,21,Closed,Kanban-ish,2520
+P1027,Summit Learning - Claims Dashboard,Summit Learning,CLDD,USA,Normal,Deepak Pillai,8,2024-01-08,2024-05-06,17,Closed,Scrum,1666
+P1028,Lumen Arts Council - Booking Engine,Lumen Arts Council,BKEA,India,Normal,Rachel Green-Moore,4,2025-09-01,2026-04-13,32,Closed,Scrum,7424
+P1029,Ironbridge Manufacturing - Partner Portal,Ironbridge Manufacturing,PTPA,UK,Normal,Anjali Saxena,7,2024-05-13,2024-11-11,26,Closed,Scrum,4940
+P1030,Greenleaf Nonprofit Network - Partner Portal,Greenleaf Nonprofit Network,PTPB,IN,Critical,Rachel Green-Moore,7,2024-04-08,2024-07-01,12,Closed,Scrum,1488
+P1031,Redwood Legal - Ticketing System,Redwood Legal,TKTB,United States,Normal,Deepak Pillai,8,2024-07-08,2024-11-25,20,Closed,Scrum,2420
+P1032,Cobalt Media - Learning Platform,Cobalt Media,LRNA,USA,Normal,Deepak Pillai,9,2025-11-10,2026-04-06,21,Closed,Scrum,4431
+P1033,Harborview Museum - Grant Management System,Harborview Museum,GMS,UK,Normal,Deepak Pillai,7,2025-04-21,2025-11-10,29,Closed,Scrum,4437
+P1034,Silverline Travel - Ticketing System,Silverline Travel,TKTC,UK,Normal,Rachel Green-Moore,9,2025-09-22,2026-05-04,32,Closed,Scrum,6272
+P1035,Greenleaf Nonprofit Network - Fleet Tracking,Greenleaf Nonprofit Network,FLTC,United States,Normal,Deepak Pillai,9,2024-09-02,2025-04-28,34,Closed,Scrum,8466
+P1036,Riverside Foundation - AI Search Assistant,Riverside Foundation,AIS,India,Normal,Julia Barnes,8,2024-05-13,2024-08-12,13,Closed,Scrum,1300
+P1037,Greenleaf Nonprofit Network - Grant Management System,Greenleaf Nonprofit Network,GMSA,India,Normal,Julia Barnes,4,2025-01-27,2025-08-18,29,Closed,Kanban-ish,4437
+P1038,Bluepeak Retail - Claims Dashboard,Bluepeak Retail,CLDE,IN,Normal,Shweta Kapoor,6,2026-02-23,2026-06-08,15,Closed,Scrum,1740
+P1039,Evergreen University - Claims Dashboard,Evergreen University,CLDF,UK,Normal,Nikhil Arora,5,2024-09-23,2025-03-24,26,Closed,Scrum,4056
+P1040,Cobalt Media - Booking Engine,Cobalt Media,BKEB,USA,Normal,Rachel Green-Moore,8,2024-11-11,2025-05-12,26,Closed,Scrum,6448
+P1041,Pinecrest Hospital Group - Mobile Banking App,Pinecrest Hospital Group,MBAA,US,Critical,Anjali Saxena,8,2024-02-26,2024-10-14,33,Closed,Kanban-ish,5973
+P1042,Seaside Aquarium - Grant Management System,Seaside Aquarium,GMSB,US,Normal,Sameer Qureshi,6,2024-01-22,2024-07-08,24,Closed,Scrum,3360
+P1043,Seaside Aquarium - Fleet Tracking,Seaside Aquarium,FLTD,India,Normal,Deepak Pillai,9,2025-01-20,2025-07-21,26,Closed,Scrum,5980
+P1044,Lumen Arts Council - Claims Dashboard,Lumen Arts Council,CLDG,UK,Normal,Nikhil Arora,7,2026-03-23,2026-07-13,16,Closed,Scrum,3968
+P1045,Metro Transit Authority - Data Warehouse Migration,Metro Transit Authority,DWMC,USA,Normal,Anjali Saxena,7,2024-03-04,2024-05-27,12,Closed,Scrum,2352
+P1046,Clearwater Utilities - Data Warehouse Migration,Clearwater Utilities,DWMD,IN,Normal,Rachel Green-Moore,5,2024-04-29,2024-12-23,34,Closed,Kanban-ish,5780
+P1047,Ironbridge Manufacturing - Patient App,Ironbridge Manufacturing,PAPD,UK,Normal,Anjali Saxena,8,2025-11-10,2026-03-02,16,Closed,Scrum,2656
+P1048,Harborview Museum - Learning Platform,Harborview Museum,LRNB,UK,Normal,Deepak Pillai,9,2025-08-04,2025-11-24,16,Closed,Scrum,2688
+P1049,Crestline Insurance - Mobile Banking App,Crestline Insurance,MBAB,US,Normal,Anjali Saxena,7,2025-09-01,2026-04-20,33,Closed,Scrum,3300
+P1050,Metro Transit Authority - Mobile Banking App,Metro Transit Authority,MBAC,India,Normal,Mark Davies,7,2024-12-09,2025-04-21,19,Closed,Scrum,3686
+P1051,Ironbridge Manufacturing - Booking Engine,Ironbridge Manufacturing,BKEC,UK,Normal,Julia Barnes,5,2024-12-02,2025-07-07,31,Closed,Scrum,4929
+P1052,Evergreen University - Ticketing System,Evergreen University,TKTD,USA,Critical,Shweta Kapoor,6,2024-10-21,2025-03-31,23,Closed,Scrum,3818
+P1053,Clearwater Utilities - Booking Engine,Clearwater Utilities,BKED,US,Normal,Julia Barnes,9,2025-10-27,2026-06-08,32,Closed,Scrum,6976
+P1054,Redwood Legal - Grant Management System,Redwood Legal,GMSC,United States,Critical,Mark Davies,9,2026-03-02,2026-08-03,22,Closed,Scrum,5148
+P1055,Pinecrest Hospital Group - eCommerce Replatform,Pinecrest Hospital Group,ECRD,US,Critical,Shweta Kapoor,3,2025-01-20,2025-07-28,27,Closed,Scrum,3186
+P1056,Clearwater Utilities - Data Warehouse Migration,Clearwater Utilities,DWME,UK,Normal,Sameer Qureshi,4,2026-03-09,2026-06-22,15,Closed,Kanban-ish,1515
+P1057,Atlas Logistics - Data Warehouse Migration,Atlas Logistics,DWMF,IN,Normal,Nikhil Arora,3,2025-07-14,2026-01-26,28,Closed,Scrum,3584
+P1058,Atlas Logistics - Donor CRM Integration,Atlas Logistics,DCIB,IN,Normal,Julia Barnes,6,2025-11-03,2026-02-02,13,Closed,Scrum,1651
+P1059,Silverline Travel - Ticketing System,Silverline Travel,TKTE,India,Normal,Shweta Kapoor,6,2024-10-07,2025-04-21,28,Closed,Scrum,7084
+P1060,Harborview Museum - Membership Portal,Harborview Museum,HMP,USA,Normal,Nikhil Arora,9,2026-07-13,2026-11-30,20,Active,Scrum,2300
+P1061,Atlas Logistics - Data Warehouse Migration,Atlas Logistics,DWMG,United States,Critical,Shweta Kapoor,9,2026-07-13,2026-12-07,21,Active,Kanban-ish,3381
+P1062,Atlas Logistics - Booking Engine,Atlas Logistics,BKEE,US,Normal,Mark Davies,3,2026-07-06,2026-12-14,23,Active,Scrum,4163
+P1063,Silverline Travel - Partner Portal,Silverline Travel,PTPC,US,Normal,Shweta Kapoor,7,2026-06-08,2027-01-18,32,Active,Scrum,3200
+P1064,Oakridge Bank - Donor CRM Integration,Oakridge Bank,DCIC,US,Normal,Sameer Qureshi,7,2026-07-13,2026-11-30,20,Active,Kanban-ish,4680
+P1065,Ironbridge Manufacturing - Learning Platform,Ironbridge Manufacturing,LRNC,USA,Normal,Nikhil Arora,9,2026-09-07,2026-12-28,16,Active,Scrum,2928
+P1066,Evergreen University - Donor CRM Integration,Evergreen University,DCID,US,Normal,Anjali Saxena,6,2026-08-31,2026-12-21,16,Active,Scrum,3120
+P1067,Riverside Foundation - Claims Dashboard,Riverside Foundation,CLDH,United States,Normal,Deepak Pillai,3,2026-07-06,2026-12-28,25,Active,Scrum,4750

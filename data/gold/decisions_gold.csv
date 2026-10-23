@@ -1,0 +1,152 @@
+meeting_id,segment_id,speaker,evidence_quote,target_system,target_key,action,new_value,is_tentative
+MTG-0001,MTG-0001-003,Nikhil Arora,"Isko Blocked mein daal do, aur client ko mail karo.",Jira,HMP-5441,status_change,Blocked,False
+MTG-0001,MTG-0001-007,Nikhil Arora,Decision ye hai ki isko next sprint mein move karte hain.,Jira,HMP-5479,move_sprint,next sprint,False
+MTG-0001,MTG-0001-010,Nikhil Arora,"Ho sakta hai priority badhani pade, kal decide karte hain.",Jira,HMP-5475,tentative,,True
+MTG-0002,MTG-0002-003,Nikhil Arora,"Theek hai, sign-off aate hi isko Done mark kar do.",Jira,HMP-5468,status_change,Done,False
+MTG-0002,MTG-0002-010,Nikhil Arora,"Theek hai, sign-off aate hi isko Done mark kar do.",Jira,HMP-5475,status_change,Done,False
+MTG-0002,MTG-0002-013,Nikhil Arora,"Theek hai, sign-off aate hi isko Done mark kar do.",Jira,HMP-4016,status_change,Done,False
+MTG-0003,MTG-0003-003,Shweta Kapoor,"Theek hai, sign-off aate hi isko Done mark kar do.",Jira,DWMG-1252,status_change,Done,False
+MTG-0003,MTG-0003-012,Shweta Kapoor,"Okay, isko Done kar do, QA ne pass kar diya.",Jira,DWMG-1280,status_change,Done,False
+MTG-0004,MTG-0004-003,Shweta Kapoor,"Okay, isko Done kar do, QA ne pass kar diya.",Jira,DWMG-1280,status_change,Done,False
+MTG-0004,MTG-0004-007,Shweta Kapoor,Decision ye hai ki isko next sprint mein move karte hain.,Jira,DWMG-1311,move_sprint,next sprint,False
+MTG-0005,MTG-0005-003,Mark Davies,"Jake, tum isko le lo, Neha ke paas bandwidth nahi hai.",Jira,BKEE-1088,reassign,Jake Thompson,False
+MTG-0005,MTG-0005-006,Mark Davies,Iski due date Friday rakh do.,Jira,BKEE-1099,due_date,Friday,False
+MTG-0006,MTG-0006-004,Mark Davies,"Theek hai, sign-off aate hi isko Done mark kar do.",Jira,BKEE-1093,status_change,Done,False
+MTG-0006,MTG-0006-008,Mark Davies,"Shayad isko next sprint mein le jaana padega, dekhte hain.",Jira,BKEE-1088,tentative,,True
+MTG-0007,MTG-0007-003,Shweta Kapoor,"Okay, isko Done kar do, QA ne pass kar diya.",Jira,PTPC-240,status_change,Done,False
+MTG-0007,MTG-0007-006,Shweta Kapoor,"Ho sakta hai priority badhani pade, kal decide karte hain.",Jira,PTPC-244,tentative,,True
+MTG-0007,MTG-0007-014,Shweta Kapoor,"Ho sakta hai priority badhani pade, kal decide karte hain.",Jira,PTPC-258,tentative,,True
+MTG-0007,MTG-0007-018,Shweta Kapoor,"Divya, tum isko le lo, Manish ke paas bandwidth nahi hai.",Jira,PTPC-253,reassign,Divya Menon,False
+MTG-0008,MTG-0008-005,Shweta Kapoor,"Okay, isko Done kar do, QA ne pass kar diya.",Jira,PTPC-238,status_change,Done,False
+MTG-0008,MTG-0008-009,Shweta Kapoor,"Ho sakta hai priority badhani pade, kal decide karte hain.",Jira,PTPC-244,tentative,,True
+MTG-0009,MTG-0009-003,Sameer Qureshi,"Okay, isko Done kar do, QA ne pass kar diya.",Jira,DCIC-1527,status_change,Done,False
+MTG-0009,MTG-0009-007,Sameer Qureshi,Iski due date Friday rakh do.,Jira,DCIC-1530,due_date,Friday,False
+MTG-0010,MTG-0010-004,Sameer Qureshi,"Shayad isko next sprint mein le jaana padega, dekhte hain.",Jira,DCIC-1537,tentative,,True
+MTG-0010,MTG-0010-007,Sameer Qureshi,"Theek hai, sign-off aate hi isko Done mark kar do.",Jira,DCIC-1527,status_change,Done,False
+MTG-0010,MTG-0010-010,Sameer Qureshi,"Theek hai, sign-off aate hi isko Done mark kar do.",Jira,DCIC-1511,status_change,Done,False
+MTG-0010,MTG-0010-017,Sameer Qureshi,"Rohan, tum isko le lo, Daniel ke paas bandwidth nahi hai.",Jira,DCIC-1540,reassign,Rohan Mehta,False
+MTG-0010,MTG-0010-021,Sameer Qureshi,"Manish, tum isko le lo, Daniel ke paas bandwidth nahi hai.",Jira,DCIC-1529,reassign,Manish Yadav,False
+MTG-0011,MTG-0011-003,Nikhil Arora,"Isko Blocked mein daal do, aur client ko mail karo.",Jira,LRNC-1206,status_change,Blocked,False
+MTG-0011,MTG-0011-006,Nikhil Arora,"Ho sakta hai priority badhani pade, kal decide karte hain.",Jira,LRNC-1189,tentative,,True
+MTG-0012,MTG-0012-008,Nikhil Arora,"Okay, isko Done kar do, QA ne pass kar diya.",Jira,LRNC-1195,status_change,Done,False
+MTG-0012,MTG-0012-011,Nikhil Arora,"Theek hai, sign-off aate hi isko Done mark kar do.",Jira,LRNC-1189,status_change,Done,False
+MTG-0013,MTG-0013-003,Anjali Saxena,Iski due date Friday rakh do.,Jira,DCID-2440,due_date,Friday,False
+MTG-0013,MTG-0013-010,Anjali Saxena,"Theek hai, sign-off aate hi isko Done mark kar do.",Jira,DCID-2413,status_change,Done,False
+MTG-0014,MTG-0014-003,Anjali Saxena,Iski due date Friday rakh do.,Jira,DCID-2421,due_date,Friday,False
+MTG-0014,MTG-0014-007,Anjali Saxena,"Okay, isko Done kar do, QA ne pass kar diya.",Jira,DCID-2450,status_change,Done,False
+MTG-0014,MTG-0014-011,Anjali Saxena,"Okay, isko Done kar do, QA ne pass kar diya.",Jira,DCID-2440,status_change,Done,False
+MTG-0014,MTG-0014-014,Anjali Saxena,"Okay, isko Done kar do, QA ne pass kar diya.",Jira,DCID-2413,status_change,Done,False
+MTG-0014,MTG-0014-021,Anjali Saxena,"Theek hai, sign-off aate hi isko Done mark kar do.",Jira,DCID-2434,status_change,Done,False
+MTG-0015,MTG-0015-003,Deepak Pillai,Decision ye hai ki isko next sprint mein move karte hain.,Jira,CLDH-439,move_sprint,next sprint,False
+MTG-0016,MTG-0016-003,Deepak Pillai,"Theek hai, sign-off aate hi isko Done mark kar do.",Jira,CLDH-454,status_change,Done,False
+MTG-0016,MTG-0016-006,Deepak Pillai,"Theek hai, sign-off aate hi isko Done mark kar do.",Jira,CLDH-447,status_change,Done,False
+MTG-0016,MTG-0016-009,Deepak Pillai,"Okay, isko Done kar do, QA ne pass kar diya.",Jira,CLDH-422,status_change,Done,False
+MTG-0017,MTG-0017-006,Kiran Bhatia (PMO),"Theek hai, isko Yellow kar dete hain is week se.",i360,P1061,status_change,Yellow,False
+MTG-0018,MTG-0018-005,Nikhil Arora,Iski due date Friday rakh do.,Jira,HMP-5485,due_date,Friday,False
+MTG-0018,MTG-0018-010,Nikhil Arora,Iski due date Friday rakh do.,Jira,HMP-5470,due_date,Friday,False
+MTG-0019,MTG-0019-005,Nikhil Arora,"Okay, isko Done kar do, QA ne pass kar diya.",Jira,HMP-5484,status_change,Done,False
+MTG-0019,MTG-0019-008,Nikhil Arora,"Theek hai, sign-off aate hi isko Done mark kar do.",Jira,HMP-5470,status_change,Done,False
+MTG-0020,MTG-0020-004,Shweta Kapoor,"Okay, isko Done kar do, QA ne pass kar diya.",Jira,DWMG-1289,status_change,Done,False
+MTG-0020,MTG-0020-012,Shweta Kapoor,"Theek hai, sign-off aate hi isko Done mark kar do.",Jira,DWMG-1252,status_change,Done,False
+MTG-0021,MTG-0021-005,Shweta Kapoor,Iski due date Friday rakh do.,Jira,DWMG-1310,due_date,Friday,False
+MTG-0021,MTG-0021-013,Shweta Kapoor,"Sneha, tum isko le lo, Manish ke paas bandwidth nahi hai.",Jira,DWMG-1305,reassign,Sneha Patel,False
+MTG-0021,MTG-0021-017,Shweta Kapoor,Iski priority High kar do.,Jira,DWMG-1314,priority_change,High,False
+MTG-0021,MTG-0021-021,Shweta Kapoor,"Ho sakta hai priority badhani pade, kal decide karte hain.",Jira,DWMG-1311,tentative,,True
+MTG-0022,MTG-0022-007,Mark Davies,"Theek hai, sign-off aate hi isko Done mark kar do.",Jira,BKEE-1085,status_change,Done,False
+MTG-0022,MTG-0022-011,Mark Davies,"Theek hai, sign-off aate hi isko Done mark kar do.",Jira,BKEE-1100,status_change,Done,False
+MTG-0022,MTG-0022-015,Mark Davies,Iski due date Friday rakh do.,Jira,BKEE-1099,due_date,Friday,False
+MTG-0023,MTG-0023-004,Mark Davies,"Theek hai, sign-off aate hi isko Done mark kar do.",Jira,BKEE-1106,status_change,Done,False
+MTG-0023,MTG-0023-008,Mark Davies,Iski due date Friday rakh do.,Jira,BKEE-1099,due_date,Friday,False
+MTG-0023,MTG-0023-012,Mark Davies,"Shayad isko next sprint mein le jaana padega, dekhte hain.",Jira,BKEE-1086,tentative,,True
+MTG-0023,MTG-0023-016,Mark Davies,"Ho sakta hai priority badhani pade, kal decide karte hain.",Jira,BKEE-1087,tentative,,True
+MTG-0023,MTG-0023-020,Mark Davies,"Isko Blocked mein daal do, aur client ko mail karo.",Jira,BKEE-1098,status_change,Blocked,False
+MTG-0024,MTG-0024-008,Shweta Kapoor,"Theek hai, sign-off aate hi isko Done mark kar do.",Jira,PTPC-258,status_change,Done,False
+MTG-0024,MTG-0024-013,Shweta Kapoor,"Theek hai, sign-off aate hi isko Done mark kar do.",Jira,PTPC-252,status_change,Done,False
+MTG-0024,MTG-0024-016,Shweta Kapoor,"Laura, tum isko le lo, Sarah ke paas bandwidth nahi hai.",Jira,PTPC-241,reassign,Laura Mitchell,False
+MTG-0025,MTG-0025-006,Shweta Kapoor,"Okay, isko Done kar do, QA ne pass kar diya.",Jira,PTPC-247,status_change,Done,False
+MTG-0025,MTG-0025-009,Shweta Kapoor,"Okay, isko Done kar do, QA ne pass kar diya.",Jira,PTPC-237,status_change,Done,False
+MTG-0025,MTG-0025-014,Shweta Kapoor,"Theek hai, sign-off aate hi isko Done mark kar do.",Jira,PTPC-262,status_change,Done,False
+MTG-0025,MTG-0025-017,Shweta Kapoor,"Okay, isko Done kar do, QA ne pass kar diya.",Jira,PTPC-240,status_change,Done,False
+MTG-0025,MTG-0025-021,Shweta Kapoor,"Theek hai, sign-off aate hi isko Done mark kar do.",Jira,PTPC-238,status_change,Done,False
+MTG-0026,MTG-0026-007,Sameer Qureshi,Decision ye hai ki isko next sprint mein move karte hain.,Jira,DCIC-1530,move_sprint,next sprint,False
+MTG-0026,MTG-0026-013,Sameer Qureshi,"Okay, isko Done kar do, QA ne pass kar diya.",Jira,DCIC-1511,status_change,Done,False
+MTG-0027,MTG-0027-005,Sameer Qureshi,"Theek hai, sign-off aate hi isko Done mark kar do.",Jira,DCIC-1527,status_change,Done,False
+MTG-0027,MTG-0027-009,Sameer Qureshi,Iski priority High kar do.,Jira,DCIC-1537,priority_change,High,False
+MTG-0027,MTG-0027-013,Sameer Qureshi,Iski due date Friday rakh do.,Jira,DCIC-1524,due_date,Friday,False
+MTG-0027,MTG-0027-016,Sameer Qureshi,"Okay, isko Done kar do, QA ne pass kar diya.",Jira,DCIC-1540,status_change,Done,False
+MTG-0028,MTG-0028-003,Nikhil Arora,Decision ye hai ki isko next sprint mein move karte hain.,Jira,LRNC-1206,move_sprint,next sprint,False
+MTG-0028,MTG-0028-006,Nikhil Arora,"Theek hai, sign-off aate hi isko Done mark kar do.",Jira,LRNC-1195,status_change,Done,False
+MTG-0029,MTG-0029-006,Nikhil Arora,"Okay, isko Done kar do, QA ne pass kar diya.",Jira,LRNC-1259,status_change,Done,False
+MTG-0029,MTG-0029-012,Nikhil Arora,"Okay, isko Done kar do, QA ne pass kar diya.",Jira,LRNC-1266,status_change,Done,False
+MTG-0029,MTG-0029-015,Nikhil Arora,"Okay, isko Done kar do, QA ne pass kar diya.",Jira,LRNC-1206,status_change,Done,False
+MTG-0029,MTG-0029-018,Nikhil Arora,"Okay, isko Done kar do, QA ne pass kar diya.",Jira,LRNC-1249,status_change,Done,False
+MTG-0030,MTG-0030-003,Anjali Saxena,Decision ye hai ki isko next sprint mein move karte hain.,Jira,DCID-2421,move_sprint,next sprint,False
+MTG-0030,MTG-0030-006,Anjali Saxena,"Ho sakta hai priority badhani pade, kal decide karte hain.",Jira,DCID-2434,tentative,,True
+MTG-0030,MTG-0030-009,Anjali Saxena,Iski due date Friday rakh do.,Jira,DCID-2428,due_date,Friday,False
+MTG-0031,MTG-0031-003,Anjali Saxena,Iski due date Friday rakh do.,Jira,DCID-2455,due_date,Friday,False
+MTG-0031,MTG-0031-006,Anjali Saxena,Decision ye hai ki isko next sprint mein move karte hain.,Jira,DCID-2428,move_sprint,next sprint,False
+MTG-0031,MTG-0031-009,Anjali Saxena,"Shayad isko next sprint mein le jaana padega, dekhte hain.",Jira,DCID-2434,tentative,,True
+MTG-0034,MTG-0034-006,Kiran Bhatia (PMO),"Theek hai, isko Yellow kar dete hain is week se.",i360,P1061,status_change,Yellow,False
+MTG-0034,MTG-0034-010,Mark Davies,"Haan, par abhi green hi rakhte hain, next week dekhte hain. Client ko abhi escalate nahi karna.",i360,P1062,keep_status,Green,False
+MTG-0035,MTG-0035-004,Nikhil Arora,"Okay, isko Done kar do, QA ne pass kar diya.",Jira,HMP-5483,status_change,Done,False
+MTG-0035,MTG-0035-007,Nikhil Arora,"Iski priority High kar do, client ne escalate kiya hai.",Jira,HMP-4000,priority_change,High,False
+MTG-0035,MTG-0035-011,Nikhil Arora,Decision ye hai ki isko next sprint mein move karte hain.,Jira,HMP-5500,move_sprint,next sprint,False
+MTG-0035,MTG-0035-015,Nikhil Arora,Ticket pe comment daal do ki client dependency pending hai.,Jira,HMP-5486,add_comment,Waiting on client dependency,False
+MTG-0035,MTG-0035-019,Nikhil Arora,"Okay, isko Done kar do, QA ne pass kar diya.",Jira,HMP-5485,status_change,Done,False
+MTG-0036,MTG-0036-003,Nikhil Arora,"Okay, isko Done kar do, QA ne pass kar diya.",Jira,HMP-5485,status_change,Done,False
+MTG-0036,MTG-0036-006,Nikhil Arora,"Shayad isko next sprint mein le jaana padega, dekhte hain.",Jira,HMP-5486,tentative,,True
+MTG-0036,MTG-0036-009,Nikhil Arora,"Jake, tum isko le lo, Laura ke paas bandwidth nahi hai.",Jira,HMP-5500,reassign,Jake Thompson,False
+MTG-0037,MTG-0037-003,Shweta Kapoor,"Okay, isko Done kar do, QA ne pass kar diya.",Jira,DWMG-1280,status_change,Done,False
+MTG-0037,MTG-0037-006,Shweta Kapoor,"Theek hai, sign-off aate hi isko Done mark kar do.",Jira,DWMG-1289,status_change,Done,False
+MTG-0037,MTG-0037-012,Shweta Kapoor,"Okay, isko Done kar do, QA ne pass kar diya.",Jira,DWMG-1318,status_change,Done,False
+MTG-0038,MTG-0038-006,Shweta Kapoor,"Shayad isko next sprint mein le jaana padega, dekhte hain.",Jira,DWMG-1320,tentative,,True
+MTG-0038,MTG-0038-010,Shweta Kapoor,"Okay, isko Done kar do, QA ne pass kar diya.",Jira,DWMG-1252,status_change,Done,False
+MTG-0039,MTG-0039-004,Mark Davies,"Theek hai, sign-off aate hi isko Done mark kar do.",Jira,BKEE-1106,status_change,Done,False
+MTG-0039,MTG-0039-010,Mark Davies,"Iski priority High kar do, client ne escalate kiya hai.",Jira,BKEE-1086,priority_change,High,False
+MTG-0039,MTG-0039-013,Mark Davies,"Isko Blocked mein daal do, aur client ko mail karo.",Jira,BKEE-1098,status_change,Blocked,False
+MTG-0039,MTG-0039-018,Mark Davies,Iski priority High kar do.,Jira,BKEE-1087,priority_change,High,False
+MTG-0040,MTG-0040-003,Mark Davies,"Okay, isko Done kar do, QA ne pass kar diya.",Jira,BKEE-1106,status_change,Done,False
+MTG-0040,MTG-0040-007,Mark Davies,"Shayad isko next sprint mein le jaana padega, dekhte hain.",Jira,BKEE-1085,tentative,,True
+MTG-0040,MTG-0040-010,Mark Davies,Ticket pe comment daal do ki client dependency pending hai.,Jira,BKEE-1087,add_comment,Waiting on client dependency,False
+MTG-0040,MTG-0040-013,Mark Davies,Iski priority High kar do.,Jira,BKEE-1099,priority_change,High,False
+MTG-0040,MTG-0040-016,Mark Davies,"Iski priority High kar do, client ne escalate kiya hai.",Jira,BKEE-1086,priority_change,High,False
+MTG-0040,MTG-0040-020,Mark Davies,"Iski priority High kar do, client ne escalate kiya hai.",Jira,BKEE-1098,priority_change,High,False
+MTG-0041,MTG-0041-004,Shweta Kapoor,"Theek hai, sign-off aate hi isko Done mark kar do.",Jira,PTPC-248,status_change,Done,False
+MTG-0041,MTG-0041-009,Shweta Kapoor,Decision ye hai ki isko next sprint mein move karte hain.,Jira,PTPC-260,move_sprint,next sprint,False
+MTG-0041,MTG-0041-013,Shweta Kapoor,"Okay, isko Done kar do, QA ne pass kar diya.",Jira,PTPC-244,status_change,Done,False
+MTG-0041,MTG-0041-016,Shweta Kapoor,"Ho sakta hai priority badhani pade, kal decide karte hain.",Jira,PTPC-247,tentative,,True
+MTG-0042,MTG-0042-004,Shweta Kapoor,"Okay, isko Done kar do, QA ne pass kar diya.",Jira,PTPC-244,status_change,Done,False
+MTG-0042,MTG-0042-010,Shweta Kapoor,"Ho sakta hai priority badhani pade, kal decide karte hain.",Jira,PTPC-258,tentative,,True
+MTG-0042,MTG-0042-016,Shweta Kapoor,Iski priority High kar do.,Jira,PTPC-260,priority_change,High,False
+MTG-0043,MTG-0043-003,Sameer Qureshi,"Ho sakta hai priority badhani pade, kal decide karte hain.",Jira,DCIC-1540,tentative,,True
+MTG-0043,MTG-0043-007,Sameer Qureshi,"Iski priority High kar do, client ne escalate kiya hai.",Jira,DCIC-1553,priority_change,High,False
+MTG-0043,MTG-0043-011,Sameer Qureshi,"Shayad isko next sprint mein le jaana padega, dekhte hain.",Jira,DCIC-1537,tentative,,True
+MTG-0044,MTG-0044-004,Sameer Qureshi,Ticket pe comment daal do ki client dependency pending hai.,Jira,DCIC-1529,add_comment,Waiting on client dependency,False
+MTG-0044,MTG-0044-007,Sameer Qureshi,"Ho sakta hai priority badhani pade, kal decide karte hain.",Jira,DCIC-1562,tentative,,True
+MTG-0044,MTG-0044-013,Sameer Qureshi,"Rohan, tum isko le lo, Daniel ke paas bandwidth nahi hai.",Jira,DCIC-1563,reassign,Rohan Mehta,False
+MTG-0044,MTG-0044-016,Sameer Qureshi,Decision ye hai ki isko next sprint mein move karte hain.,Jira,DCIC-1530,move_sprint,next sprint,False
+MTG-0045,MTG-0045-003,Nikhil Arora,"Okay, isko Done kar do, QA ne pass kar diya.",Jira,LRNC-1245,status_change,Done,False
+MTG-0045,MTG-0045-007,Nikhil Arora,"Okay, isko Done kar do, QA ne pass kar diya.",Jira,LRNC-1274,status_change,Done,False
+MTG-0046,MTG-0046-003,Nikhil Arora,"Theek hai, sign-off aate hi isko Done mark kar do.",Jira,LRNC-1280,status_change,Done,False
+MTG-0046,MTG-0046-006,Nikhil Arora,"Okay, isko Done kar do, QA ne pass kar diya.",Jira,LRNC-1282,status_change,Done,False
+MTG-0046,MTG-0046-009,Nikhil Arora,Iski priority High kar do.,Jira,LRNC-1281,priority_change,High,False
+MTG-0047,MTG-0047-003,Anjali Saxena,"Siddharth, tum isko le lo, Daniel ke paas bandwidth nahi hai.",Jira,DCID-2421,reassign,Siddharth Jain,False
+MTG-0047,MTG-0047-006,Anjali Saxena,"Ho sakta hai priority badhani pade, kal decide karte hain.",Jira,DCID-2455,tentative,,True
+MTG-0047,MTG-0047-009,Anjali Saxena,Iski due date Friday rakh do.,Jira,DCID-2428,due_date,Friday,False
+MTG-0047,MTG-0047-012,Anjali Saxena,"Ishita, tum isko le lo, Rahul ke paas bandwidth nahi hai.",Jira,DCID-2467,reassign,Ishita Rao,False
+MTG-0047,MTG-0047-015,Anjali Saxena,"Shayad isko next sprint mein le jaana padega, dekhte hain.",Jira,DCID-2468,tentative,,True
+MTG-0047,MTG-0047-018,Anjali Saxena,"Ishita, tum isko le lo, Daniel ke paas bandwidth nahi hai.",Jira,DCID-2434,reassign,Ishita Rao,False
+MTG-0048,MTG-0048-005,Anjali Saxena,"Theek hai, sign-off aate hi isko Done mark kar do.",Jira,DCID-2464,status_change,Done,False
+MTG-0048,MTG-0048-008,Anjali Saxena,"Okay, isko Done kar do, QA ne pass kar diya.",Jira,DCID-2455,status_change,Done,False
+MTG-0048,MTG-0048-011,Anjali Saxena,Iski due date Friday rakh do.,Jira,DCID-2452,due_date,Friday,False
+MTG-0048,MTG-0048-017,Anjali Saxena,"Theek hai, sign-off aate hi isko Done mark kar do.",Jira,DCID-2457,status_change,Done,False
+MTG-0049,MTG-0049-003,Deepak Pillai,"Kavya, tum isko le lo, Varun ke paas bandwidth nahi hai.",Jira,CLDH-455,reassign,Kavya Iyer,False
+MTG-0049,MTG-0049-006,Deepak Pillai,Decision ye hai ki isko next sprint mein move karte hain.,Jira,CLDH-458,move_sprint,next sprint,False
+MTG-0050,MTG-0050-004,Deepak Pillai,Iski priority High kar do.,Jira,CLDH-455,priority_change,High,False
+MTG-0050,MTG-0050-008,Deepak Pillai,Decision ye hai ki isko next sprint mein move karte hain.,Jira,CLDH-458,move_sprint,next sprint,False
+MTG-0051,MTG-0051-006,Shweta Kapoor,"Haan, par abhi green hi rakhte hain, next week dekhte hain. Client ko abhi escalate nahi karna.",i360,P1061,keep_status,Green,False
+MTG-0051,MTG-0051-010,Mark Davies,"Haan, par abhi green hi rakhte hain, next week dekhte hain. Client ko abhi escalate nahi karna.",i360,P1062,keep_status,Green,False
+MTG-DEMO-001,MTG-DEMO-001-003,Nikhil Arora,"Iski priority High kar do, client demo mein ye dikhana hai.",Jira,HMP-5500,priority_change,High,False
+MTG-DEMO-001,MTG-DEMO-001-007,Nikhil Arora,"Theek hai, isko Blocked hi rakho aur ticket pe comment daal do ki SSO config client se pending hai.",Jira,HMP-4000,add_comment,SSO config pending from client IT,False
+MTG-DEMO-001,MTG-DEMO-001-008,Nikhil Arora,"Aur iska owner ab main hoon, main client se baat karunga.",Jira,HMP-4000,reassign,Nikhil Arora,False
+MTG-DEMO-001,MTG-DEMO-001-009,Nikhil Arora,"Shayad isko next sprint mein le jaana padega, Friday tak dekhte hain.",Jira,HMP-4000,tentative,,True

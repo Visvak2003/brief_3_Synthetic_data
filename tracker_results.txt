@@ -1,0 +1,44 @@
+Segments scored: 695  (chit-chat excluded)
+
+Standups (Jira tickets)
+  screen_only  accuracy = 54%
+  speech_only  accuracy = 58%
+  fused        accuracy = 80%
+  accuracy by screen situation:
+             screen_only speech_only fused    n
+    screen_mode                                    
+    aligned              89%         56%   83%  262
+    board_view           25%         80%   95%   44
+    divergent             1%         61%   79%   76
+    screen_ahead         57%         55%   86%   83
+    screen_lag           33%         56%   70%  172
+
+i360 reviews (projects)
+  screen_only  accuracy = 45%
+  speech_only  accuracy = 86%
+  fused        accuracy = 84%
+  accuracy by screen situation:
+            screen_only speech_only fused   n
+    screen_mode                                  
+    aligned             69%         94%   94%  36
+    divergent            0%        100%   75%   8
+    portfolio            0%        100%  100%   6
+    screen_lag          12%         25%   38%   8
+
+Fused: 112 segments with low confidence (<0.3) -> route to human review; accuracy on the rest = 87%
+
+Showcase meeting (screen shows HMP-5500 all the time):
+      segment_id                                                       spoken_text_true    topic screen_only    fused  screen_disagrees
+MTG-DEMO-001-000                      Okay sab log aa gaye? Screen share kar raha hoon.      NaN         NaN      NaN             False
+MTG-DEMO-001-001          Pehle HMP fifty five hundred dekhte hain, payment retry wala. HMP-5500    HMP-5500 HMP-5500             False
+MTG-DEMO-001-002 Haan, retry logic ho gaya hai, abhi unit tests likh raha hoon. Kal ... HMP-5500    HMP-5500 HMP-5500             False
+MTG-DEMO-001-003            Iski priority High kar do, client demo mein ye dikhana hai. HMP-5500    HMP-5500 HMP-5500             False
+MTG-DEMO-001-004      Accha, Sarah, woh chaar hazaar wala, login timeout. Uska kya hua? HMP-4000    HMP-5500 HMP-4000              True
+MTG-DEMO-001-005 Abhi bhi blocked hai. Client ki IT team ne SSO config nahi bheja, t... HMP-4000    HMP-5500 HMP-4000              True
+MTG-DEMO-001-006 Ye wahi issue hai jo fifty five hundred mein bhi aa sakta hai, paym... HMP-4000    HMP-5500 HMP-4000              True
+MTG-DEMO-001-007 Theek hai, isko Blocked hi rakho aur ticket pe comment daal do ki S... HMP-4000    HMP-5500 HMP-4000              True
+MTG-DEMO-001-008              Aur iska owner ab main hoon, main client se baat karunga. HMP-4000    HMP-5500 HMP-4000              True
+MTG-DEMO-001-009  Shayad isko next sprint mein le jaana padega, Friday tak dekhte hain. HMP-4000    HMP-5500 HMP-4000              True
+MTG-DEMO-001-010         Okay, wapas fifty five hundred pe, test environment ready hai? HMP-5500    HMP-5500 HMP-5500             False
+MTG-DEMO-001-011                                               Haan, staging ready hai. HMP-5500    HMP-5500 HMP-5500             False
+MTG-DEMO-001-012                                Theek hai, aaj ke liye itna hi. Thanks.      NaN    HMP-5500 HMP-5500             False
